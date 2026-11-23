@@ -1,0 +1,10145 @@
+{
+  "g1048_8th_title": {
+    "file": "g1048_8th_title.png",
+    "frame": {
+      "x": 1,
+      "y": 1,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_Newyear_Gatling": {
+    "file": "g1048_Newyear_Gatling.png",
+    "frame": {
+      "x": 34,
+      "y": 1,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_aerospace_axe": {
+    "file": "g1048_aerospace_axe.png",
+    "frame": {
+      "x": 67,
+      "y": 1,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_aerospace_bow_standby": {
+    "file": "g1048_aerospace_bow_standby.png",
+    "frame": {
+      "x": 100,
+      "y": 1,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_aerospace_pickaxe": {
+    "file": "g1048_aerospace_pickaxe.png",
+    "frame": {
+      "x": 133,
+      "y": 1,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_aerospace_sword_1": {
+    "file": "g1048_aerospace_sword_1.png",
+    "frame": {
+      "x": 166,
+      "y": 1,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_aerospace_sword_2": {
+    "file": "g1048_aerospace_sword_2.png",
+    "frame": {
+      "x": 199,
+      "y": 1,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_aerospace_sword_3": {
+    "file": "g1048_aerospace_sword_3.png",
+    "frame": {
+      "x": 232,
+      "y": 1,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_angel_axe": {
+    "file": "g1048_angel_axe.png",
+    "frame": {
+      "x": 265,
+      "y": 1,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_angel_bow_standby": {
+    "file": "g1048_angel_bow_standby.png",
+    "frame": {
+      "x": 298,
+      "y": 1,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_angel_pickaxe": {
+    "file": "g1048_angel_pickaxe.png",
+    "frame": {
+      "x": 331,
+      "y": 1,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_angel_sword": {
+    "file": "g1048_angel_sword.png",
+    "frame": {
+      "x": 364,
+      "y": 1,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_angel_sword_fork": {
+    "file": "g1048_angel_sword_fork.png",
+    "frame": {
+      "x": 397,
+      "y": 1,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_angel_sword_knife": {
+    "file": "g1048_angel_sword_knife.png",
+    "frame": {
+      "x": 430,
+      "y": 1,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_bear_axe": {
+    "file": "g1048_bear_axe.png",
+    "frame": {
+      "x": 463,
+      "y": 1,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_bear_bow": {
+    "file": "g1048_bear_bow.png",
+    "frame": {
+      "x": 496,
+      "y": 1,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_bear_pickaxe": {
+    "file": "g1048_bear_pickaxe.png",
+    "frame": {
+      "x": 529,
+      "y": 1,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_bear_sword_1": {
+    "file": "g1048_bear_sword_1.png",
+    "frame": {
+      "x": 562,
+      "y": 1,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_bear_sword_2": {
+    "file": "g1048_bear_sword_2.png",
+    "frame": {
+      "x": 595,
+      "y": 1,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_bear_sword_3": {
+    "file": "g1048_bear_sword_3.png",
+    "frame": {
+      "x": 628,
+      "y": 1,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_bee_axe": {
+    "file": "g1048_bee_axe.png",
+    "frame": {
+      "x": 661,
+      "y": 1,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_bee_bow": {
+    "file": "g1048_bee_bow.png",
+    "frame": {
+      "x": 694,
+      "y": 1,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_bee_pickaxe": {
+    "file": "g1048_bee_pickaxe.png",
+    "frame": {
+      "x": 727,
+      "y": 1,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_bee_sword_1": {
+    "file": "g1048_bee_sword_1.png",
+    "frame": {
+      "x": 760,
+      "y": 1,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_bee_sword_2": {
+    "file": "g1048_bee_sword_2.png",
+    "frame": {
+      "x": 793,
+      "y": 1,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_bee_sword_3": {
+    "file": "g1048_bee_sword_3.png",
+    "frame": {
+      "x": 826,
+      "y": 1,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_beetle_axe": {
+    "file": "g1048_beetle_axe.png",
+    "frame": {
+      "x": 859,
+      "y": 1,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_beetle_bow": {
+    "file": "g1048_beetle_bow.png",
+    "frame": {
+      "x": 892,
+      "y": 1,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_beetle_pickaxe": {
+    "file": "g1048_beetle_pickaxe.png",
+    "frame": {
+      "x": 925,
+      "y": 1,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_beetle_sword_1": {
+    "file": "g1048_beetle_sword_1.png",
+    "frame": {
+      "x": 958,
+      "y": 1,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_beetle_sword_2": {
+    "file": "g1048_beetle_sword_2.png",
+    "frame": {
+      "x": 991,
+      "y": 1,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_beetle_sword_3": {
+    "file": "g1048_beetle_sword_3.png",
+    "frame": {
+      "x": 1,
+      "y": 34,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_bg_souvenir_sword": {
+    "file": "g1048_bg_souvenir_sword.png",
+    "frame": {
+      "x": 34,
+      "y": 34,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_blackrose_axe": {
+    "file": "g1048_blackrose_axe.png",
+    "frame": {
+      "x": 67,
+      "y": 34,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_blackrose_bow": {
+    "file": "g1048_blackrose_bow.png",
+    "frame": {
+      "x": 100,
+      "y": 34,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_blackrose_pickaxe": {
+    "file": "g1048_blackrose_pickaxe.png",
+    "frame": {
+      "x": 133,
+      "y": 34,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_blackrose_sword_1": {
+    "file": "g1048_blackrose_sword_1.png",
+    "frame": {
+      "x": 166,
+      "y": 34,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_blackrose_sword_2": {
+    "file": "g1048_blackrose_sword_2.png",
+    "frame": {
+      "x": 199,
+      "y": 34,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_blackrose_sword_3": {
+    "file": "g1048_blackrose_sword_3.png",
+    "frame": {
+      "x": 232,
+      "y": 34,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_blood_knight_axe": {
+    "file": "g1048_blood_knight_axe.png",
+    "frame": {
+      "x": 265,
+      "y": 34,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_blood_knight_bow": {
+    "file": "g1048_blood_knight_bow.png",
+    "frame": {
+      "x": 298,
+      "y": 34,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_blood_knight_decorate": {
+    "file": "g1048_blood_knight_decorate.png",
+    "frame": {
+      "x": 331,
+      "y": 34,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_blood_knight_pickaxe": {
+    "file": "g1048_blood_knight_pickaxe.png",
+    "frame": {
+      "x": 364,
+      "y": 34,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_blood_knight_sword_1": {
+    "file": "g1048_blood_knight_sword_1.png",
+    "frame": {
+      "x": 397,
+      "y": 34,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_bone_knight_axe": {
+    "file": "g1048_bone_knight_axe.png",
+    "frame": {
+      "x": 430,
+      "y": 34,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_bone_knight_bow": {
+    "file": "g1048_bone_knight_bow.png",
+    "frame": {
+      "x": 463,
+      "y": 34,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_bone_knight_decorate": {
+    "file": "g1048_bone_knight_decorate.png",
+    "frame": {
+      "x": 496,
+      "y": 34,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_bone_knight_pickaxe": {
+    "file": "g1048_bone_knight_pickaxe.png",
+    "frame": {
+      "x": 529,
+      "y": 34,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_bone_knight_sword_1": {
+    "file": "g1048_bone_knight_sword_1.png",
+    "frame": {
+      "x": 562,
+      "y": 34,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_bronze_decorate": {
+    "file": "g1048_bronze_decorate.png",
+    "frame": {
+      "x": 595,
+      "y": 34,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_cloud_axe": {
+    "file": "g1048_cloud_axe.png",
+    "frame": {
+      "x": 628,
+      "y": 34,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_cloud_bow": {
+    "file": "g1048_cloud_bow.png",
+    "frame": {
+      "x": 661,
+      "y": 34,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_cloud_pickaxe": {
+    "file": "g1048_cloud_pickaxe.png",
+    "frame": {
+      "x": 694,
+      "y": 34,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_cloud_sword_1": {
+    "file": "g1048_cloud_sword_1.png",
+    "frame": {
+      "x": 727,
+      "y": 34,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_cloud_sword_2": {
+    "file": "g1048_cloud_sword_2.png",
+    "frame": {
+      "x": 760,
+      "y": 34,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_cloud_sword_3": {
+    "file": "g1048_cloud_sword_3.png",
+    "frame": {
+      "x": 793,
+      "y": 34,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_cross_flying_blade": {
+    "file": "g1048_cross_flying_blade.png",
+    "frame": {
+      "x": 826,
+      "y": 34,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_cthulhu_axe": {
+    "file": "g1048_cthulhu_axe.png",
+    "frame": {
+      "x": 859,
+      "y": 34,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_cthulhu_bow_standby": {
+    "file": "g1048_cthulhu_bow_standby.png",
+    "frame": {
+      "x": 892,
+      "y": 34,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_cthulhu_pickaxe": {
+    "file": "g1048_cthulhu_pickaxe.png",
+    "frame": {
+      "x": 925,
+      "y": 34,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_cthulhu_sword_1": {
+    "file": "g1048_cthulhu_sword_1.png",
+    "frame": {
+      "x": 958,
+      "y": 34,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_cthulhu_sword_2": {
+    "file": "g1048_cthulhu_sword_2.png",
+    "frame": {
+      "x": 991,
+      "y": 34,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_cthulhu_sword_3": {
+    "file": "g1048_cthulhu_sword_3.png",
+    "frame": {
+      "x": 1,
+      "y": 67,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_cyberpunk_decorate": {
+    "file": "g1048_cyberpunk_decorate.png",
+    "frame": {
+      "x": 34,
+      "y": 67,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_darth_vader_decorate": {
+    "file": "g1048_darth_vader_decorate.png",
+    "frame": {
+      "x": 67,
+      "y": 67,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_dice_gun": {
+    "file": "g1048_dice_gun.png",
+    "frame": {
+      "x": 100,
+      "y": 67,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_dinosaur_axe": {
+    "file": "g1048_dinosaur_axe.png",
+    "frame": {
+      "x": 133,
+      "y": 67,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_dinosaur_bow": {
+    "file": "g1048_dinosaur_bow.png",
+    "frame": {
+      "x": 166,
+      "y": 67,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_dinosaur_pickaxe": {
+    "file": "g1048_dinosaur_pickaxe.png",
+    "frame": {
+      "x": 199,
+      "y": 67,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_dinosaur_sword_1": {
+    "file": "g1048_dinosaur_sword_1.png",
+    "frame": {
+      "x": 232,
+      "y": 67,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_dinosaur_sword_2": {
+    "file": "g1048_dinosaur_sword_2.png",
+    "frame": {
+      "x": 265,
+      "y": 67,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_dinosaur_sword_3": {
+    "file": "g1048_dinosaur_sword_3.png",
+    "frame": {
+      "x": 298,
+      "y": 67,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_egypt_axe": {
+    "file": "g1048_egypt_axe.png",
+    "frame": {
+      "x": 331,
+      "y": 67,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_egypt_bow_standby": {
+    "file": "g1048_egypt_bow_standby.png",
+    "frame": {
+      "x": 364,
+      "y": 67,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_egypt_pickaxe": {
+    "file": "g1048_egypt_pickaxe.png",
+    "frame": {
+      "x": 397,
+      "y": 67,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_egypt_sword_1": {
+    "file": "g1048_egypt_sword_1.png",
+    "frame": {
+      "x": 430,
+      "y": 67,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_egypt_sword_2": {
+    "file": "g1048_egypt_sword_2.png",
+    "frame": {
+      "x": 463,
+      "y": 67,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_egypt_sword_3": {
+    "file": "g1048_egypt_sword_3.png",
+    "frame": {
+      "x": 496,
+      "y": 67,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_elf_axe": {
+    "file": "g1048_elf_axe.png",
+    "frame": {
+      "x": 529,
+      "y": 67,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_elf_bow": {
+    "file": "g1048_elf_bow.png",
+    "frame": {
+      "x": 562,
+      "y": 67,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_elf_pickaxe": {
+    "file": "g1048_elf_pickaxe.png",
+    "frame": {
+      "x": 595,
+      "y": 67,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_elf_sword_1": {
+    "file": "g1048_elf_sword_1.png",
+    "frame": {
+      "x": 628,
+      "y": 67,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_elf_sword_2": {
+    "file": "g1048_elf_sword_2.png",
+    "frame": {
+      "x": 661,
+      "y": 67,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_elf_sword_3": {
+    "file": "g1048_elf_sword_3.png",
+    "frame": {
+      "x": 694,
+      "y": 67,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_fangs_axe": {
+    "file": "g1048_fangs_axe.png",
+    "frame": {
+      "x": 727,
+      "y": 67,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_fangs_bow": {
+    "file": "g1048_fangs_bow.png",
+    "frame": {
+      "x": 760,
+      "y": 67,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_fangs_decorate": {
+    "file": "g1048_fangs_decorate.png",
+    "frame": {
+      "x": 793,
+      "y": 67,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_fangs_pickaxe": {
+    "file": "g1048_fangs_pickaxe.png",
+    "frame": {
+      "x": 826,
+      "y": 67,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_fangs_sword_1": {
+    "file": "g1048_fangs_sword_1.png",
+    "frame": {
+      "x": 859,
+      "y": 67,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_firefox_decorate": {
+    "file": "g1048_firefox_decorate.png",
+    "frame": {
+      "x": 892,
+      "y": 67,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_flame_axe": {
+    "file": "g1048_flame_axe.png",
+    "frame": {
+      "x": 925,
+      "y": 67,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_flame_bow_standby": {
+    "file": "g1048_flame_bow_standby.png",
+    "frame": {
+      "x": 958,
+      "y": 67,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_flame_knife_1": {
+    "file": "g1048_flame_knife_1.png",
+    "frame": {
+      "x": 991,
+      "y": 67,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_flame_knife_2": {
+    "file": "g1048_flame_knife_2.png",
+    "frame": {
+      "x": 1,
+      "y": 100,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_flame_pickaxe": {
+    "file": "g1048_flame_pickaxe.png",
+    "frame": {
+      "x": 34,
+      "y": 100,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_flame_sword": {
+    "file": "g1048_flame_sword.png",
+    "frame": {
+      "x": 67,
+      "y": 100,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_flytrap_axe": {
+    "file": "g1048_flytrap_axe.png",
+    "frame": {
+      "x": 100,
+      "y": 100,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_flytrap_bow": {
+    "file": "g1048_flytrap_bow.png",
+    "frame": {
+      "x": 133,
+      "y": 100,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_flytrap_pickaxe": {
+    "file": "g1048_flytrap_pickaxe.png",
+    "frame": {
+      "x": 166,
+      "y": 100,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_flytrap_sword_1": {
+    "file": "g1048_flytrap_sword_1.png",
+    "frame": {
+      "x": 199,
+      "y": 100,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_fools_carrotIron": {
+    "file": "g1048_fools_carrotIron.png",
+    "frame": {
+      "x": 232,
+      "y": 100,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_forest_axe": {
+    "file": "g1048_forest_axe.png",
+    "frame": {
+      "x": 265,
+      "y": 100,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_forest_bow_standby": {
+    "file": "g1048_forest_bow_standby.png",
+    "frame": {
+      "x": 298,
+      "y": 100,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_forest_flowersword": {
+    "file": "g1048_forest_flowersword.png",
+    "frame": {
+      "x": 331,
+      "y": 100,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_forest_pickaxe": {
+    "file": "g1048_forest_pickaxe.png",
+    "frame": {
+      "x": 364,
+      "y": 100,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_forest_sword": {
+    "file": "g1048_forest_sword.png",
+    "frame": {
+      "x": 397,
+      "y": 100,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_forest_vinesword": {
+    "file": "g1048_forest_vinesword.png",
+    "frame": {
+      "x": 430,
+      "y": 100,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_freeze_axe": {
+    "file": "g1048_freeze_axe.png",
+    "frame": {
+      "x": 463,
+      "y": 100,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_freeze_bow_standby": {
+    "file": "g1048_freeze_bow_standby.png",
+    "frame": {
+      "x": 496,
+      "y": 100,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_freeze_pickaxe": {
+    "file": "g1048_freeze_pickaxe.png",
+    "frame": {
+      "x": 529,
+      "y": 100,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_freeze_sword_1": {
+    "file": "g1048_freeze_sword_1.png",
+    "frame": {
+      "x": 562,
+      "y": 100,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_freeze_sword_2": {
+    "file": "g1048_freeze_sword_2.png",
+    "frame": {
+      "x": 595,
+      "y": 100,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_freeze_sword_3": {
+    "file": "g1048_freeze_sword_3.png",
+    "frame": {
+      "x": 628,
+      "y": 100,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_gem_knight_axe": {
+    "file": "g1048_gem_knight_axe.png",
+    "frame": {
+      "x": 661,
+      "y": 100,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_gem_knight_bow": {
+    "file": "g1048_gem_knight_bow.png",
+    "frame": {
+      "x": 694,
+      "y": 100,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_gem_knight_pickaxe": {
+    "file": "g1048_gem_knight_pickaxe.png",
+    "frame": {
+      "x": 727,
+      "y": 100,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_gem_knight_sword_1": {
+    "file": "g1048_gem_knight_sword_1.png",
+    "frame": {
+      "x": 760,
+      "y": 100,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_ghost_captain_decorate": {
+    "file": "g1048_ghost_captain_decorate.png",
+    "frame": {
+      "x": 793,
+      "y": 100,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_gold_gatling": {
+    "file": "g1048_gold_gatling.png",
+    "frame": {
+      "x": 826,
+      "y": 100,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_halloween_ghost_rider_sword_1": {
+    "file": "g1048_halloween_ghost_rider_sword_1.png",
+    "frame": {
+      "x": 859,
+      "y": 100,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_hideseek_coin": {
+    "file": "g1048_hideseek_coin.png",
+    "frame": {
+      "x": 892,
+      "y": 100,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_hideseek_title": {
+    "file": "g1048_hideseek_title.png",
+    "frame": {
+      "x": 925,
+      "y": 100,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_horse_coin": {
+    "file": "g1048_horse_coin.png",
+    "frame": {
+      "x": 958,
+      "y": 100,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_ice_prince_sword_1": {
+    "file": "g1048_ice_prince_sword_1.png",
+    "frame": {
+      "x": 991,
+      "y": 100,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_item_axe_1": {
+    "file": "g1048_item_axe_1.png",
+    "frame": {
+      "x": 1,
+      "y": 133,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_item_bag_t4": {
+    "file": "g1048_item_bag_t4.png",
+    "frame": {
+      "x": 34,
+      "y": 133,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_item_bow_halloween_standby": {
+    "file": "g1048_item_bow_halloween_standby.png",
+    "frame": {
+      "x": 67,
+      "y": 133,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_item_chaossword": {
+    "file": "g1048_item_chaossword.png",
+    "frame": {
+      "x": 100,
+      "y": 133,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_item_check_pickaxe": {
+    "file": "g1048_item_check_pickaxe.png",
+    "frame": {
+      "x": 133,
+      "y": 133,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_item_christmas_sword_candy": {
+    "file": "g1048_item_christmas_sword_candy.png",
+    "frame": {
+      "x": 166,
+      "y": 133,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_item_christmas_sword_tree": {
+    "file": "g1048_item_christmas_sword_tree.png",
+    "frame": {
+      "x": 199,
+      "y": 133,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_item_edit_scepter": {
+    "file": "g1048_item_edit_scepter.png",
+    "frame": {
+      "x": 232,
+      "y": 133,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_item_fighter_coin": {
+    "file": "g1048_item_fighter_coin.png",
+    "frame": {
+      "x": 265,
+      "y": 133,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_item_ice_coin": {
+    "file": "g1048_item_ice_coin.png",
+    "frame": {
+      "x": 298,
+      "y": 133,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_item_moonblade": {
+    "file": "g1048_item_moonblade.png",
+    "frame": {
+      "x": 331,
+      "y": 133,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_item_nightmare_axe": {
+    "file": "g1048_item_nightmare_axe.png",
+    "frame": {
+      "x": 364,
+      "y": 133,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_item_nightmare_bow_standby": {
+    "file": "g1048_item_nightmare_bow_standby.png",
+    "frame": {
+      "x": 397,
+      "y": 133,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_item_nightmare_pickaxe": {
+    "file": "g1048_item_nightmare_pickaxe.png",
+    "frame": {
+      "x": 430,
+      "y": 133,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_item_nightmare_sword": {
+    "file": "g1048_item_nightmare_sword.png",
+    "frame": {
+      "x": 463,
+      "y": 133,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_item_pass_ticket": {
+    "file": "g1048_item_pass_ticket.png",
+    "frame": {
+      "x": 496,
+      "y": 133,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_item_pickaxe_1": {
+    "file": "g1048_item_pickaxe_1.png",
+    "frame": {
+      "x": 529,
+      "y": 133,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_item_refining_stone13": {
+    "file": "g1048_item_refining_stone13.png",
+    "frame": {
+      "x": 562,
+      "y": 133,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_item_refining_stone14": {
+    "file": "g1048_item_refining_stone14.png",
+    "frame": {
+      "x": 595,
+      "y": 133,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_item_skysword": {
+    "file": "g1048_item_skysword.png",
+    "frame": {
+      "x": 628,
+      "y": 133,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_item_structural_scepter": {
+    "file": "g1048_item_structural_scepter.png",
+    "frame": {
+      "x": 661,
+      "y": 133,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_item_sunblade": {
+    "file": "g1048_item_sunblade.png",
+    "frame": {
+      "x": 694,
+      "y": 133,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_item_sword_ramadan_sickle": {
+    "file": "g1048_item_sword_ramadan_sickle.png",
+    "frame": {
+      "x": 727,
+      "y": 133,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_item_void_recycler": {
+    "file": "g1048_item_void_recycler.png",
+    "frame": {
+      "x": 760,
+      "y": 133,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_item_whitewolf_axe": {
+    "file": "g1048_item_whitewolf_axe.png",
+    "frame": {
+      "x": 793,
+      "y": 133,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_item_whitewolf_bow_standby": {
+    "file": "g1048_item_whitewolf_bow_standby.png",
+    "frame": {
+      "x": 826,
+      "y": 133,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_item_whitewolf_gloves": {
+    "file": "g1048_item_whitewolf_gloves.png",
+    "frame": {
+      "x": 859,
+      "y": 133,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_item_whitewolf_pickaxe": {
+    "file": "g1048_item_whitewolf_pickaxe.png",
+    "frame": {
+      "x": 892,
+      "y": 133,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_item_whitewolf_sawsword": {
+    "file": "g1048_item_whitewolf_sawsword.png",
+    "frame": {
+      "x": 925,
+      "y": 133,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_item_whitewolf_sword": {
+    "file": "g1048_item_whitewolf_sword.png",
+    "frame": {
+      "x": 958,
+      "y": 133,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_item_wish_ramadan_sword": {
+    "file": "g1048_item_wish_ramadan_sword.png",
+    "frame": {
+      "x": 991,
+      "y": 133,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_jupiter_title": {
+    "file": "g1048_jupiter_title.png",
+    "frame": {
+      "x": 1,
+      "y": 166,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_magic_swordman_axe": {
+    "file": "g1048_magic_swordman_axe.png",
+    "frame": {
+      "x": 34,
+      "y": 166,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_magic_swordman_bow": {
+    "file": "g1048_magic_swordman_bow.png",
+    "frame": {
+      "x": 67,
+      "y": 166,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_magic_swordman_decorate": {
+    "file": "g1048_magic_swordman_decorate.png",
+    "frame": {
+      "x": 100,
+      "y": 166,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_magic_swordman_pickaxe": {
+    "file": "g1048_magic_swordman_pickaxe.png",
+    "frame": {
+      "x": 133,
+      "y": 166,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_magic_swordman_sword_1": {
+    "file": "g1048_magic_swordman_sword_1.png",
+    "frame": {
+      "x": 166,
+      "y": 166,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_magic_swordman_sword_2": {
+    "file": "g1048_magic_swordman_sword_2.png",
+    "frame": {
+      "x": 199,
+      "y": 166,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_magic_swordman_sword_3": {
+    "file": "g1048_magic_swordman_sword_3.png",
+    "frame": {
+      "x": 232,
+      "y": 166,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_mars_title": {
+    "file": "g1048_mars_title.png",
+    "frame": {
+      "x": 265,
+      "y": 166,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_mercury_title": {
+    "file": "g1048_mercury_title.png",
+    "frame": {
+      "x": 298,
+      "y": 166,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_meteor_axe": {
+    "file": "g1048_meteor_axe.png",
+    "frame": {
+      "x": 331,
+      "y": 166,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_meteor_bow": {
+    "file": "g1048_meteor_bow.png",
+    "frame": {
+      "x": 364,
+      "y": 166,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_meteor_pickaxe": {
+    "file": "g1048_meteor_pickaxe.png",
+    "frame": {
+      "x": 397,
+      "y": 166,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_meteor_sword_1": {
+    "file": "g1048_meteor_sword_1.png",
+    "frame": {
+      "x": 430,
+      "y": 166,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_mummy_axe": {
+    "file": "g1048_mummy_axe.png",
+    "frame": {
+      "x": 463,
+      "y": 166,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_mummy_bow": {
+    "file": "g1048_mummy_bow.png",
+    "frame": {
+      "x": 496,
+      "y": 166,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_mummy_pickaxe": {
+    "file": "g1048_mummy_pickaxe.png",
+    "frame": {
+      "x": 529,
+      "y": 166,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_mummy_sword_1": {
+    "file": "g1048_mummy_sword_1.png",
+    "frame": {
+      "x": 562,
+      "y": 166,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_murloc_weapon_1": {
+    "file": "g1048_murloc_weapon_1.png",
+    "frame": {
+      "x": 595,
+      "y": 166,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_murloc_weapon_2": {
+    "file": "g1048_murloc_weapon_2.png",
+    "frame": {
+      "x": 628,
+      "y": 166,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_murloc_weapon_3": {
+    "file": "g1048_murloc_weapon_3.png",
+    "frame": {
+      "x": 661,
+      "y": 166,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_nebula_axe": {
+    "file": "g1048_nebula_axe.png",
+    "frame": {
+      "x": 694,
+      "y": 166,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_nebula_bow": {
+    "file": "g1048_nebula_bow.png",
+    "frame": {
+      "x": 727,
+      "y": 166,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_nebula_pickaxe": {
+    "file": "g1048_nebula_pickaxe.png",
+    "frame": {
+      "x": 760,
+      "y": 166,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_nebula_sword_1": {
+    "file": "g1048_nebula_sword_1.png",
+    "frame": {
+      "x": 793,
+      "y": 166,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_nebula_sword_2": {
+    "file": "g1048_nebula_sword_2.png",
+    "frame": {
+      "x": 826,
+      "y": 166,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_nebula_sword_3": {
+    "file": "g1048_nebula_sword_3.png",
+    "frame": {
+      "x": 859,
+      "y": 166,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_neptune_title": {
+    "file": "g1048_neptune_title.png",
+    "frame": {
+      "x": 892,
+      "y": 166,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_new_skyblock_title": {
+    "file": "g1048_new_skyblock_title.png",
+    "frame": {
+      "x": 925,
+      "y": 166,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_old_skyblock_title": {
+    "file": "g1048_old_skyblock_title.png",
+    "frame": {
+      "x": 958,
+      "y": 166,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_paladin_axe": {
+    "file": "g1048_paladin_axe.png",
+    "frame": {
+      "x": 991,
+      "y": 166,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_paladin_bow_standby": {
+    "file": "g1048_paladin_bow_standby.png",
+    "frame": {
+      "x": 1,
+      "y": 199,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_paladin_pickaxe": {
+    "file": "g1048_paladin_pickaxe.png",
+    "frame": {
+      "x": 34,
+      "y": 199,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_paladin_sword_2": {
+    "file": "g1048_paladin_sword_2.png",
+    "frame": {
+      "x": 67,
+      "y": 199,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_paladin_sword_3": {
+    "file": "g1048_paladin_sword_3.png",
+    "frame": {
+      "x": 100,
+      "y": 199,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_phoenix_title": {
+    "file": "g1048_phoenix_title.png",
+    "frame": {
+      "x": 133,
+      "y": 199,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_pioneers_title": {
+    "file": "g1048_pioneers_title.png",
+    "frame": {
+      "x": 166,
+      "y": 199,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_pixel_christmas_sword": {
+    "file": "g1048_pixel_christmas_sword.png",
+    "frame": {
+      "x": 199,
+      "y": 199,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_pixel_christmas_wand": {
+    "file": "g1048_pixel_christmas_wand.png",
+    "frame": {
+      "x": 232,
+      "y": 199,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_rabbit_axe": {
+    "file": "g1048_rabbit_axe.png",
+    "frame": {
+      "x": 265,
+      "y": 199,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_rabbit_bow": {
+    "file": "g1048_rabbit_bow.png",
+    "frame": {
+      "x": 298,
+      "y": 199,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_rabbit_pickaxe": {
+    "file": "g1048_rabbit_pickaxe.png",
+    "frame": {
+      "x": 331,
+      "y": 199,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_rabbit_sword_1": {
+    "file": "g1048_rabbit_sword_1.png",
+    "frame": {
+      "x": 364,
+      "y": 199,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_ramadan_axe": {
+    "file": "g1048_ramadan_axe.png",
+    "frame": {
+      "x": 397,
+      "y": 199,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_ramadan_bow": {
+    "file": "g1048_ramadan_bow.png",
+    "frame": {
+      "x": 430,
+      "y": 199,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_ramadan_pickaxe": {
+    "file": "g1048_ramadan_pickaxe.png",
+    "frame": {
+      "x": 463,
+      "y": 199,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_ramadan_sword_1": {
+    "file": "g1048_ramadan_sword_1.png",
+    "frame": {
+      "x": 496,
+      "y": 199,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_ramadan_sword_2": {
+    "file": "g1048_ramadan_sword_2.png",
+    "frame": {
+      "x": 529,
+      "y": 199,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_ramadan_sword_3": {
+    "file": "g1048_ramadan_sword_3.png",
+    "frame": {
+      "x": 562,
+      "y": 199,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_raven_axe": {
+    "file": "g1048_raven_axe.png",
+    "frame": {
+      "x": 595,
+      "y": 199,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_raven_bow": {
+    "file": "g1048_raven_bow.png",
+    "frame": {
+      "x": 628,
+      "y": 199,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_raven_pickaxe": {
+    "file": "g1048_raven_pickaxe.png",
+    "frame": {
+      "x": 661,
+      "y": 199,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_raven_sword_1": {
+    "file": "g1048_raven_sword_1.png",
+    "frame": {
+      "x": 694,
+      "y": 199,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_raven_sword_2": {
+    "file": "g1048_raven_sword_2.png",
+    "frame": {
+      "x": 727,
+      "y": 199,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_raven_sword_3": {
+    "file": "g1048_raven_sword_3.png",
+    "frame": {
+      "x": 760,
+      "y": 199,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_relic_axe": {
+    "file": "g1048_relic_axe.png",
+    "frame": {
+      "x": 793,
+      "y": 199,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_relic_bow": {
+    "file": "g1048_relic_bow.png",
+    "frame": {
+      "x": 826,
+      "y": 199,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_relic_pickaxe": {
+    "file": "g1048_relic_pickaxe.png",
+    "frame": {
+      "x": 859,
+      "y": 199,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_relic_sword_1": {
+    "file": "g1048_relic_sword_1.png",
+    "frame": {
+      "x": 892,
+      "y": 199,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_relic_sword_2": {
+    "file": "g1048_relic_sword_2.png",
+    "frame": {
+      "x": 925,
+      "y": 199,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_relic_sword_3": {
+    "file": "g1048_relic_sword_3.png",
+    "frame": {
+      "x": 958,
+      "y": 199,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_rift_diamond": {
+    "file": "g1048_rift_diamond.png",
+    "frame": {
+      "x": 991,
+      "y": 199,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_rift_sword": {
+    "file": "g1048_rift_sword.png",
+    "frame": {
+      "x": 1,
+      "y": 232,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_rose_sword": {
+    "file": "g1048_rose_sword.png",
+    "frame": {
+      "x": 34,
+      "y": 232,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_rose_wand": {
+    "file": "g1048_rose_wand.png",
+    "frame": {
+      "x": 67,
+      "y": 232,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_saturn_title": {
+    "file": "g1048_saturn_title.png",
+    "frame": {
+      "x": 100,
+      "y": 232,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_shadow_axe": {
+    "file": "g1048_shadow_axe.png",
+    "frame": {
+      "x": 133,
+      "y": 232,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_shadow_bow_standby": {
+    "file": "g1048_shadow_bow_standby.png",
+    "frame": {
+      "x": 166,
+      "y": 232,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_shadow_pickaxe": {
+    "file": "g1048_shadow_pickaxe.png",
+    "frame": {
+      "x": 199,
+      "y": 232,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_shadow_sword_1": {
+    "file": "g1048_shadow_sword_1.png",
+    "frame": {
+      "x": 232,
+      "y": 232,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_shadow_sword_2": {
+    "file": "g1048_shadow_sword_2.png",
+    "frame": {
+      "x": 265,
+      "y": 232,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_shadow_sword_3": {
+    "file": "g1048_shadow_sword_3.png",
+    "frame": {
+      "x": 298,
+      "y": 232,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_shark_axe": {
+    "file": "g1048_shark_axe.png",
+    "frame": {
+      "x": 331,
+      "y": 232,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_shark_bow": {
+    "file": "g1048_shark_bow.png",
+    "frame": {
+      "x": 364,
+      "y": 232,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_shark_pickaxe": {
+    "file": "g1048_shark_pickaxe.png",
+    "frame": {
+      "x": 397,
+      "y": 232,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_shark_sword_1": {
+    "file": "g1048_shark_sword_1.png",
+    "frame": {
+      "x": 430,
+      "y": 232,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_shark_sword_2": {
+    "file": "g1048_shark_sword_2.png",
+    "frame": {
+      "x": 463,
+      "y": 232,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_shark_sword_3": {
+    "file": "g1048_shark_sword_3.png",
+    "frame": {
+      "x": 496,
+      "y": 232,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_skyblock_lord_title_fade": {
+    "file": "g1048_skyblock_lord_title_fade.png",
+    "frame": {
+      "x": 529,
+      "y": 232,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_skyblock_lord_title_fade_rare": {
+    "file": "g1048_skyblock_lord_title_fade_rare.png",
+    "frame": {
+      "x": 562,
+      "y": 232,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_snowball_gun": {
+    "file": "g1048_snowball_gun.png",
+    "frame": {
+      "x": 595,
+      "y": 232,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_spider_axe": {
+    "file": "g1048_spider_axe.png",
+    "frame": {
+      "x": 628,
+      "y": 232,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_spider_bow": {
+    "file": "g1048_spider_bow.png",
+    "frame": {
+      "x": 661,
+      "y": 232,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_spider_pickaxe": {
+    "file": "g1048_spider_pickaxe.png",
+    "frame": {
+      "x": 694,
+      "y": 232,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_spider_sword_1": {
+    "file": "g1048_spider_sword_1.png",
+    "frame": {
+      "x": 727,
+      "y": 232,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_steampunk_axe": {
+    "file": "g1048_steampunk_axe.png",
+    "frame": {
+      "x": 760,
+      "y": 232,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_steampunk_bow_standby": {
+    "file": "g1048_steampunk_bow_standby.png",
+    "frame": {
+      "x": 793,
+      "y": 232,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_steampunk_pickaxe": {
+    "file": "g1048_steampunk_pickaxe.png",
+    "frame": {
+      "x": 826,
+      "y": 232,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_steampunk_sword_1": {
+    "file": "g1048_steampunk_sword_1.png",
+    "frame": {
+      "x": 859,
+      "y": 232,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_steampunk_sword_2": {
+    "file": "g1048_steampunk_sword_2.png",
+    "frame": {
+      "x": 892,
+      "y": 232,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_steampunk_sword_3": {
+    "file": "g1048_steampunk_sword_3.png",
+    "frame": {
+      "x": 925,
+      "y": 232,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_2024_christmas_sword": {
+    "file": "g1048_suit_2024_christmas_sword.png",
+    "frame": {
+      "x": 958,
+      "y": 232,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_apollo_sword_1": {
+    "file": "g1048_suit_apollo_sword_1.png",
+    "frame": {
+      "x": 991,
+      "y": 232,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_apollo_sword_2": {
+    "file": "g1048_suit_apollo_sword_2.png",
+    "frame": {
+      "x": 1,
+      "y": 265,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_aquaman_sword_2": {
+    "file": "g1048_suit_aquaman_sword_2.png",
+    "frame": {
+      "x": 34,
+      "y": 265,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_ares_sword_1": {
+    "file": "g1048_suit_ares_sword_1.png",
+    "frame": {
+      "x": 67,
+      "y": 265,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_ares_sword_2": {
+    "file": "g1048_suit_ares_sword_2.png",
+    "frame": {
+      "x": 100,
+      "y": 265,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_beelzebub_sword_1": {
+    "file": "g1048_suit_beelzebub_sword_1.png",
+    "frame": {
+      "x": 133,
+      "y": 265,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_beelzebub_sword_2": {
+    "file": "g1048_suit_beelzebub_sword_2.png",
+    "frame": {
+      "x": 166,
+      "y": 265,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_blood_knight_armor": {
+    "file": "g1048_suit_blood_knight_armor.png",
+    "frame": {
+      "x": 199,
+      "y": 265,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_blood_knight_head": {
+    "file": "g1048_suit_blood_knight_head.png",
+    "frame": {
+      "x": 232,
+      "y": 265,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_blood_knight_pants": {
+    "file": "g1048_suit_blood_knight_pants.png",
+    "frame": {
+      "x": 265,
+      "y": 265,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_blood_knight_shoes": {
+    "file": "g1048_suit_blood_knight_shoes.png",
+    "frame": {
+      "x": 298,
+      "y": 265,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_blood_knight_wing": {
+    "file": "g1048_suit_blood_knight_wing.png",
+    "frame": {
+      "x": 331,
+      "y": 265,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_bone_knight_armor": {
+    "file": "g1048_suit_bone_knight_armor.png",
+    "frame": {
+      "x": 364,
+      "y": 265,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_bone_knight_head": {
+    "file": "g1048_suit_bone_knight_head.png",
+    "frame": {
+      "x": 397,
+      "y": 265,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_bone_knight_pants": {
+    "file": "g1048_suit_bone_knight_pants.png",
+    "frame": {
+      "x": 430,
+      "y": 265,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_bone_knight_shoes": {
+    "file": "g1048_suit_bone_knight_shoes.png",
+    "frame": {
+      "x": 463,
+      "y": 265,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_bone_knight_wing": {
+    "file": "g1048_suit_bone_knight_wing.png",
+    "frame": {
+      "x": 496,
+      "y": 265,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_boss_dragon_weapon": {
+    "file": "g1048_suit_boss_dragon_weapon.png",
+    "frame": {
+      "x": 529,
+      "y": 265,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_boss_lava_weapon": {
+    "file": "g1048_suit_boss_lava_weapon.png",
+    "frame": {
+      "x": 562,
+      "y": 265,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_boss_samurai_weapon": {
+    "file": "g1048_suit_boss_samurai_weapon.png",
+    "frame": {
+      "x": 595,
+      "y": 265,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_boss_warden_weapon": {
+    "file": "g1048_suit_boss_warden_weapon.png",
+    "frame": {
+      "x": 628,
+      "y": 265,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_boss_wither_weapon": {
+    "file": "g1048_suit_boss_wither_weapon.png",
+    "frame": {
+      "x": 661,
+      "y": 265,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_bronze_armor": {
+    "file": "g1048_suit_bronze_armor.png",
+    "frame": {
+      "x": 694,
+      "y": 265,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_bronze_head": {
+    "file": "g1048_suit_bronze_head.png",
+    "frame": {
+      "x": 727,
+      "y": 265,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_bronze_pants": {
+    "file": "g1048_suit_bronze_pants.png",
+    "frame": {
+      "x": 760,
+      "y": 265,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_bronze_shoes": {
+    "file": "g1048_suit_bronze_shoes.png",
+    "frame": {
+      "x": 793,
+      "y": 265,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_bronze_wing": {
+    "file": "g1048_suit_bronze_wing.png",
+    "frame": {
+      "x": 826,
+      "y": 265,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_chione_sword_1": {
+    "file": "g1048_suit_chione_sword_1.png",
+    "frame": {
+      "x": 859,
+      "y": 265,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_chione_sword_2": {
+    "file": "g1048_suit_chione_sword_2.png",
+    "frame": {
+      "x": 892,
+      "y": 265,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_cyberpunk_armor": {
+    "file": "g1048_suit_cyberpunk_armor.png",
+    "frame": {
+      "x": 925,
+      "y": 265,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_cyberpunk_head": {
+    "file": "g1048_suit_cyberpunk_head.png",
+    "frame": {
+      "x": 958,
+      "y": 265,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_cyberpunk_pants": {
+    "file": "g1048_suit_cyberpunk_pants.png",
+    "frame": {
+      "x": 991,
+      "y": 265,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_cyberpunk_shoes": {
+    "file": "g1048_suit_cyberpunk_shoes.png",
+    "frame": {
+      "x": 1,
+      "y": 298,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_cyberpunk_wing": {
+    "file": "g1048_suit_cyberpunk_wing.png",
+    "frame": {
+      "x": 34,
+      "y": 298,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_darth_vader_armor": {
+    "file": "g1048_suit_darth_vader_armor.png",
+    "frame": {
+      "x": 67,
+      "y": 298,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_darth_vader_head": {
+    "file": "g1048_suit_darth_vader_head.png",
+    "frame": {
+      "x": 100,
+      "y": 298,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_darth_vader_pants": {
+    "file": "g1048_suit_darth_vader_pants.png",
+    "frame": {
+      "x": 133,
+      "y": 298,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_darth_vader_shoes": {
+    "file": "g1048_suit_darth_vader_shoes.png",
+    "frame": {
+      "x": 166,
+      "y": 298,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_darth_vader_wing": {
+    "file": "g1048_suit_darth_vader_wing.png",
+    "frame": {
+      "x": 199,
+      "y": 298,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_dragon_weapon": {
+    "file": "g1048_suit_dragon_weapon.png",
+    "frame": {
+      "x": 232,
+      "y": 298,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_envy_sword_1": {
+    "file": "g1048_suit_envy_sword_1.png",
+    "frame": {
+      "x": 265,
+      "y": 298,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_envy_sword_2": {
+    "file": "g1048_suit_envy_sword_2.png",
+    "frame": {
+      "x": 298,
+      "y": 298,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_fangs_armor": {
+    "file": "g1048_suit_fangs_armor.png",
+    "frame": {
+      "x": 331,
+      "y": 298,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_fangs_head": {
+    "file": "g1048_suit_fangs_head.png",
+    "frame": {
+      "x": 364,
+      "y": 298,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_fangs_pants": {
+    "file": "g1048_suit_fangs_pants.png",
+    "frame": {
+      "x": 397,
+      "y": 298,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_fangs_shoes": {
+    "file": "g1048_suit_fangs_shoes.png",
+    "frame": {
+      "x": 430,
+      "y": 298,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_fangs_wing": {
+    "file": "g1048_suit_fangs_wing.png",
+    "frame": {
+      "x": 463,
+      "y": 298,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_fenrir_sword_1": {
+    "file": "g1048_suit_fenrir_sword_1.png",
+    "frame": {
+      "x": 496,
+      "y": 298,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_fenrir_sword_2": {
+    "file": "g1048_suit_fenrir_sword_2.png",
+    "frame": {
+      "x": 529,
+      "y": 298,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_fighter_blue_armor": {
+    "file": "g1048_suit_fighter_blue_armor.png",
+    "frame": {
+      "x": 562,
+      "y": 298,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_fighter_blue_head": {
+    "file": "g1048_suit_fighter_blue_head.png",
+    "frame": {
+      "x": 595,
+      "y": 298,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_fighter_blue_pants": {
+    "file": "g1048_suit_fighter_blue_pants.png",
+    "frame": {
+      "x": 628,
+      "y": 298,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_fighter_blue_shoes": {
+    "file": "g1048_suit_fighter_blue_shoes.png",
+    "frame": {
+      "x": 661,
+      "y": 298,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_fighter_blue_wing": {
+    "file": "g1048_suit_fighter_blue_wing.png",
+    "frame": {
+      "x": 694,
+      "y": 298,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_fighter_red_armor": {
+    "file": "g1048_suit_fighter_red_armor.png",
+    "frame": {
+      "x": 727,
+      "y": 298,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_fighter_red_head": {
+    "file": "g1048_suit_fighter_red_head.png",
+    "frame": {
+      "x": 760,
+      "y": 298,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_fighter_red_pants": {
+    "file": "g1048_suit_fighter_red_pants.png",
+    "frame": {
+      "x": 793,
+      "y": 298,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_fighter_red_shoes": {
+    "file": "g1048_suit_fighter_red_shoes.png",
+    "frame": {
+      "x": 826,
+      "y": 298,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_fighter_red_wing": {
+    "file": "g1048_suit_fighter_red_wing.png",
+    "frame": {
+      "x": 859,
+      "y": 298,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_firefox_armor": {
+    "file": "g1048_suit_firefox_armor.png",
+    "frame": {
+      "x": 892,
+      "y": 298,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_firefox_head": {
+    "file": "g1048_suit_firefox_head.png",
+    "frame": {
+      "x": 925,
+      "y": 298,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_firefox_pants": {
+    "file": "g1048_suit_firefox_pants.png",
+    "frame": {
+      "x": 958,
+      "y": 298,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_firefox_shose": {
+    "file": "g1048_suit_firefox_shose.png",
+    "frame": {
+      "x": 991,
+      "y": 298,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_firefox_wing": {
+    "file": "g1048_suit_firefox_wing.png",
+    "frame": {
+      "x": 1,
+      "y": 331,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_ghost_captain_armor": {
+    "file": "g1048_suit_ghost_captain_armor.png",
+    "frame": {
+      "x": 34,
+      "y": 331,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_ghost_captain_head": {
+    "file": "g1048_suit_ghost_captain_head.png",
+    "frame": {
+      "x": 67,
+      "y": 331,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_ghost_captain_pants": {
+    "file": "g1048_suit_ghost_captain_pants.png",
+    "frame": {
+      "x": 100,
+      "y": 331,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_ghost_captain_shoes": {
+    "file": "g1048_suit_ghost_captain_shoes.png",
+    "frame": {
+      "x": 133,
+      "y": 331,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_ghost_captain_wing": {
+    "file": "g1048_suit_ghost_captain_wing.png",
+    "frame": {
+      "x": 166,
+      "y": 331,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_greed_sword_1": {
+    "file": "g1048_suit_greed_sword_1.png",
+    "frame": {
+      "x": 199,
+      "y": 331,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_greed_sword_2": {
+    "file": "g1048_suit_greed_sword_2.png",
+    "frame": {
+      "x": 232,
+      "y": 331,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_hades_sword_1": {
+    "file": "g1048_suit_hades_sword_1.png",
+    "frame": {
+      "x": 265,
+      "y": 331,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_hades_sword_2": {
+    "file": "g1048_suit_hades_sword_2.png",
+    "frame": {
+      "x": 298,
+      "y": 331,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_hel_sword_1": {
+    "file": "g1048_suit_hel_sword_1.png",
+    "frame": {
+      "x": 331,
+      "y": 331,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_hel_sword_2": {
+    "file": "g1048_suit_hel_sword_2.png",
+    "frame": {
+      "x": 364,
+      "y": 331,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_hephaestus_sword_1": {
+    "file": "g1048_suit_hephaestus_sword_1.png",
+    "frame": {
+      "x": 397,
+      "y": 331,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_hephaestus_sword_2": {
+    "file": "g1048_suit_hephaestus_sword_2.png",
+    "frame": {
+      "x": 430,
+      "y": 331,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_hermes_sword_1": {
+    "file": "g1048_suit_hermes_sword_1.png",
+    "frame": {
+      "x": 463,
+      "y": 331,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_hermes_sword_2": {
+    "file": "g1048_suit_hermes_sword_2.png",
+    "frame": {
+      "x": 496,
+      "y": 331,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_ice_prince_armor": {
+    "file": "g1048_suit_ice_prince_armor.png",
+    "frame": {
+      "x": 529,
+      "y": 331,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_ice_prince_head": {
+    "file": "g1048_suit_ice_prince_head.png",
+    "frame": {
+      "x": 562,
+      "y": 331,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_ice_prince_pants": {
+    "file": "g1048_suit_ice_prince_pants.png",
+    "frame": {
+      "x": 595,
+      "y": 331,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_ice_prince_shoes": {
+    "file": "g1048_suit_ice_prince_shoes.png",
+    "frame": {
+      "x": 628,
+      "y": 331,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_ice_prince_wing": {
+    "file": "g1048_suit_ice_prince_wing.png",
+    "frame": {
+      "x": 661,
+      "y": 331,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_iceslimeking_red_armor": {
+    "file": "g1048_suit_iceslimeking_red_armor.png",
+    "frame": {
+      "x": 694,
+      "y": 331,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_iceslimeking_red_head": {
+    "file": "g1048_suit_iceslimeking_red_head.png",
+    "frame": {
+      "x": 727,
+      "y": 331,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_iceslimeking_red_pants": {
+    "file": "g1048_suit_iceslimeking_red_pants.png",
+    "frame": {
+      "x": 760,
+      "y": 331,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_iceslimeking_red_shoes": {
+    "file": "g1048_suit_iceslimeking_red_shoes.png",
+    "frame": {
+      "x": 793,
+      "y": 331,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_iceslimeking_red_wing": {
+    "file": "g1048_suit_iceslimeking_red_wing.png",
+    "frame": {
+      "x": 826,
+      "y": 331,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_iceslimeking_weapon": {
+    "file": "g1048_suit_iceslimeking_weapon.png",
+    "frame": {
+      "x": 859,
+      "y": 331,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_jormungandr_sword_1": {
+    "file": "g1048_suit_jormungandr_sword_1.png",
+    "frame": {
+      "x": 892,
+      "y": 331,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_jormungandr_sword_2": {
+    "file": "g1048_suit_jormungandr_sword_2.png",
+    "frame": {
+      "x": 925,
+      "y": 331,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_judicator_sword_1": {
+    "file": "g1048_suit_judicator_sword_1.png",
+    "frame": {
+      "x": 958,
+      "y": 331,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_judicator_sword_2": {
+    "file": "g1048_suit_judicator_sword_2.png",
+    "frame": {
+      "x": 991,
+      "y": 331,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_jupiter_armor": {
+    "file": "g1048_suit_jupiter_armor.png",
+    "frame": {
+      "x": 1,
+      "y": 364,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_jupiter_head": {
+    "file": "g1048_suit_jupiter_head.png",
+    "frame": {
+      "x": 34,
+      "y": 364,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_jupiter_pants": {
+    "file": "g1048_suit_jupiter_pants.png",
+    "frame": {
+      "x": 67,
+      "y": 364,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_jupiter_shoes": {
+    "file": "g1048_suit_jupiter_shoes.png",
+    "frame": {
+      "x": 100,
+      "y": 364,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_jupiter_wing": {
+    "file": "g1048_suit_jupiter_wing.png",
+    "frame": {
+      "x": 133,
+      "y": 364,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_lust_sword_1": {
+    "file": "g1048_suit_lust_sword_1.png",
+    "frame": {
+      "x": 166,
+      "y": 364,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_lust_sword_2": {
+    "file": "g1048_suit_lust_sword_2.png",
+    "frame": {
+      "x": 199,
+      "y": 364,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_mars_armor": {
+    "file": "g1048_suit_mars_armor.png",
+    "frame": {
+      "x": 232,
+      "y": 364,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_mars_head": {
+    "file": "g1048_suit_mars_head.png",
+    "frame": {
+      "x": 265,
+      "y": 364,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_mars_pants": {
+    "file": "g1048_suit_mars_pants.png",
+    "frame": {
+      "x": 298,
+      "y": 364,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_mars_shoes": {
+    "file": "g1048_suit_mars_shoes.png",
+    "frame": {
+      "x": 331,
+      "y": 364,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_mars_sword_1": {
+    "file": "g1048_suit_mars_sword_1.png",
+    "frame": {
+      "x": 364,
+      "y": 364,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_mars_sword_2": {
+    "file": "g1048_suit_mars_sword_2.png",
+    "frame": {
+      "x": 397,
+      "y": 364,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_mars_wing": {
+    "file": "g1048_suit_mars_wing.png",
+    "frame": {
+      "x": 430,
+      "y": 364,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_medusa_sword_1": {
+    "file": "g1048_suit_medusa_sword_1.png",
+    "frame": {
+      "x": 463,
+      "y": 364,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_medusa_sword_2": {
+    "file": "g1048_suit_medusa_sword_2.png",
+    "frame": {
+      "x": 496,
+      "y": 364,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_mercury_armor": {
+    "file": "g1048_suit_mercury_armor.png",
+    "frame": {
+      "x": 529,
+      "y": 364,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_mercury_head": {
+    "file": "g1048_suit_mercury_head.png",
+    "frame": {
+      "x": 562,
+      "y": 364,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_mercury_pants": {
+    "file": "g1048_suit_mercury_pants.png",
+    "frame": {
+      "x": 595,
+      "y": 364,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_mercury_shoes": {
+    "file": "g1048_suit_mercury_shoes.png",
+    "frame": {
+      "x": 628,
+      "y": 364,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_mercury_sword_1": {
+    "file": "g1048_suit_mercury_sword_1.png",
+    "frame": {
+      "x": 661,
+      "y": 364,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_mercury_sword_2": {
+    "file": "g1048_suit_mercury_sword_2.png",
+    "frame": {
+      "x": 694,
+      "y": 364,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_mercury_wing": {
+    "file": "g1048_suit_mercury_wing.png",
+    "frame": {
+      "x": 727,
+      "y": 364,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_neptune_armor": {
+    "file": "g1048_suit_neptune_armor.png",
+    "frame": {
+      "x": 760,
+      "y": 364,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_neptune_head": {
+    "file": "g1048_suit_neptune_head.png",
+    "frame": {
+      "x": 793,
+      "y": 364,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_neptune_pants": {
+    "file": "g1048_suit_neptune_pants.png",
+    "frame": {
+      "x": 826,
+      "y": 364,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_neptune_shoes": {
+    "file": "g1048_suit_neptune_shoes.png",
+    "frame": {
+      "x": 859,
+      "y": 364,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_neptune_wing": {
+    "file": "g1048_suit_neptune_wing.png",
+    "frame": {
+      "x": 892,
+      "y": 364,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_novice_1_sword": {
+    "file": "g1048_suit_novice_1_sword.png",
+    "frame": {
+      "x": 925,
+      "y": 364,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_novice_2_sword": {
+    "file": "g1048_suit_novice_2_sword.png",
+    "frame": {
+      "x": 958,
+      "y": 364,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_novice_3_sword": {
+    "file": "g1048_suit_novice_3_sword.png",
+    "frame": {
+      "x": 991,
+      "y": 364,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_novice_angel_armor": {
+    "file": "g1048_suit_novice_angel_armor.png",
+    "frame": {
+      "x": 1,
+      "y": 397,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_novice_angel_head": {
+    "file": "g1048_suit_novice_angel_head.png",
+    "frame": {
+      "x": 34,
+      "y": 397,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_novice_angel_pants": {
+    "file": "g1048_suit_novice_angel_pants.png",
+    "frame": {
+      "x": 67,
+      "y": 397,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_novice_angel_shoes": {
+    "file": "g1048_suit_novice_angel_shoes.png",
+    "frame": {
+      "x": 100,
+      "y": 397,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_novice_angel_wing": {
+    "file": "g1048_suit_novice_angel_wing.png",
+    "frame": {
+      "x": 133,
+      "y": 397,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_phoenix_armor": {
+    "file": "g1048_suit_phoenix_armor.png",
+    "frame": {
+      "x": 166,
+      "y": 397,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_phoenix_head": {
+    "file": "g1048_suit_phoenix_head.png",
+    "frame": {
+      "x": 199,
+      "y": 397,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_phoenix_pants": {
+    "file": "g1048_suit_phoenix_pants.png",
+    "frame": {
+      "x": 232,
+      "y": 397,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_phoenix_shoes": {
+    "file": "g1048_suit_phoenix_shoes.png",
+    "frame": {
+      "x": 265,
+      "y": 397,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_phoenix_sword_1": {
+    "file": "g1048_suit_phoenix_sword_1.png",
+    "frame": {
+      "x": 298,
+      "y": 397,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_phoenix_sword_2": {
+    "file": "g1048_suit_phoenix_sword_2.png",
+    "frame": {
+      "x": 331,
+      "y": 397,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_phoenix_wing": {
+    "file": "g1048_suit_phoenix_wing.png",
+    "frame": {
+      "x": 364,
+      "y": 397,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_red_demon_sword_1": {
+    "file": "g1048_suit_red_demon_sword_1.png",
+    "frame": {
+      "x": 397,
+      "y": 397,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_saturn_armor": {
+    "file": "g1048_suit_saturn_armor.png",
+    "frame": {
+      "x": 430,
+      "y": 397,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_saturn_head": {
+    "file": "g1048_suit_saturn_head.png",
+    "frame": {
+      "x": 463,
+      "y": 397,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_saturn_pants": {
+    "file": "g1048_suit_saturn_pants.png",
+    "frame": {
+      "x": 496,
+      "y": 397,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_saturn_shoes": {
+    "file": "g1048_suit_saturn_shoes.png",
+    "frame": {
+      "x": 529,
+      "y": 397,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_saturn_wing": {
+    "file": "g1048_suit_saturn_wing.png",
+    "frame": {
+      "x": 562,
+      "y": 397,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_skullking_sword": {
+    "file": "g1048_suit_skullking_sword.png",
+    "frame": {
+      "x": 595,
+      "y": 397,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_sloth_sword_1": {
+    "file": "g1048_suit_sloth_sword_1.png",
+    "frame": {
+      "x": 628,
+      "y": 397,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_sloth_sword_2": {
+    "file": "g1048_suit_sloth_sword_2.png",
+    "frame": {
+      "x": 661,
+      "y": 397,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_terra_armor": {
+    "file": "g1048_suit_terra_armor.png",
+    "frame": {
+      "x": 694,
+      "y": 397,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_terra_head": {
+    "file": "g1048_suit_terra_head.png",
+    "frame": {
+      "x": 727,
+      "y": 397,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_terra_pants": {
+    "file": "g1048_suit_terra_pants.png",
+    "frame": {
+      "x": 760,
+      "y": 397,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_terra_shoes": {
+    "file": "g1048_suit_terra_shoes.png",
+    "frame": {
+      "x": 793,
+      "y": 397,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_terra_sword_1": {
+    "file": "g1048_suit_terra_sword_1.png",
+    "frame": {
+      "x": 826,
+      "y": 397,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_terra_sword_2": {
+    "file": "g1048_suit_terra_sword_2.png",
+    "frame": {
+      "x": 859,
+      "y": 397,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_terra_wing": {
+    "file": "g1048_suit_terra_wing.png",
+    "frame": {
+      "x": 892,
+      "y": 397,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_the_fool_armor": {
+    "file": "g1048_suit_the_fool_armor.png",
+    "frame": {
+      "x": 925,
+      "y": 397,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_the_fool_head": {
+    "file": "g1048_suit_the_fool_head.png",
+    "frame": {
+      "x": 958,
+      "y": 397,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_the_fool_pants": {
+    "file": "g1048_suit_the_fool_pants.png",
+    "frame": {
+      "x": 991,
+      "y": 397,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_the_fool_shoes": {
+    "file": "g1048_suit_the_fool_shoes.png",
+    "frame": {
+      "x": 1,
+      "y": 430,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_the_fool_wing": {
+    "file": "g1048_suit_the_fool_wing.png",
+    "frame": {
+      "x": 34,
+      "y": 430,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_thor_sword_1": {
+    "file": "g1048_suit_thor_sword_1.png",
+    "frame": {
+      "x": 67,
+      "y": 430,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_thor_sword_2": {
+    "file": "g1048_suit_thor_sword_2.png",
+    "frame": {
+      "x": 100,
+      "y": 430,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_uranus_armor": {
+    "file": "g1048_suit_uranus_armor.png",
+    "frame": {
+      "x": 133,
+      "y": 430,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_uranus_head": {
+    "file": "g1048_suit_uranus_head.png",
+    "frame": {
+      "x": 166,
+      "y": 430,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_uranus_pants": {
+    "file": "g1048_suit_uranus_pants.png",
+    "frame": {
+      "x": 199,
+      "y": 430,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_uranus_shoes": {
+    "file": "g1048_suit_uranus_shoes.png",
+    "frame": {
+      "x": 232,
+      "y": 430,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_uranus_wing": {
+    "file": "g1048_suit_uranus_wing.png",
+    "frame": {
+      "x": 265,
+      "y": 430,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_valkyrie_sword_1": {
+    "file": "g1048_suit_valkyrie_sword_1.png",
+    "frame": {
+      "x": 298,
+      "y": 430,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_valkyrie_sword_2": {
+    "file": "g1048_suit_valkyrie_sword_2.png",
+    "frame": {
+      "x": 331,
+      "y": 430,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_venus_armor": {
+    "file": "g1048_suit_venus_armor.png",
+    "frame": {
+      "x": 364,
+      "y": 430,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_venus_head": {
+    "file": "g1048_suit_venus_head.png",
+    "frame": {
+      "x": 397,
+      "y": 430,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_venus_pants": {
+    "file": "g1048_suit_venus_pants.png",
+    "frame": {
+      "x": 430,
+      "y": 430,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_venus_shoes": {
+    "file": "g1048_suit_venus_shoes.png",
+    "frame": {
+      "x": 463,
+      "y": 430,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_venus_sword_1": {
+    "file": "g1048_suit_venus_sword_1.png",
+    "frame": {
+      "x": 496,
+      "y": 430,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_venus_sword_2": {
+    "file": "g1048_suit_venus_sword_2.png",
+    "frame": {
+      "x": 529,
+      "y": 430,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_venus_wing": {
+    "file": "g1048_suit_venus_wing.png",
+    "frame": {
+      "x": 562,
+      "y": 430,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_wasteland_punk_armor": {
+    "file": "g1048_suit_wasteland_punk_armor.png",
+    "frame": {
+      "x": 595,
+      "y": 430,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_wasteland_punk_head": {
+    "file": "g1048_suit_wasteland_punk_head.png",
+    "frame": {
+      "x": 628,
+      "y": 430,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_wasteland_punk_pants": {
+    "file": "g1048_suit_wasteland_punk_pants.png",
+    "frame": {
+      "x": 661,
+      "y": 430,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_wasteland_punk_shoes": {
+    "file": "g1048_suit_wasteland_punk_shoes.png",
+    "frame": {
+      "x": 694,
+      "y": 430,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_wasteland_punk_wing": {
+    "file": "g1048_suit_wasteland_punk_wing.png",
+    "frame": {
+      "x": 727,
+      "y": 430,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_wind_ninja_armor": {
+    "file": "g1048_suit_wind_ninja_armor.png",
+    "frame": {
+      "x": 760,
+      "y": 430,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_wind_ninja_head": {
+    "file": "g1048_suit_wind_ninja_head.png",
+    "frame": {
+      "x": 793,
+      "y": 430,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_wind_ninja_pants": {
+    "file": "g1048_suit_wind_ninja_pants.png",
+    "frame": {
+      "x": 826,
+      "y": 430,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_wind_ninja_shoes": {
+    "file": "g1048_suit_wind_ninja_shoes.png",
+    "frame": {
+      "x": 859,
+      "y": 430,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_wind_ninja_wing": {
+    "file": "g1048_suit_wind_ninja_wing.png",
+    "frame": {
+      "x": 892,
+      "y": 430,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_wither_weapon": {
+    "file": "g1048_suit_wither_weapon.png",
+    "frame": {
+      "x": 925,
+      "y": 430,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_wrath_sword_1": {
+    "file": "g1048_suit_wrath_sword_1.png",
+    "frame": {
+      "x": 958,
+      "y": 430,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_wrath_sword_2": {
+    "file": "g1048_suit_wrath_sword_2.png",
+    "frame": {
+      "x": 991,
+      "y": 430,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_zeus_sword_1": {
+    "file": "g1048_suit_zeus_sword_1.png",
+    "frame": {
+      "x": 1,
+      "y": 463,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_suit_zeus_sword_2": {
+    "file": "g1048_suit_zeus_sword_2.png",
+    "frame": {
+      "x": 34,
+      "y": 463,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_summer_anchor_pickaxe": {
+    "file": "g1048_summer_anchor_pickaxe.png",
+    "frame": {
+      "x": 67,
+      "y": 463,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_summer_sword_ocean": {
+    "file": "g1048_summer_sword_ocean.png",
+    "frame": {
+      "x": 100,
+      "y": 463,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_summer_toy_sword": {
+    "file": "g1048_summer_toy_sword.png",
+    "frame": {
+      "x": 133,
+      "y": 463,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_talent_exp_1051": {
+    "file": "g1048_talent_exp_1051.png",
+    "frame": {
+      "x": 166,
+      "y": 463,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_talent_exp_1052": {
+    "file": "g1048_talent_exp_1052.png",
+    "frame": {
+      "x": 199,
+      "y": 463,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_talent_exp_1053": {
+    "file": "g1048_talent_exp_1053.png",
+    "frame": {
+      "x": 232,
+      "y": 463,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_talent_exp_1054": {
+    "file": "g1048_talent_exp_1054.png",
+    "frame": {
+      "x": 265,
+      "y": 463,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_talent_exp_1055": {
+    "file": "g1048_talent_exp_1055.png",
+    "frame": {
+      "x": 298,
+      "y": 463,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_talent_exp_1056": {
+    "file": "g1048_talent_exp_1056.png",
+    "frame": {
+      "x": 331,
+      "y": 463,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_terra_title": {
+    "file": "g1048_terra_title.png",
+    "frame": {
+      "x": 364,
+      "y": 463,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_the_fool_title": {
+    "file": "g1048_the_fool_title.png",
+    "frame": {
+      "x": 397,
+      "y": 463,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_title_pvp_apex_fighter": {
+    "file": "g1048_title_pvp_apex_fighter.png",
+    "frame": {
+      "x": 430,
+      "y": 463,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_title_pvp_prime_challenger": {
+    "file": "g1048_title_pvp_prime_challenger.png",
+    "frame": {
+      "x": 463,
+      "y": 463,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_title_pvp_rising_prospect": {
+    "file": "g1048_title_pvp_rising_prospect.png",
+    "frame": {
+      "x": 496,
+      "y": 463,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_uranus_title": {
+    "file": "g1048_uranus_title.png",
+    "frame": {
+      "x": 529,
+      "y": 463,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_vampire_axe": {
+    "file": "g1048_vampire_axe.png",
+    "frame": {
+      "x": 562,
+      "y": 463,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_vampire_bow_standby": {
+    "file": "g1048_vampire_bow_standby.png",
+    "frame": {
+      "x": 595,
+      "y": 463,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_vampire_pickaxe": {
+    "file": "g1048_vampire_pickaxe.png",
+    "frame": {
+      "x": 628,
+      "y": 463,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_vampire_sword_1": {
+    "file": "g1048_vampire_sword_1.png",
+    "frame": {
+      "x": 661,
+      "y": 463,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_vampire_sword_2": {
+    "file": "g1048_vampire_sword_2.png",
+    "frame": {
+      "x": 694,
+      "y": 463,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_vampire_sword_3": {
+    "file": "g1048_vampire_sword_3.png",
+    "frame": {
+      "x": 727,
+      "y": 463,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_venus_title": {
+    "file": "g1048_venus_title.png",
+    "frame": {
+      "x": 760,
+      "y": 463,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_warrior_axe": {
+    "file": "g1048_warrior_axe.png",
+    "frame": {
+      "x": 793,
+      "y": 463,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_warrior_bow_standby": {
+    "file": "g1048_warrior_bow_standby.png",
+    "frame": {
+      "x": 826,
+      "y": 463,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_warrior_pickaxe": {
+    "file": "g1048_warrior_pickaxe.png",
+    "frame": {
+      "x": 859,
+      "y": 463,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_warrior_sword_1": {
+    "file": "g1048_warrior_sword_1.png",
+    "frame": {
+      "x": 892,
+      "y": 463,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_warrior_sword_2": {
+    "file": "g1048_warrior_sword_2.png",
+    "frame": {
+      "x": 925,
+      "y": 463,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_warrior_sword_3": {
+    "file": "g1048_warrior_sword_3.png",
+    "frame": {
+      "x": 958,
+      "y": 463,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_wasteland_punk_decorate": {
+    "file": "g1048_wasteland_punk_decorate.png",
+    "frame": {
+      "x": 991,
+      "y": 463,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_waves_axe": {
+    "file": "g1048_waves_axe.png",
+    "frame": {
+      "x": 1,
+      "y": 496,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_waves_bow": {
+    "file": "g1048_waves_bow.png",
+    "frame": {
+      "x": 34,
+      "y": 496,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_waves_pickaxe": {
+    "file": "g1048_waves_pickaxe.png",
+    "frame": {
+      "x": 67,
+      "y": 496,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_waves_sword_1": {
+    "file": "g1048_waves_sword_1.png",
+    "frame": {
+      "x": 100,
+      "y": 496,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_whale_chest": {
+    "file": "g1048_whale_chest.png",
+    "frame": {
+      "x": 133,
+      "y": 496,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_whale_coin": {
+    "file": "g1048_whale_coin.png",
+    "frame": {
+      "x": 166,
+      "y": 496,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_whale_pearl": {
+    "file": "g1048_whale_pearl.png",
+    "frame": {
+      "x": 199,
+      "y": 496,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_whale_pearl_big": {
+    "file": "g1048_whale_pearl_big.png",
+    "frame": {
+      "x": 232,
+      "y": 496,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_wind_ninja_decorate": {
+    "file": "g1048_wind_ninja_decorate.png",
+    "frame": {
+      "x": 265,
+      "y": 496,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_zodiac_axe": {
+    "file": "g1048_zodiac_axe.png",
+    "frame": {
+      "x": 298,
+      "y": 496,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_zodiac_bow_sagittarius_standby": {
+    "file": "g1048_zodiac_bow_sagittarius_standby.png",
+    "frame": {
+      "x": 331,
+      "y": 496,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_zodiac_pickaxe": {
+    "file": "g1048_zodiac_pickaxe.png",
+    "frame": {
+      "x": 364,
+      "y": 496,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_zodiac_sword_aries": {
+    "file": "g1048_zodiac_sword_aries.png",
+    "frame": {
+      "x": 397,
+      "y": 496,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_zodiac_sword_scorpio": {
+    "file": "g1048_zodiac_sword_scorpio.png",
+    "frame": {
+      "x": 430,
+      "y": 496,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "g1048_zodiac_sword_taurus": {
+    "file": "g1048_zodiac_sword_taurus.png",
+    "frame": {
+      "x": 463,
+      "y": 496,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "pet_egg_gift": {
+    "file": "pet_egg_gift.png",
+    "frame": {
+      "x": 496,
+      "y": 496,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "pet_egg_new_year_2026": {
+    "file": "pet_egg_new_year_2026.png",
+    "frame": {
+      "x": 529,
+      "y": 496,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  },
+  "pet_egg_wukong": {
+    "file": "pet_egg_wukong.png",
+    "frame": {
+      "x": 562,
+      "y": 496,
+      "w": 32,
+      "h": 32
+    },
+    "offset": {
+      "x": 0,
+      "y": 0,
+      "w": 32,
+      "h": 32
+    },
+    "sourceSize": {
+      "w": 32,
+      "h": 32
+    },
+    "rotated": false,
+    "trimmed": false
+  }
+}

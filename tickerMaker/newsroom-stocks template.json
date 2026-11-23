@@ -1,0 +1,86 @@
+[
+  {
+    "category": "SWORDS",
+    "logo": "https://res.cloudinary.com/dq7q8hs8a/image/fetch/v1787151632/https://cdn.discordapp.com/avatars/1482418516568183017/f04cc7081bd36978fd20005110e9c6d6.png",
+    "items": [
+      {
+        "name": "AAPL",
+        "icon": "https://cdn-icons-png.flaticon.com/512/0/747.png",
+        "prevPrice": 220.5,
+        "currPrice": 232.1
+      },
+      {
+        "name": "NVDA",
+        "icon": "https://cdn-icons-png.flaticon.com/512/888/888841.png",
+        "prevPrice": 128,
+        "currPrice": 122.4
+      },
+      {
+        "name": "MSFT",
+        "icon": "https://cdn-icons-png.flaticon.com/512/732/732221.png",
+        "prevPrice": 410,
+        "currPrice": 425.8
+      }
+    ]
+  },
+  {
+    "category": "PLANTS",
+    "logo": "https://res.cloudinary.com/dq7q8hs8a/image/upload/v1785762847/tip_assets/roomrates/umi_shark.webp",
+    "items": [
+      {
+        "name": "WHEAT",
+        "icon": "tickerMaker/tiles/500001_wheat_seed.png",
+        "prevPrice": 6500000,
+        "currPrice": 7500000000
+      },
+      {
+        "name": "CORN",
+        "icon": "tickerMaker/tiles/500002_corn_seed.png",
+        "prevPrice": 100,
+        "currPrice": 99.98
+      },
+      {
+        "name": "CARROT",
+        "icon": "tickerMaker/tiles/500003_carrots_seed.png",
+        "prevPrice": 10057287,
+        "currPrice": 1007571
+      },
+      {
+        "name": "BAMBOO",
+        "icon": "tickerMaker/tiles/500004_sugar_cane_seed.png",
+        "prevPrice": 1022570,
+        "currPrice": 100272572
+      },
+      {
+        "name": "COTTON",
+        "icon": "tickerMaker/tiles/500005_cotton_seed.png",
+        "prevPrice": 100756378,
+        "currPrice": 678272100
+      },
+      {
+        "name": "STRAWBERRY",
+        "icon": "tickerMaker/tiles/500006_strawberry_seed.png",
+        "prevPrice": 100727,
+        "currPrice": 1867200
+      },
+      {
+        "name": "TOMATO",
+        "icon": "tickerMaker/tiles/500007_tomato_seed.png",
+        "prevPrice": 10058782573,
+        "currPrice": 1008767887
+      }
+    ]
+  },
+  {
+    "category": "ITEMS",
+    "logo": "https://res.cloudinary.com/dq7q8hs8a/image/upload/v1785762847/tip_assets/roomrates/umi_shark.webp",
+    "items": [
+      {
+        "name": "Christmas Tree",
+        "icon": "tickerMaker/tiles/christmas_tree.png",
+        "prevPrice": 100,
+        "currPrice": 105
+      }
+    ]
+  }
+]

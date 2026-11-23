@@ -1,0 +1,686 @@
+[
+  {
+    "category": "ARMORS",
+    "logo": "tickerMaker/classic/tiles/diamond_helmet.png",
+    "items": [
+      {
+        "name": "Wrath Demon 4/4",
+        "icon": "tickerMaker/tiles/g1048_suit_wrath_armor.png",
+        "prevPrice": 775000000,
+        "currPrice": 600000000
+      },
+      {
+        "name": "Wrath Demon 5/5",
+        "icon": "tickerMaker/tiles/g1048_suit_wrath_armor.png",
+        "prevPrice": 950000000,
+        "currPrice": 800000000
+      },
+      {
+        "name": "Saturn 4/4",
+        "icon": "tickerMaker/tiles/g1048_suit_saturn_armor.png",
+        "prevPrice": 800000000,
+        "currPrice": 600000000
+      },
+      {
+        "name": "Saturn 5/5",
+        "icon": "tickerMaker/tiles/g1048_suit_saturn_armor.png",
+        "prevPrice": 1050000000,
+        "currPrice": 725000000
+      },
+      {
+        "name": "Winter 4/4",
+        "icon": "tickerMaker/tiles/g1048_suit_chione_armor.png",
+        "prevPrice": 700000000,
+        "currPrice": 725000000
+      },
+      {
+        "name": "Envy 4/4",
+        "icon": "tickerMaker/tiles/g1048_suit_envy_armor.png",
+        "prevPrice": 170000000,
+        "currPrice": 175000000
+      },
+      {
+        "name": "Meow Set 4/4",
+        "icon": "tickerMaker/tiles/g1048_cat_armor_armor.png",
+        "prevPrice": 125000000,
+        "currPrice": 110000000
+      },
+      {
+        "name": "Meow Set 5/5",
+        "icon": "tickerMaker/tiles/g1048_cat_armor_armor.png",
+        "prevPrice": 165000000,
+        "currPrice": 150000000
+      },
+      {
+        "name": "Hades 4/4",
+        "icon": "tickerMaker/tiles/g1048_suit_hades_armor.png",
+        "prevPrice": 300000000,
+        "currPrice": 350000000
+      },
+      {
+        "name": "Phoenix 5/5",
+        "icon": "tickerMaker/tiles/g1048_suit_phoenix_armor.png",
+        "prevPrice": 450000000,
+        "currPrice": 425000000
+      },
+      {
+        "name": "Venus 5/5",
+        "icon": "tickerMaker/tiles/g1048_suit_venus_armor.png",
+        "prevPrice": 550000000,
+        "currPrice": 525000000
+      },
+      {
+        "name": "Terra 4/4",
+        "icon": "tickerMaker/tiles/g1048_suit_terra_armor.png",
+        "prevPrice": 1100000000,
+        "currPrice": 1050000000
+      },
+      {
+        "name": "Terra 5/5",
+        "icon": "tickerMaker/tiles/g1048_suit_terra_armor.png",
+        "prevPrice": 1400000000,
+        "currPrice": 1350000000
+      },
+      {
+        "name": "Uranus 4/4",
+        "icon": "tickerMaker/tiles/g1048_suit_uranus_armor.png",
+        "prevPrice": 400000000,
+        "currPrice": 300000000
+      },
+      {
+        "name": "Neptune 4/4",
+        "icon": "tickerMaker/tiles/g1048_suit_neptune_armor.png",
+        "prevPrice": 300000000,
+        "currPrice": 400000000
+      },
+      {
+        "name": "Neptune 5/5",
+        "icon": "tickerMaker/tiles/g1048_suit_neptune_armor.png",
+        "prevPrice": 450000000,
+        "currPrice": 550000000
+      }
+    ]
+  },
+  {
+    "category": "WEAPONS",
+    "logo": "tickerMaker/classic/tiles/diamond_sword.png",
+    "items": [
+      {
+        "name": "Apollo Sword",
+        "icon": "tickerMaker/tiles/g1048_suit_apollo_sword_1.png",
+        "prevPrice": 290000000,
+        "currPrice": 275000000
+      },
+      {
+        "name": "Apollo Sword (RR)",
+        "icon": "tickerMaker/tiles/g1048_suit_apollo_sword_2.png",
+        "prevPrice": 2600000000,
+        "currPrice": 2400000000
+      },
+      {
+        "name": "Jormungandr Sword (RR)",
+        "icon": "tickerMaker/tiles/g1048_suit_jormungandr_sword_2.png",
+        "prevPrice": 1450000000,
+        "currPrice": 1400000000
+      },
+      {
+        "name": "Mjollnir",
+        "icon": "tickerMaker/tiles/g1048_suit_thor_sword_1.png",
+        "prevPrice": 320000000,
+        "currPrice": 275000000
+      },
+      {
+        "name": "Mjollnir (RR)",
+        "icon": "tickerMaker/tiles/g1048_suit_thor_sword_2.png",
+        "prevPrice": 2400000000,
+        "currPrice": 2300000000
+      },
+      {
+        "name": "Wrath Sword",
+        "icon": "tickerMaker/tiles/g1048_suit_wrath_sword_1.png",
+        "prevPrice": 825000000,
+        "currPrice": 775000000
+      },
+      {
+        "name": "Wrath Sword (RR)",
+        "icon": "tickerMaker/tiles/g1048_suit_wrath_sword_2.png",
+        "prevPrice": 7250000000,
+        "currPrice": 6250000000
+      },
+      {
+        "name": "Lust Sword (RR)",
+        "icon": "tickerMaker/tiles/g1048_suit_lust_sword_2.png",
+        "prevPrice": 1950000000,
+        "currPrice": 1850000000
+      },
+      {
+        "name": "Mars Spear (RR)",
+        "icon": "tickerMaker/tiles/g1048_suit_mars_sword_2.png",
+        "prevPrice": 1850000000,
+        "currPrice": 1800000000
+      },
+      {
+        "name": "Venus Mace (RR)",
+        "icon": "tickerMaker/tiles/g1048_suit_venus_sword_2.png",
+        "prevPrice": 9250000000,
+        "currPrice": 8750000000
+      },
+      {
+        "name": "Terra Sword",
+        "icon": "tickerMaker/tiles/g1048_suit_terra_sword_1.png",
+        "prevPrice": 915000000,
+        "currPrice": 675000000
+      },
+      {
+        "name": "Terra Sword (RR)",
+        "icon": "tickerMaker/tiles/g1048_suit_terra_sword_2.png",
+        "prevPrice": 9450000000,
+        "currPrice": 8250000000
+      },
+      {
+        "name": "Uranus Claws",
+        "icon": "tickerMaker/tiles/g1048_suit_uranus_armor.png",
+        "prevPrice": 925000000,
+        "currPrice": 790000000
+      },
+      {
+        "name": "Uranus Claws (RR)",
+        "icon": "tickerMaker/tiles/g1048_suit_uranus_armor.png",
+        "prevPrice": 9750000000,
+        "currPrice": 8000000000
+      },
+      {
+        "name": "Neptune Trident (RR)",
+        "icon": "tickerMaker/tiles/g1048_suit_neptune_armor.png",
+        "prevPrice": 1700000000,
+        "currPrice": 1500000000
+      },
+      {
+        "name": "Hermes Sword (RR)",
+        "icon": "tickerMaker/tiles/g1048_suit_hermes_sword_1.png",
+        "prevPrice": 1600000000,
+        "currPrice": 1550000000
+      },
+      {
+        "name": "Flame Excalibur",
+        "icon": "tickerMaker/tiles/g1048_flame_sword.png",
+        "prevPrice": 185000000,
+        "currPrice": 185000000
+      },
+      {
+        "name": "Gluttony Blade (RR)",
+        "icon": "tickerMaker/tiles/g1048_suit_greed_sword_2.png",
+        "prevPrice": 1900000000,
+        "currPrice": 1900000000
+      },
+      {
+        "name": "Neptune Trident",
+        "icon": "tickerMaker/tiles/g1048_suit_neptune_armor.png",
+        "prevPrice": 170000000,
+        "currPrice": 160000000
+      },
+      {
+        "name": "Jupiter Spear",
+        "icon": "tickerMaker/tiles/g1048_suit_jupiter_armor.png",
+        "prevPrice": 325000000,
+        "currPrice": 200000000
+      },
+      {
+        "name": "Jupiter Spear (RR)",
+        "icon": "tickerMaker/tiles/g1048_suit_jupiter_armor.png",
+        "prevPrice": 3200000000,
+        "currPrice": 2250000000
+      },
+      {
+        "name": "Fool's Sword",
+        "icon": "tickerMaker/tiles/g1048_suit_the_fool_armor.png",
+        "prevPrice": 525000000,
+        "currPrice": 475000000
+      },
+      {
+        "name": "Fool's Sword (RR)",
+        "icon": "tickerMaker/tiles/g1048_suit_the_fool_armor.png",
+        "prevPrice": 5100000000,
+        "currPrice": 4650000000
+      },
+      {
+        "name": "Ares Shield",
+        "icon": "tickerMaker/tiles/g1048_suit_ares_shield.png",
+        "prevPrice": 32500000,
+        "currPrice": 30000000
+      },
+      {
+        "name": "Sp Shield",
+        "icon": "tickerMaker/tiles/g1048_ashcan_shield.png",
+        "prevPrice": 42500000,
+        "currPrice": 40000000
+      },
+      {
+        "name": "Nightmare Shield",
+        "icon": "tickerMaker/tiles/g1048_item_nightmare_shield.png",
+        "prevPrice": 27500000,
+        "currPrice": 30000000
+      },
+      {
+        "name": "Og Gatling",
+        "icon": "tickerMaker/tiles/g1048_gatling.png",
+        "prevPrice": 70000000,
+        "currPrice": 110000000
+      },
+      {
+        "name": "Gold Gatling",
+        "icon": "tickerMaker/tiles/g1048_gold_gatling.png",
+        "prevPrice": 80000000,
+        "currPrice": 135000000
+      },
+      {
+        "name": "Zeus Lightning (RR)",
+        "icon": "tickerMaker/tiles/g1048_suit_zeus_sword_2.png",
+        "prevPrice": 2100000000,
+        "currPrice": 1850000000
+      },
+      {
+        "name": "Hades Sword (RR)",
+        "icon": "tickerMaker/tiles/g1048_suit_hades_sword_2.png",
+        "prevPrice": 2000000000,
+        "currPrice": 1950000000
+      },
+      {
+        "name": "Ares Spear (RR)",
+        "icon": "tickerMaker/tiles/g1048_suit_ares_sword_2.png",
+        "prevPrice": 2650000000,
+        "currPrice": 2400000000
+      },
+      {
+        "name": "Fenrir Sword (RR)",
+        "icon": "tickerMaker/tiles/g1048_suit_fenrir_sword_2.png",
+        "prevPrice": 1100000000,
+        "currPrice": 1050000000
+      },
+      {
+        "name": "Valkyrie Sword",
+        "icon": "tickerMaker/tiles/g1048_suit_valkyrie_sword_1.png",
+        "prevPrice": 350000000,
+        "currPrice": 325000000
+      },
+      {
+        "name": "Valkyrie Sword (RR)",
+        "icon": "tickerMaker/tiles/g1048_suit_valkyrie_sword_2.png",
+        "prevPrice": 4700000000,
+        "currPrice": 4000000000
+      },
+      {
+        "name": "Helheim Sword (RR)",
+        "icon": "tickerMaker/tiles/g1048_suit_hel_sword_2.png",
+        "prevPrice": 1400000000,
+        "currPrice": 1350000000
+      },
+      {
+        "name": "Envy Sword",
+        "icon": "tickerMaker/tiles/g1048_suit_envy_sword_1.png",
+        "prevPrice": 775000000,
+        "currPrice": 675000000
+      },
+      {
+        "name": "Envy Sword (RR)",
+        "icon": "tickerMaker/tiles/g1048_suit_envy_sword_2.png",
+        "prevPrice": 7000000000,
+        "currPrice": 6500000000
+      },
+      {
+        "name": "Greed Scythe",
+        "icon": "tickerMaker/tiles/g1048_suit_greed_sword_1.png",
+        "prevPrice": 450000000,
+        "currPrice": 415000000
+      },
+      {
+        "name": "Greed Scythe (RR)",
+        "icon": "tickerMaker/tiles/g1048_suit_greed_sword_2.png",
+        "prevPrice": 4200000000,
+        "currPrice": 4000000000
+      },
+      {
+        "name": "Judgment Sword (RR)",
+        "icon": "tickerMaker/tiles/g1048_suit_judicator_sword_2.png",
+        "prevPrice": 2000000000,
+        "currPrice": 1850000000
+      },
+      {
+        "name": "Phoenix Sword",
+        "icon": "tickerMaker/tiles/g1048_suit_phoenix_sword_1.png",
+        "prevPrice": 325000000,
+        "currPrice": 300000000
+      },
+      {
+        "name": "Phoenix Sword (RR)",
+        "icon": "tickerMaker/tiles/g1048_suit_phoenix_sword_2.png",
+        "prevPrice": 3250000000,
+        "currPrice": 2750000000
+      },
+      {
+        "name": "Mercurius Rapier",
+        "icon": "tickerMaker/tiles/g1048_suit_mercury_sword_1.png",
+        "prevPrice": 200000000,
+        "currPrice": 195000000
+      },
+      {
+        "name": "Mercurius Rapier (RR)",
+        "icon": "tickerMaker/tiles/g1048_suit_mercury_sword_2.png",
+        "prevPrice": 1900000000,
+        "currPrice": 1850000000
+      }
+    ]
+  },
+  {
+    "category": "TITLES",
+    "logo": "tickerMaker/classic/tiles/diamond.png",
+    "items": [
+      {
+        "name": "Gluttony TT",
+        "icon": "tickerMaker/tiles/g1048_greed_title.png",
+        "prevPrice": 1650000000,
+        "currPrice": 1650000000
+      },
+      {
+        "name": "Wrath TT",
+        "icon": "tickerMaker/tiles/g1048_wrath_title.png",
+        "prevPrice": 1050000000,
+        "currPrice": 1050000000
+      },
+      {
+        "name": "Lust TT",
+        "icon": "tickerMaker/tiles/g1048_lust_title.png",
+        "prevPrice": 1250000000,
+        "currPrice": 1250000000
+      },
+      {
+        "name": "Judgment TT",
+        "icon": "tickerMaker/tiles/g1048_judicator_title.png",
+        "prevPrice": 1250000000,
+        "currPrice": 1250000000
+      },
+      {
+        "name": "Phoenix TT",
+        "icon": "tickerMaker/tiles/g1048_phoenix_title.png",
+        "prevPrice": 2350000000,
+        "currPrice": 1900000000
+      },
+      {
+        "name": "Mercurius TT",
+        "icon": "tickerMaker/tiles/g1048_mercury_title.png",
+        "prevPrice": 1050000000,
+        "currPrice": 1050000000
+      },
+      {
+        "name": "Prime Fighter TT",
+        "icon": "tickerMaker/tiles/g1048_title_pvp_prime_challenger.png",
+        "prevPrice": 275000000,
+        "currPrice": 175000000
+      },
+      {
+        "name": "Jorm TT",
+        "icon": "tickerMaker/tiles/g1048_jormungandr_title.png",
+        "prevPrice": 1300000000,
+        "currPrice": 1450000000
+      },
+      {
+        "name": "Envy TT",
+        "icon": "tickerMaker/tiles/g1048_suit_envy_armor.png",
+        "prevPrice": 3900000000,
+        "currPrice": 3900000000
+      },
+      {
+        "name": "Jupiter TT",
+        "icon": "tickerMaker/tiles/g1048_suit_jupiter_armor.png",
+        "prevPrice": 3900000000,
+        "currPrice": 3500000000
+      },
+      {
+        "name": "Fool's TT",
+        "icon": "tickerMaker/tiles/g1048_suit_the_fool_armor.png",
+        "prevPrice": 1650000000,
+        "currPrice": 1100000000
+      },
+      {
+        "name": "Skyblock Classic TT",
+        "icon": "tickerMaker/tiles/g1048_old_skyblock_title.png",
+        "prevPrice": 900000000,
+        "currPrice": 775000000
+      },
+      {
+        "name": "Zeus TT",
+        "icon": "tickerMaker/tiles/g1048_zeus_title.png",
+        "prevPrice": 800000000,
+        "currPrice": 775000000
+      },
+      {
+        "name": "Apollo TT",
+        "icon": "tickerMaker/tiles/g1048_apollo_title.png",
+        "prevPrice": 2100000000,
+        "currPrice": 2000000000
+      },
+      {
+        "name": "Fenrir TT",
+        "icon": "tickerMaker/tiles/g1048_fenrir_title.png",
+        "prevPrice": 2900000000,
+        "currPrice": 2800000000
+      },
+      {
+        "name": "Valk TT",
+        "icon": "tickerMaker/tiles/g1048_valkyrie_title.png",
+        "prevPrice": 2100000000,
+        "currPrice": 1950000000
+      },
+      {
+        "name": "Hermes TT",
+        "icon": "tickerMaker/tiles/g1048_hermes_title.png",
+        "prevPrice": 2900000000,
+        "currPrice": 2700000000
+      },
+      {
+        "name": "Hephaestus TT",
+        "icon": "tickerMaker/tiles/g1048_hephaestus_title.png",
+        "prevPrice": 1050000000,
+        "currPrice": 950000000
+      },
+      {
+        "name": "Winter TT",
+        "icon": "tickerMaker/tiles/g1048_chione_title.png",
+        "prevPrice": 2650000000,
+        "currPrice": 2400000000
+      },
+      {
+        "name": "Medusa TT",
+        "icon": "tickerMaker/tiles/g1048_medusa_title.png",
+        "prevPrice": 2650000000,
+        "currPrice": 2350000000
+      },
+      {
+        "name": "Pride TT",
+        "icon": "tickerMaker/tiles/g1048_pride_title.png",
+        "prevPrice": 4250000000,
+        "currPrice": 3950000000
+      },
+      {
+        "name": "Sloth TT",
+        "icon": "tickerMaker/tiles/g1048_sloth_title.png",
+        "prevPrice": 2000000000,
+        "currPrice": 1950000000
+      },
+      {
+        "name": "Venus TT",
+        "icon": "tickerMaker/tiles/g1048_venus_title.png",
+        "prevPrice": 1900000000,
+        "currPrice": 1650000000
+      },
+      {
+        "name": "Uranus TT",
+        "icon": "tickerMaker/tiles/g1048_uranus_title.png",
+        "prevPrice": 2150000000,
+        "currPrice": 1900000000
+      },
+      {
+        "name": "Neptune TT",
+        "icon": "tickerMaker/tiles/g1048_neptune_title.png",
+        "prevPrice": 1900000000,
+        "currPrice": 1500000000
+      },
+      {
+        "name": "Saturn TT",
+        "icon": "tickerMaker/tiles/g1048_saturn_title.png",
+        "prevPrice": 1850000000,
+        "currPrice": 1500000000
+      }
+    ]
+  },
+  {
+    "category": "MVP ENCH",
+    "logo": "tickerMaker/classic/tiles/bluehelmet.png",
+    "items": [
+      {
+        "name": "Thor DEF 1 4/4",
+        "icon": "tickerMaker/tiles/g1048_suit_thor_armor.png",
+        "prevPrice": 3350000000,
+        "currPrice": 3100000000
+      },
+      {
+        "name": "Helheim DEF 1 4/4",
+        "icon": "tickerMaker/tiles/g1048_suit_hel_armor.png",
+        "prevPrice": 3000000000,
+        "currPrice": 2800000000
+      },
+      {
+        "name": "Helheim DEF 1 5/5",
+        "icon": "tickerMaker/tiles/g1048_suit_hel_armor.png",
+        "prevPrice": 3500000000,
+        "currPrice": 3450000000
+      },
+      {
+        "name": "Gluttony DEF 1 4/4",
+        "icon": "tickerMaker/tiles/g1048_suit_greed_armor.png",
+        "prevPrice": 3000000000,
+        "currPrice": 2400000000
+      },
+      {
+        "name": "Gluttony DEF 1 5/5",
+        "icon": "tickerMaker/tiles/g1048_suit_greed_armor.png",
+        "prevPrice": 3700000000,
+        "currPrice": 3000000000
+      },
+      {
+        "name": "Terra DEF 1 4/4",
+        "icon": "tickerMaker/tiles/g1048_suit_terra_armor.png",
+        "prevPrice": 4900000000,
+        "currPrice": 3650000000
+      },
+      {
+        "name": "Terra DEF 1 5/5",
+        "icon": "tickerMaker/tiles/g1048_suit_terra_armor.png",
+        "prevPrice": 6000000000,
+        "currPrice": 4750000000
+      },
+      {
+        "name": "Saturn DEF 1 4/4",
+        "icon": "tickerMaker/tiles/g1048_suit_saturn_armor.png",
+        "prevPrice": 3000000000,
+        "currPrice": 2800000000
+      },
+      {
+        "name": "Saturn DEF 1 5/5",
+        "icon": "tickerMaker/tiles/g1048_suit_saturn_armor.png",
+        "prevPrice": 3600000000,
+        "currPrice": 3500000000
+      },
+      {
+        "name": "Jupiter DEF 1 4/4",
+        "icon": "tickerMaker/tiles/g1048_suit_jupiter_armor.png",
+        "prevPrice": 2350000000,
+        "currPrice": 1800000000
+      },
+      {
+        "name": "Jupiter DEF 1 5/5",
+        "icon": "tickerMaker/tiles/g1048_suit_jupiter_armor.png",
+        "prevPrice": 3000000000,
+        "currPrice": 2250000000
+      },
+      {
+        "name": "Fool DEF 1 4/4",
+        "icon": "tickerMaker/tiles/g1048_suit_the_fool_armor.png",
+        "prevPrice": 5100000000,
+        "currPrice": 3800000000
+      },
+      {
+        "name": "Fool DEF 1 5/5",
+        "icon": "tickerMaker/tiles/g1048_suit_the_fool_armor.png",
+        "prevPrice": 6250000000,
+        "currPrice": 4500000000
+      },
+      {
+        "name": "Ares DEF 1 4/4",
+        "icon": "tickerMaker/tiles/g1048_suit_ares_armor.png",
+        "prevPrice": 1600000000,
+        "currPrice": 1500000000
+      },
+      {
+        "name": "Ares DEF 1 5/5",
+        "icon": "tickerMaker/tiles/g1048_suit_ares_armor.png",
+        "prevPrice": 2100000000,
+        "currPrice": 2000000000
+      },
+      {
+        "name": "Fenrir DEF 1 4/4",
+        "icon": "tickerMaker/tiles/g1048_suit_fenrir_armor.png",
+        "prevPrice": 850000000,
+        "currPrice": 700000000
+      },
+      {
+        "name": "Fenrir DEF 1 5/5",
+        "icon": "tickerMaker/tiles/g1048_suit_fenrir_armor.png",
+        "prevPrice": 1150000000,
+        "currPrice": 1100000000
+      },
+      {
+        "name": "Pride DEF 1 5/5",
+        "icon": "tickerMaker/tiles/g1048_suit_pride_armor.png",
+        "prevPrice": 1550000000,
+        "currPrice": 1500000000
+      },
+      {
+        "name": "Envy DEF 1 5/5",
+        "icon": "tickerMaker/tiles/g1048_suit_envy_armor.png",
+        "prevPrice": 2000000000,
+        "currPrice": 1900000000
+      },
+      {
+        "name": "Sloth DEF 1 4/4",
+        "icon": "tickerMaker/tiles/g1048_suit_sloth_armor.png",
+        "prevPrice": 1450000000,
+        "currPrice": 1400000000
+      },
+      {
+        "name": "Sloth DEF 1 5/5",
+        "icon": "tickerMaker/tiles/g1048_suit_sloth_armor.png",
+        "prevPrice": 1950000000,
+        "currPrice": 2000000000
+      },
+      {
+        "name": "Phoenix DEF 1 4/4",
+        "icon": "tickerMaker/tiles/g1048_suit_phoenix_armor.png",
+        "prevPrice": 2400000000,
+        "currPrice": 1800000000
+      },
+      {
+        "name": "Phoenix DEF 1 5/5",
+        "icon": "tickerMaker/tiles/g1048_suit_phoenix_armor.png",
+        "prevPrice": 3000000000,
+        "currPrice": 2500000000
+      },
+      {
+        "name": "Venus DEF 1 5/5",
+        "icon": "tickerMaker/tiles/g1048_suit_venus_armor.png",
+        "prevPrice": 3600000000,
+        "currPrice": 3550000000
+      }
+    ]
+  }
+]
