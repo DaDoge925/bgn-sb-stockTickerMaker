@@ -5,10 +5,10 @@ Follow this file ONLY when I ask to build or update the monthly stock ticker JSO
 ## 1. CONFIG (the only block I edit each month)
 
 ```
-CURR_MONTH = nov2026
-PREV_MONTH = oct2026
-CURR_MD    = #attachment:NOVEMBER 2026 ITEM VALUE LIST.md
-PREV_MD    = #attachment:october2026pricing.md
+CURR_MONTH = to be mentioned
+PREV_MONTH = to be mentioned
+CURR_MD    = to be mentioned
+PREV_MD    = to be mentioned
 PREV_JSON  =            # leave blank to use "tickerMaker/newsroom-stocks {PREV_MONTH}.json"; set it if that month has a "v2" or other variant
 ```
 
