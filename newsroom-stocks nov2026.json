@@ -1,0 +1,4550 @@
+[
+  {
+    "category": "ARMORS",
+    "logo": "tickerMaker/classic/tiles/diamond_helmet.png",
+    "items": [
+      {
+        "name": "Poseidon 4/4",
+        "icon": "temp/output32_crf/Aquaman Armor.png",
+        "prevPrice": 450000000,
+        "currPrice": 450000000
+      },
+      {
+        "name": "Poseidon 5/5",
+        "icon": "temp/output32_crf/Aquaman Armor.png",
+        "prevPrice": 550000000,
+        "currPrice": 550000000
+      },
+      {
+        "name": "Zeus 4/4",
+        "icon": "temp/output32_crf/Zeus Armor.png",
+        "prevPrice": 170000000,
+        "currPrice": 170000000
+      },
+      {
+        "name": "Zeus 5/5",
+        "icon": "temp/output32_crf/Zeus Armor.png",
+        "prevPrice": 230000000,
+        "currPrice": 230000000
+      },
+      {
+        "name": "Hades 4/4",
+        "icon": "temp/output32_crf/Hades Armor.png",
+        "prevPrice": 350000000,
+        "currPrice": 350000000
+      },
+      {
+        "name": "Hades 5/5",
+        "icon": "temp/output32_crf/Hades Armor.png",
+        "prevPrice": 450000000,
+        "currPrice": 450000000
+      },
+      {
+        "name": "Ares 4/4",
+        "icon": "temp/output32_crf/Ares Armor.png",
+        "prevPrice": 800000000,
+        "currPrice": 800000000
+      },
+      {
+        "name": "Ares 5/5",
+        "icon": "temp/output32_crf/Ares Armor.png",
+        "prevPrice": 1000000000,
+        "currPrice": 1000000000
+      },
+      {
+        "name": "Apollo 4/4",
+        "icon": "temp/output32_crf/Apollo Armor.png",
+        "prevPrice": 160000000,
+        "currPrice": 160000000
+      },
+      {
+        "name": "Apollo 5/5",
+        "icon": "temp/output32_crf/Apollo Armor.png",
+        "prevPrice": 220000000,
+        "currPrice": 220000000
+      },
+      {
+        "name": "Hermes 4/4",
+        "icon": "temp/output32_crf/Hermes Armor.png",
+        "prevPrice": 650000000,
+        "currPrice": 600000000
+      },
+      {
+        "name": "Hermes 5/5",
+        "icon": "temp/output32_crf/Hermes Armor.png",
+        "prevPrice": 850000000,
+        "currPrice": 800000000
+      },
+      {
+        "name": "Hephaestus 4/4",
+        "icon": "temp/output32_crf/Hephaestus Armor.png",
+        "prevPrice": 275000000,
+        "currPrice": 275000000
+      },
+      {
+        "name": "Hephaestus 5/5",
+        "icon": "temp/output32_crf/Hephaestus Armor.png",
+        "prevPrice": 350000000,
+        "currPrice": 350000000
+      },
+      {
+        "name": "Medusa 4/4",
+        "icon": "temp/output32_crf/Medusa Armor.png",
+        "prevPrice": 375000000,
+        "currPrice": 375000000
+      },
+      {
+        "name": "Medusa 5/5",
+        "icon": "temp/output32_crf/Medusa Armor.png",
+        "prevPrice": 500000000,
+        "currPrice": 500000000
+      },
+      {
+        "name": "Fenrir 4/4",
+        "icon": "temp/output32_crf/Fenrir Armor.png",
+        "prevPrice": 275000000,
+        "currPrice": 275000000
+      },
+      {
+        "name": "Fenrir 5/5",
+        "icon": "temp/output32_crf/Fenrir Armor.png",
+        "prevPrice": 400000000,
+        "currPrice": 400000000
+      },
+      {
+        "name": "Valkyrie 4/4",
+        "icon": "temp/output32_crf/Valkyrie Armor.png",
+        "prevPrice": 160000000,
+        "currPrice": 160000000
+      },
+      {
+        "name": "Valkyrie 5/5",
+        "icon": "temp/output32_crf/Valkyrie Armor.png",
+        "prevPrice": 220000000,
+        "currPrice": 220000000
+      },
+      {
+        "name": "Jormungandr 4/4",
+        "icon": "temp/output32_crf/Jormungandr Armor.png",
+        "prevPrice": 300000000,
+        "currPrice": 300000000
+      },
+      {
+        "name": "Jormungandr 5/5",
+        "icon": "temp/output32_crf/Jormungandr Armor.png",
+        "prevPrice": 400000000,
+        "currPrice": 400000000
+      },
+      {
+        "name": "Thor 4/4",
+        "icon": "temp/output32_crf/Thor Armor.png",
+        "prevPrice": 200000000,
+        "currPrice": 200000000
+      },
+      {
+        "name": "Thor 5/5",
+        "icon": "temp/output32_crf/Thor Armor.png",
+        "prevPrice": 300000000,
+        "currPrice": 300000000
+      },
+      {
+        "name": "Helheim 4/4",
+        "icon": "temp/output32_crf/Hel Armor.png",
+        "prevPrice": 200000000,
+        "currPrice": 200000000
+      },
+      {
+        "name": "Helheim 5/5",
+        "icon": "temp/output32_crf/Hel Armor.png",
+        "prevPrice": 280000000,
+        "currPrice": 280000000
+      },
+      {
+        "name": "Winter 4/4",
+        "icon": "temp/output32_crf/Chione Armor.png",
+        "prevPrice": 725000000,
+        "currPrice": 600000000
+      },
+      {
+        "name": "Winter 5/5",
+        "icon": "temp/output32_crf/Chione Armor.png",
+        "prevPrice": 875000000,
+        "currPrice": 725000000
+      },
+      {
+        "name": "Pride 4/4",
+        "icon": "temp/output32_crf/Pride Armor.png",
+        "prevPrice": 175000000,
+        "currPrice": 175000000
+      },
+      {
+        "name": "Pride 5/5",
+        "icon": "temp/output32_crf/Pride Armor.png",
+        "prevPrice": 245000000,
+        "currPrice": 245000000
+      },
+      {
+        "name": "Envy 4/4",
+        "icon": "temp/output32_crf/Envy Armor.png",
+        "prevPrice": 175000000,
+        "currPrice": 175000000
+      },
+      {
+        "name": "Envy 5/5",
+        "icon": "temp/output32_crf/Envy Armor.png",
+        "prevPrice": 240000000,
+        "currPrice": 240000000
+      },
+      {
+        "name": "Gluttony 4/4",
+        "icon": "temp/output32_crf/Greed Armor.png",
+        "prevPrice": 725000000,
+        "currPrice": 675000000
+      },
+      {
+        "name": "Gluttony 5/5",
+        "icon": "temp/output32_crf/Greed Armor.png",
+        "prevPrice": 950000000,
+        "currPrice": 850000000
+      },
+      {
+        "name": "Wrath Demon 4/4",
+        "icon": "temp/output32_crf/Wrath Armor.png",
+        "prevPrice": 600000000,
+        "currPrice": 600000000
+      },
+      {
+        "name": "Wrath Demon 5/5",
+        "icon": "temp/output32_crf/Wrath Armor.png",
+        "prevPrice": 800000000,
+        "currPrice": 800000000
+      },
+      {
+        "name": "Greed 4/4",
+        "icon": "temp/output32_crf/Greed Armor.png",
+        "prevPrice": 300000000,
+        "currPrice": 300000000
+      },
+      {
+        "name": "Greed 5/5",
+        "icon": "temp/output32_crf/Greed Armor.png",
+        "prevPrice": 400000000,
+        "currPrice": 400000000
+      },
+      {
+        "name": "Sloth 4/4",
+        "icon": "temp/output32_crf/Sloth Armor.png",
+        "prevPrice": 190000000,
+        "currPrice": 190000000
+      },
+      {
+        "name": "Sloth 5/5",
+        "icon": "temp/output32_crf/Sloth Armor.png",
+        "prevPrice": 300000000,
+        "currPrice": 300000000
+      },
+      {
+        "name": "Lust 4/4",
+        "icon": "temp/output32_crf/Lust Armor.png",
+        "prevPrice": 950000000,
+        "currPrice": 925000000
+      },
+      {
+        "name": "Lust 5/5",
+        "icon": "temp/output32_crf/Lust Armor.png",
+        "prevPrice": 1150000000,
+        "currPrice": 1100000000
+      },
+      {
+        "name": "Wraith 4/4",
+        "icon": "",
+        "prevPrice": 300000000,
+        "currPrice": 300000000
+      },
+      {
+        "name": "Wraith 5/5",
+        "icon": "",
+        "prevPrice": 450000000,
+        "currPrice": 450000000
+      },
+      {
+        "name": "Judgment 4/4",
+        "icon": "temp/output32_crf/Judgment Armor.png",
+        "prevPrice": 195000000,
+        "currPrice": 195000000
+      },
+      {
+        "name": "Judgment 5/5",
+        "icon": "temp/output32_crf/Judgment Armor.png",
+        "prevPrice": 300000000,
+        "currPrice": 300000000
+      },
+      {
+        "name": "Phoenix 4/4",
+        "icon": "temp/output32_crf/Phoenix Armor.png",
+        "prevPrice": 300000000,
+        "currPrice": 300000000
+      },
+      {
+        "name": "Phoenix 5/5",
+        "icon": "temp/output32_crf/Phoenix Armor.png",
+        "prevPrice": 425000000,
+        "currPrice": 425000000
+      },
+      {
+        "name": "Mercurius 4/4",
+        "icon": "temp/output32_crf/Mercury Armor.png",
+        "prevPrice": 190000000,
+        "currPrice": 190000000
+      },
+      {
+        "name": "Mercurius 5/5",
+        "icon": "temp/output32_crf/Mercury Armor.png",
+        "prevPrice": 280000000,
+        "currPrice": 280000000
+      },
+      {
+        "name": "Mars 4/4",
+        "icon": "temp/output32_crf/Mars Armor.png",
+        "prevPrice": 300000000,
+        "currPrice": 300000000
+      },
+      {
+        "name": "Mars 5/5",
+        "icon": "temp/output32_crf/Mars Armor.png",
+        "prevPrice": 400000000,
+        "currPrice": 400000000
+      },
+      {
+        "name": "Venus 4/4",
+        "icon": "temp/output32_crf/Venus Armor.png",
+        "prevPrice": 400000000,
+        "currPrice": 375000000
+      },
+      {
+        "name": "Venus 5/5",
+        "icon": "temp/output32_crf/Venus Armor.png",
+        "prevPrice": 525000000,
+        "currPrice": 475000000
+      },
+      {
+        "name": "Terra 4/4",
+        "icon": "temp/output32_crf/Terra Armor.png",
+        "prevPrice": 1050000000,
+        "currPrice": 925000000
+      },
+      {
+        "name": "Terra 5/5",
+        "icon": "temp/output32_crf/Terra Armor.png",
+        "prevPrice": 1350000000,
+        "currPrice": 1225000000
+      },
+      {
+        "name": "Uranus 4/4",
+        "icon": "temp/output32_crf/Uranus Armor.png",
+        "prevPrice": 300000000,
+        "currPrice": 300000000
+      },
+      {
+        "name": "Uranus 5/5",
+        "icon": "temp/output32_crf/Uranus Armor.png",
+        "prevPrice": 450000000,
+        "currPrice": 450000000
+      },
+      {
+        "name": "Neptune 4/4",
+        "icon": "temp/output32_crf/Neptune Armor.png",
+        "prevPrice": 400000000,
+        "currPrice": 400000000
+      },
+      {
+        "name": "Neptune 5/5",
+        "icon": "temp/output32_crf/Neptune Armor.png",
+        "prevPrice": 550000000,
+        "currPrice": 500000000
+      },
+      {
+        "name": "Saturn 4/4",
+        "icon": "temp/output32_crf/Saturn Armor.png",
+        "prevPrice": 600000000,
+        "currPrice": 600000000
+      },
+      {
+        "name": "Saturn 5/5",
+        "icon": "temp/output32_crf/Saturn Armor.png",
+        "prevPrice": 725000000,
+        "currPrice": 725000000
+      },
+      {
+        "name": "Jupiter 4/4",
+        "icon": "temp/output32_crf/Jupiter Armor.png",
+        "prevPrice": 250000000,
+        "currPrice": 250000000
+      },
+      {
+        "name": "Jupiter 5/5",
+        "icon": "temp/output32_crf/Jupiter Armor.png",
+        "prevPrice": 350000000,
+        "currPrice": 350000000
+      },
+      {
+        "name": "Fool 4/4",
+        "icon": "temp/output32_crf/The Fool Armor.png",
+        "prevPrice": 1100000000,
+        "currPrice": 925000000
+      },
+      {
+        "name": "Fool 5/5",
+        "icon": "temp/output32_crf/The Fool Armor.png",
+        "prevPrice": 1350000000,
+        "currPrice": 1250000000
+      },
+      {
+        "name": "Magician 4/4",
+        "icon": "temp/output32_crf/The Magician Armor.png",
+        "prevPrice": 575000000,
+        "currPrice": 650000000
+      },
+      {
+        "name": "Magician 5/5",
+        "icon": "temp/output32_crf/The Magician Armor.png",
+        "prevPrice": 775000000,
+        "currPrice": 825000000
+      },
+      {
+        "name": "Chariot 4/4",
+        "icon": "temp/output32_crf/The Chariot Armor.png",
+        "prevPrice": 525000000,
+        "currPrice": 375000000
+      },
+      {
+        "name": "Chariot 5/5",
+        "icon": "temp/output32_crf/The Chariot Armor.png",
+        "prevPrice": 675000000,
+        "currPrice": 500000000
+      }
+    ]
+  },
+  {
+    "category": "WEAPONS",
+    "logo": "tickerMaker/classic/tiles/diamond_sword.png",
+    "items": [
+      {
+        "name": "Poseidon Trident",
+        "icon": "temp/output32_crf/Aquaman Sword.png",
+        "prevPrice": 110000000,
+        "currPrice": 110000000
+      },
+      {
+        "name": "Poseidon Trident (RR)",
+        "icon": "temp/output32_crf/Aquaman Sword 2.png",
+        "prevPrice": 160000000,
+        "currPrice": 160000000
+      },
+      {
+        "name": "Zeus Lightning",
+        "icon": "temp/output32_crf/Zeus Sword 2.png",
+        "prevPrice": 190000000,
+        "currPrice": 145000000
+      },
+      {
+        "name": "Zeus Lightning (RR)",
+        "icon": "temp/output32_crf/Zeus Sword 2.png",
+        "prevPrice": 1850000000,
+        "currPrice": 1650000000
+      },
+      {
+        "name": "Hades Sword",
+        "icon": "temp/output32_crf/Hades Sword 2.png",
+        "prevPrice": 195000000,
+        "currPrice": 180000000
+      },
+      {
+        "name": "Hades Sword (RR)",
+        "icon": "temp/output32_crf/Hades Sword 2.png",
+        "prevPrice": 1950000000,
+        "currPrice": 1700000000
+      },
+      {
+        "name": "Ares Spear",
+        "icon": "temp/output32_crf/Ares Sword 2.png",
+        "prevPrice": 325000000,
+        "currPrice": 325000000
+      },
+      {
+        "name": "Ares Spear (RR)",
+        "icon": "temp/output32_crf/Ares Sword 2.png",
+        "prevPrice": 2400000000,
+        "currPrice": 2400000000
+      },
+      {
+        "name": "Apollo Sword",
+        "icon": "temp/output32_crf/Apollo Sword 1.png",
+        "prevPrice": 275000000,
+        "currPrice": 235000000
+      },
+      {
+        "name": "Apollo Sword (RR)",
+        "icon": "temp/output32_crf/Apollo Sword 2.png",
+        "prevPrice": 2400000000,
+        "currPrice": 2400000000
+      },
+      {
+        "name": "Fenrir Sword",
+        "icon": "temp/output32_crf/Fenrir Sword 1.png",
+        "prevPrice": 150000000,
+        "currPrice": 150000000
+      },
+      {
+        "name": "Fenrir Sword (RR)",
+        "icon": "temp/output32_crf/Fenrir Sword 2.png",
+        "prevPrice": 1050000000,
+        "currPrice": 1050000000
+      },
+      {
+        "name": "Valkyrie Sword",
+        "icon": "temp/output32_crf/Valkyrie Sword 1.png",
+        "prevPrice": 325000000,
+        "currPrice": 285000000
+      },
+      {
+        "name": "Valkyrie Sword (RR)",
+        "icon": "temp/output32_crf/Valkyrie Sword 2.png",
+        "prevPrice": 4000000000,
+        "currPrice": 4000000000
+      },
+      {
+        "name": "Jormungandr Sword",
+        "icon": "temp/output32_crf/Jormungandr Sword 1.png",
+        "prevPrice": 190000000,
+        "currPrice": 190000000
+      },
+      {
+        "name": "Jormungandr Sword (RR)",
+        "icon": "temp/output32_crf/Jormungandr Sword 2.png",
+        "prevPrice": 1400000000,
+        "currPrice": 1400000000
+      },
+      {
+        "name": "Mjollnir",
+        "icon": "temp/output32_crf/Thor Sword 1.png",
+        "prevPrice": 275000000,
+        "currPrice": 235000000
+      },
+      {
+        "name": "Mjollnir (RR)",
+        "icon": "temp/output32_crf/Thor Sword 2.png",
+        "prevPrice": 2300000000,
+        "currPrice": 1900000000
+      },
+      {
+        "name": "Helheim Sword",
+        "icon": "temp/output32_crf/Hel Sword 1.png",
+        "prevPrice": 170000000,
+        "currPrice": 170000000
+      },
+      {
+        "name": "Helheim Sword (RR)",
+        "icon": "temp/output32_crf/Hel Sword 2.png",
+        "prevPrice": 1350000000,
+        "currPrice": 1350000000
+      },
+      {
+        "name": "Hermes Sword",
+        "icon": "temp/output32_crf/Hermes Sword 1.png",
+        "prevPrice": 180000000,
+        "currPrice": 165000000
+      },
+      {
+        "name": "Hermes Sword (RR)",
+        "icon": "temp/output32_crf/Hermes Sword 1.png",
+        "prevPrice": 1550000000,
+        "currPrice": 1350000000
+      },
+      {
+        "name": "Flame Excalibur",
+        "icon": "temp/output32_crf/Flame Sword.png",
+        "prevPrice": 185000000,
+        "currPrice": 185000000
+      },
+      {
+        "name": "Flame Excalibur (RR)",
+        "icon": "temp/output32_crf/Flame Sword.png",
+        "prevPrice": 1350000000,
+        "currPrice": 1350000000
+      },
+      {
+        "name": "Permafrost Sword",
+        "icon": "",
+        "prevPrice": 450000000,
+        "currPrice": 475000000
+      },
+      {
+        "name": "Permafrost Sword (RR)",
+        "icon": "",
+        "prevPrice": 3300000000,
+        "currPrice": 3300000000
+      },
+      {
+        "name": "Medusa Spear",
+        "icon": "temp/output32_crf/Medusa Sword 1.png",
+        "prevPrice": 450000000,
+        "currPrice": 425000000
+      },
+      {
+        "name": "Medusa Spear (RR)",
+        "icon": "temp/output32_crf/Medusa Sword 2.png",
+        "prevPrice": 4900000000,
+        "currPrice": 4500000000
+      },
+      {
+        "name": "Pride Sword",
+        "icon": "temp/output32_crf/Pride Sword 1.png",
+        "prevPrice": 240000000,
+        "currPrice": 210000000
+      },
+      {
+        "name": "Pride Sword (RR)",
+        "icon": "temp/output32_crf/Pride Sword 2.png",
+        "prevPrice": 2100000000,
+        "currPrice": 2000000000
+      },
+      {
+        "name": "Envy Sword",
+        "icon": "temp/output32_crf/Envy Sword 1.png",
+        "prevPrice": 675000000,
+        "currPrice": 575000000
+      },
+      {
+        "name": "Envy Sword (RR)",
+        "icon": "temp/output32_crf/Envy Sword 2.png",
+        "prevPrice": 6500000000,
+        "currPrice": 5250000000
+      },
+      {
+        "name": "Gluttony Blade",
+        "icon": "temp/output32_crf/Greed Sword 1.png",
+        "prevPrice": 195000000,
+        "currPrice": 180000000
+      },
+      {
+        "name": "Gluttony Blade (RR)",
+        "icon": "temp/output32_crf/Greed Sword 2.png",
+        "prevPrice": 1900000000,
+        "currPrice": 1600000000
+      },
+      {
+        "name": "Wrath Sword",
+        "icon": "temp/output32_crf/Wrath Sword 1.png",
+        "prevPrice": 775000000,
+        "currPrice": 725000000
+      },
+      {
+        "name": "Wrath Sword (RR)",
+        "icon": "temp/output32_crf/Wrath Sword 2.png",
+        "prevPrice": 6250000000,
+        "currPrice": 5500000000
+      },
+      {
+        "name": "Greed Scythe",
+        "icon": "temp/output32_crf/Greed Sword 1.png",
+        "prevPrice": 415000000,
+        "currPrice": 380000000
+      },
+      {
+        "name": "Greed Scythe (RR)",
+        "icon": "temp/output32_crf/Greed Sword 2.png",
+        "prevPrice": 4000000000,
+        "currPrice": 3400000000
+      },
+      {
+        "name": "Sloth Sword",
+        "icon": "temp/output32_crf/Sloth Sword 1.png",
+        "prevPrice": 195000000,
+        "currPrice": 180000000
+      },
+      {
+        "name": "Sloth Sword (RR)",
+        "icon": "temp/output32_crf/Sloth Sword 2.png",
+        "prevPrice": 1900000000,
+        "currPrice": 1750000000
+      },
+      {
+        "name": "Lust Sword",
+        "icon": "temp/output32_crf/Lust Sword 1.png",
+        "prevPrice": 210000000,
+        "currPrice": 200000000
+      },
+      {
+        "name": "Lust Sword (RR)",
+        "icon": "temp/output32_crf/Lust Sword 2.png",
+        "prevPrice": 1850000000,
+        "currPrice": 1800000000
+      },
+      {
+        "name": "Wraith Sword",
+        "icon": "",
+        "prevPrice": 195000000,
+        "currPrice": 195000000
+      },
+      {
+        "name": "Judgment Sword",
+        "icon": "temp/output32_crf/Judgment Sword 2.png",
+        "prevPrice": 195000000,
+        "currPrice": 195000000
+      },
+      {
+        "name": "Judgment Sword (RR)",
+        "icon": "temp/output32_crf/Judgment Sword 2.png",
+        "prevPrice": 1850000000,
+        "currPrice": 1850000000
+      },
+      {
+        "name": "Phoenix Sword",
+        "icon": "temp/output32_crf/Phoenix Sword 1.png",
+        "prevPrice": 300000000,
+        "currPrice": 300000000
+      },
+      {
+        "name": "Phoenix Sword (RR)",
+        "icon": "temp/output32_crf/Phoenix Sword 2.png",
+        "prevPrice": 2750000000,
+        "currPrice": 2750000000
+      },
+      {
+        "name": "Mercurius Rapier",
+        "icon": "temp/output32_crf/Mercury Sword 1.png",
+        "prevPrice": 195000000,
+        "currPrice": 195000000
+      },
+      {
+        "name": "Mercurius Rapier (RR)",
+        "icon": "temp/output32_crf/Mercury Sword 2.png",
+        "prevPrice": 1850000000,
+        "currPrice": 1850000000
+      },
+      {
+        "name": "Mars Spear",
+        "icon": "temp/output32_crf/Mars Sword 1.png",
+        "prevPrice": 190000000,
+        "currPrice": 190000000
+      },
+      {
+        "name": "Mars Spear (RR)",
+        "icon": "temp/output32_crf/Mars Sword 2.png",
+        "prevPrice": 1800000000,
+        "currPrice": 1800000000
+      },
+      {
+        "name": "Venus Mace",
+        "icon": "temp/output32_crf/Venus Sword 1.png",
+        "prevPrice": 875000000,
+        "currPrice": 850000000
+      },
+      {
+        "name": "Venus Mace (RR)",
+        "icon": "temp/output32_crf/Venus Sword 2.png",
+        "prevPrice": 8750000000,
+        "currPrice": 8000000000
+      },
+      {
+        "name": "Terra Sword",
+        "icon": "temp/output32_crf/Terra Sword 1.png",
+        "prevPrice": 675000000,
+        "currPrice": 625000000
+      },
+      {
+        "name": "Terra Sword (RR)",
+        "icon": "temp/output32_crf/Terra Sword 2.png",
+        "prevPrice": 8250000000,
+        "currPrice": 7000000000
+      },
+      {
+        "name": "Uranus Claws",
+        "icon": "temp/output32_crf/Uranus Armor.png",
+        "prevPrice": 790000000,
+        "currPrice": 725000000
+      },
+      {
+        "name": "Uranus Claws (RR)",
+        "icon": "temp/output32_crf/Uranus Armor.png",
+        "prevPrice": 8000000000,
+        "currPrice": 7250000000
+      },
+      {
+        "name": "Neptune Trident",
+        "icon": "temp/output32_crf/Neptune Armor.png",
+        "prevPrice": 160000000,
+        "currPrice": 140000000
+      },
+      {
+        "name": "Neptune Trident (RR)",
+        "icon": "temp/output32_crf/Neptune Armor.png",
+        "prevPrice": 1500000000,
+        "currPrice": 1250000000
+      },
+      {
+        "name": "Saturn Scythe",
+        "icon": "temp/output32_crf/Saturn Sword 1.png",
+        "prevPrice": 190000000,
+        "currPrice": 190000000
+      },
+      {
+        "name": "Saturn Scythe (RR)",
+        "icon": "temp/output32_crf/Saturn Sword 2.png",
+        "prevPrice": 2400000000,
+        "currPrice": 2400000000
+      },
+      {
+        "name": "Jupiter Spear",
+        "icon": "temp/output32_crf/Jupiter Armor.png",
+        "prevPrice": 200000000,
+        "currPrice": 200000000
+      },
+      {
+        "name": "Jupiter Spear (RR)",
+        "icon": "temp/output32_crf/Jupiter Armor.png",
+        "prevPrice": 2250000000,
+        "currPrice": 2250000000
+      },
+      {
+        "name": "Fool's Sword",
+        "icon": "temp/output32_crf/The Fool Armor.png",
+        "prevPrice": 475000000,
+        "currPrice": 375000000
+      },
+      {
+        "name": "Fool's Sword (RR)",
+        "icon": "temp/output32_crf/The Fool Armor.png",
+        "prevPrice": 4650000000,
+        "currPrice": 4000000000
+      },
+      {
+        "name": "Magician Sword",
+        "icon": "temp/output32_crf/The Magician Sword 1.png",
+        "prevPrice": 275000000,
+        "currPrice": 200000000
+      },
+      {
+        "name": "Magician Sword (RR)",
+        "icon": "temp/output32_crf/The Magician Sword 2.png",
+        "prevPrice": 3000000000,
+        "currPrice": 2150000000
+      },
+      {
+        "name": "Chariot Sword",
+        "icon": "temp/output32_crf/The Chariot Sword 1.png",
+        "prevPrice": 375000000,
+        "currPrice": 300000000
+      },
+      {
+        "name": "Chariot Sword (RR)",
+        "icon": "temp/output32_crf/The Chariot Sword 2.png",
+        "prevPrice": 3900000000,
+        "currPrice": 3250000000
+      }
+    ]
+  },
+  {
+    "category": "SEASONS",
+    "logo": "",
+    "items": [
+      {
+        "name": "S1 Necrotic 4/4",
+        "icon": "",
+        "prevPrice": 25000000,
+        "currPrice": 25000000
+      },
+      {
+        "name": "S1 Necrotic Sword",
+        "icon": "",
+        "prevPrice": 20000000,
+        "currPrice": 20000000
+      },
+      {
+        "name": "S1 Necrotic 5/5",
+        "icon": "",
+        "prevPrice": 40000000,
+        "currPrice": 40000000
+      },
+      {
+        "name": "S1 Necrotic Gun",
+        "icon": "",
+        "prevPrice": 15000000,
+        "currPrice": 15000000
+      },
+      {
+        "name": "S2 Nightmare Knight 4/4",
+        "icon": "temp/output32_crf/Nightmare Armor.png",
+        "prevPrice": 30000000,
+        "currPrice": 30000000
+      },
+      {
+        "name": "S2 Nightmare Knight Sword",
+        "icon": "temp/output32_crf/Item Nightmare Sword.png",
+        "prevPrice": 14000000,
+        "currPrice": 14000000
+      },
+      {
+        "name": "S2 Nightmare Knight 5/5",
+        "icon": "temp/output32_crf/Nightmare Armor.png",
+        "prevPrice": 40000000,
+        "currPrice": 40000000
+      },
+      {
+        "name": "S2 Nightmare Knight Bow",
+        "icon": "",
+        "prevPrice": 6000000,
+        "currPrice": 6000000
+      },
+      {
+        "name": "S3 Silver Fang 4/4",
+        "icon": "temp/output32_crf/Silverfang Armor.png",
+        "prevPrice": 60000000,
+        "currPrice": 60000000
+      },
+      {
+        "name": "S3 Silver Fang Sword",
+        "icon": "",
+        "prevPrice": 13000000,
+        "currPrice": 13000000
+      },
+      {
+        "name": "S3 Silver Fang 5/5",
+        "icon": "temp/output32_crf/Silverfang Armor.png",
+        "prevPrice": 75000000,
+        "currPrice": 75000000
+      },
+      {
+        "name": "S3 Silver Fang Bow",
+        "icon": "",
+        "prevPrice": 6000000,
+        "currPrice": 6000000
+      },
+      {
+        "name": "S4 Astral 4/4",
+        "icon": "",
+        "prevPrice": 35000000,
+        "currPrice": 35000000
+      },
+      {
+        "name": "S4 Astral Sword",
+        "icon": "",
+        "prevPrice": 10000000,
+        "currPrice": 10000000
+      },
+      {
+        "name": "S4 Astral 5/5",
+        "icon": "",
+        "prevPrice": 45000000,
+        "currPrice": 45000000
+      },
+      {
+        "name": "S4 Astral Bow",
+        "icon": "",
+        "prevPrice": 5000000,
+        "currPrice": 5000000
+      },
+      {
+        "name": "S5 Angel 4/4",
+        "icon": "temp/output32_crf/Angel Armor.png",
+        "prevPrice": 35000000,
+        "currPrice": 35000000
+      },
+      {
+        "name": "S5 Angel Sword",
+        "icon": "temp/output32_crf/Angel Sword.png",
+        "prevPrice": 10000000,
+        "currPrice": 10000000
+      },
+      {
+        "name": "S5 Angel 5/5",
+        "icon": "temp/output32_crf/Angel Armor.png",
+        "prevPrice": 50000000,
+        "currPrice": 50000000
+      },
+      {
+        "name": "S5 Angel Bow",
+        "icon": "temp/output32_crf/g1048_angel_bow.png",
+        "prevPrice": 5000000,
+        "currPrice": 5000000
+      },
+      {
+        "name": "S6 Forest Guardian 4/4",
+        "icon": "temp/output32_crf/Forest Armor.png",
+        "prevPrice": 60000000,
+        "currPrice": 60000000
+      },
+      {
+        "name": "S6 Forest Guardian Sword",
+        "icon": "temp/output32_crf/Forest Sword.png",
+        "prevPrice": 10000000,
+        "currPrice": 10000000
+      },
+      {
+        "name": "S6 Forest Guardian 5/5",
+        "icon": "temp/output32_crf/Forest Armor.png",
+        "prevPrice": 80000000,
+        "currPrice": 80000000
+      },
+      {
+        "name": "S6 Forest Guardian Bow",
+        "icon": "temp/output32_crf/g1048_forest_bow.png",
+        "prevPrice": 5000000,
+        "currPrice": 5000000
+      },
+      {
+        "name": "S7 Fire Spirit 4/4",
+        "icon": "temp/output32_crf/g1048_flame_armor.png",
+        "prevPrice": 25000000,
+        "currPrice": 25000000
+      },
+      {
+        "name": "S7 Fire Spirit Sword",
+        "icon": "temp/output32_crf/Flame Sword.png",
+        "prevPrice": 10000000,
+        "currPrice": 10000000
+      },
+      {
+        "name": "S7 Fire Spirit 5/5",
+        "icon": "temp/output32_crf/g1048_flame_armor.png",
+        "prevPrice": 35000000,
+        "currPrice": 35000000
+      },
+      {
+        "name": "S7 Fire Spirit Bow",
+        "icon": "temp/output32_crf/g1048_flame_bow.png",
+        "prevPrice": 5000000,
+        "currPrice": 5000000
+      },
+      {
+        "name": "S8 Shadow Assassin 4/4",
+        "icon": "temp/output32_crf/Shadow Armor.png",
+        "prevPrice": 30000000,
+        "currPrice": 30000000
+      },
+      {
+        "name": "S8 Shadow Assassin Sword",
+        "icon": "temp/output32_crf/Shadow Sword 1.png",
+        "prevPrice": 10000000,
+        "currPrice": 10000000
+      },
+      {
+        "name": "S8 Shadow Assassin 5/5",
+        "icon": "temp/output32_crf/Shadow Armor.png",
+        "prevPrice": 35000000,
+        "currPrice": 35000000
+      },
+      {
+        "name": "S8 Shadow Assassin Bow",
+        "icon": "temp/output32_crf/g1048_shadow_bow.png",
+        "prevPrice": 5000000,
+        "currPrice": 5000000
+      },
+      {
+        "name": "S9 Paladin 4/4",
+        "icon": "temp/output32_crf/Paladin Armor.png",
+        "prevPrice": 40000000,
+        "currPrice": 40000000
+      },
+      {
+        "name": "S9 Paladin Sword",
+        "icon": "temp/output32_crf/Paladin Sword 1.png",
+        "prevPrice": 10000000,
+        "currPrice": 10000000
+      },
+      {
+        "name": "S9 Paladin 5/5",
+        "icon": "temp/output32_crf/Paladin Armor.png",
+        "prevPrice": 60000000,
+        "currPrice": 60000000
+      },
+      {
+        "name": "S9 Paladin Bow",
+        "icon": "temp/output32_crf/g1048_paladin_bow.png",
+        "prevPrice": 5000000,
+        "currPrice": 5000000
+      },
+      {
+        "name": "S10 Astronaut 4/4",
+        "icon": "",
+        "prevPrice": 30000000,
+        "currPrice": 30000000
+      },
+      {
+        "name": "S10 Astronaut Sword",
+        "icon": "",
+        "prevPrice": 10000000,
+        "currPrice": 10000000
+      },
+      {
+        "name": "S10 Astronaut 5/5",
+        "icon": "",
+        "prevPrice": 40000000,
+        "currPrice": 40000000
+      },
+      {
+        "name": "S10 Astronaut Bow",
+        "icon": "",
+        "prevPrice": 5000000,
+        "currPrice": 5000000
+      },
+      {
+        "name": "S11 Steampunk Explorer 4/4",
+        "icon": "temp/output32_crf/Steampunk Armor.png",
+        "prevPrice": 40000000,
+        "currPrice": 40000000
+      },
+      {
+        "name": "S11 Steampunk Explorer Sword",
+        "icon": "temp/output32_crf/Steampunk Sword 1.png",
+        "prevPrice": 10000000,
+        "currPrice": 10000000
+      },
+      {
+        "name": "S11 Steampunk Explorer 5/5",
+        "icon": "temp/output32_crf/Steampunk Armor.png",
+        "prevPrice": 50000000,
+        "currPrice": 50000000
+      },
+      {
+        "name": "S11 Steampunk Explorer Bow",
+        "icon": "temp/output32_crf/g1048_steampunk_bow.png",
+        "prevPrice": 5000000,
+        "currPrice": 5000000
+      },
+      {
+        "name": "S12 Anubis 4/4",
+        "icon": "",
+        "prevPrice": 30000000,
+        "currPrice": 30000000
+      },
+      {
+        "name": "S12 Anubis Sword",
+        "icon": "",
+        "prevPrice": 10000000,
+        "currPrice": 10000000
+      },
+      {
+        "name": "S12 Anubis 5/5",
+        "icon": "",
+        "prevPrice": 40000000,
+        "currPrice": 40000000
+      },
+      {
+        "name": "S12 Anubis Bow",
+        "icon": "",
+        "prevPrice": 5000000,
+        "currPrice": 5000000
+      },
+      {
+        "name": "S13 Count Vampire 4/4",
+        "icon": "temp/output32_crf/Vampire Armor.png",
+        "prevPrice": 20000000,
+        "currPrice": 20000000
+      },
+      {
+        "name": "S13 Count Vampire Sword",
+        "icon": "temp/output32_crf/Vampire Sword 1.png",
+        "prevPrice": 10000000,
+        "currPrice": 10000000
+      },
+      {
+        "name": "S13 Count Vampire 5/5",
+        "icon": "temp/output32_crf/Vampire Armor.png",
+        "prevPrice": 30000000,
+        "currPrice": 30000000
+      },
+      {
+        "name": "S13 Count Vampire Bow",
+        "icon": "temp/output32_crf/g1048_vampire_bow.png",
+        "prevPrice": 5000000,
+        "currPrice": 5000000
+      },
+      {
+        "name": "S14 Onimusha 4/4",
+        "icon": "",
+        "prevPrice": 25000000,
+        "currPrice": 25000000
+      },
+      {
+        "name": "S14 Onimusha Sword",
+        "icon": "",
+        "prevPrice": 10000000,
+        "currPrice": 10000000
+      },
+      {
+        "name": "S14 Onimusha 5/5",
+        "icon": "",
+        "prevPrice": 35000000,
+        "currPrice": 35000000
+      },
+      {
+        "name": "S14 Onimusha Bow",
+        "icon": "",
+        "prevPrice": 5000000,
+        "currPrice": 5000000
+      },
+      {
+        "name": "S15 Frost Lord 4/4",
+        "icon": "temp/output32_crf/Ice Prince Armor.png",
+        "prevPrice": 25000000,
+        "currPrice": 25000000
+      },
+      {
+        "name": "S15 Frost Lord Sword",
+        "icon": "temp/output32_crf/Ice Prince Sword 1.png",
+        "prevPrice": 10000000,
+        "currPrice": 10000000
+      },
+      {
+        "name": "S15 Frost Lord 5/5",
+        "icon": "temp/output32_crf/Ice Prince Armor.png",
+        "prevPrice": 35000000,
+        "currPrice": 35000000
+      },
+      {
+        "name": "S15 Frost Lord Bow",
+        "icon": "",
+        "prevPrice": 5000000,
+        "currPrice": 5000000
+      },
+      {
+        "name": "S16 Eye Of Elder God 4/4",
+        "icon": "",
+        "prevPrice": 25000000,
+        "currPrice": 25000000
+      },
+      {
+        "name": "S16 Eye Of Elder God Sword",
+        "icon": "",
+        "prevPrice": 10000000,
+        "currPrice": 10000000
+      },
+      {
+        "name": "S16 Eye Of Elder God 5/5",
+        "icon": "",
+        "prevPrice": 30000000,
+        "currPrice": 30000000
+      },
+      {
+        "name": "S16 Eye Of Elder God Bow",
+        "icon": "",
+        "prevPrice": 5000000,
+        "currPrice": 5000000
+      },
+      {
+        "name": "S17 Blackrose 4/4",
+        "icon": "temp/output32_crf/Blackrose Armor.png",
+        "prevPrice": 25000000,
+        "currPrice": 25000000
+      },
+      {
+        "name": "S17 Blackrose Sword",
+        "icon": "temp/output32_crf/Blackrose Sword 1.png",
+        "prevPrice": 10000000,
+        "currPrice": 10000000
+      },
+      {
+        "name": "S17 Blackrose 5/5",
+        "icon": "temp/output32_crf/Blackrose Armor.png",
+        "prevPrice": 30000000,
+        "currPrice": 30000000
+      },
+      {
+        "name": "S17 Blackrose Bow",
+        "icon": "temp/output32_crf/g1048_blackrose_bow.png",
+        "prevPrice": 5000000,
+        "currPrice": 5000000
+      },
+      {
+        "name": "S18 Star And Moon 4/4",
+        "icon": "",
+        "prevPrice": 80000000,
+        "currPrice": 80000000
+      },
+      {
+        "name": "S18 Star And Moon Sword",
+        "icon": "",
+        "prevPrice": 10000000,
+        "currPrice": 10000000
+      },
+      {
+        "name": "S18 Star And Moon 5/5",
+        "icon": "",
+        "prevPrice": 100000000,
+        "currPrice": 100000000
+      },
+      {
+        "name": "S18 Star And Moon Bow",
+        "icon": "",
+        "prevPrice": 5000000,
+        "currPrice": 5000000
+      },
+      {
+        "name": "S19 Elven 4/4",
+        "icon": "temp/output32_crf/Elf Armor.png",
+        "prevPrice": 30000000,
+        "currPrice": 30000000
+      },
+      {
+        "name": "S19 Elven Sword",
+        "icon": "temp/output32_crf/Elf Sword 1.png",
+        "prevPrice": 10000000,
+        "currPrice": 10000000
+      },
+      {
+        "name": "S19 Elven 5/5",
+        "icon": "temp/output32_crf/Elf Armor.png",
+        "prevPrice": 40000000,
+        "currPrice": 40000000
+      },
+      {
+        "name": "S19 Elven Bow",
+        "icon": "temp/output32_crf/g1048_elf_bow.png",
+        "prevPrice": 5000000,
+        "currPrice": 5000000
+      },
+      {
+        "name": "S20 Wild Shark 4/4",
+        "icon": "temp/output32_crf/Shark Armor.png",
+        "prevPrice": 20000000,
+        "currPrice": 20000000
+      },
+      {
+        "name": "S20 Wild Shark Sword",
+        "icon": "temp/output32_crf/Shark Sword 1.png",
+        "prevPrice": 10000000,
+        "currPrice": 10000000
+      },
+      {
+        "name": "S20 Wild Shark 5/5",
+        "icon": "temp/output32_crf/Shark Armor.png",
+        "prevPrice": 30000000,
+        "currPrice": 30000000
+      },
+      {
+        "name": "S20 Wild Shark Bow",
+        "icon": "temp/output32_crf/g1048_shark_bow.png",
+        "prevPrice": 5000000,
+        "currPrice": 5000000
+      },
+      {
+        "name": "S21 Cloud 4/4",
+        "icon": "temp/output32_crf/Cloud Armor.png",
+        "prevPrice": 60000000,
+        "currPrice": 60000000
+      },
+      {
+        "name": "S21 Cloud Sword",
+        "icon": "temp/output32_crf/Cloud Sword 1.png",
+        "prevPrice": 10000000,
+        "currPrice": 10000000
+      },
+      {
+        "name": "S21 Cloud 5/5",
+        "icon": "temp/output32_crf/Cloud Armor.png",
+        "prevPrice": 80000000,
+        "currPrice": 80000000
+      },
+      {
+        "name": "S21 Cloud Bow",
+        "icon": "temp/output32_crf/g1048_cloud_bow.png",
+        "prevPrice": 5000000,
+        "currPrice": 5000000
+      },
+      {
+        "name": "S22 Raven 4/4",
+        "icon": "temp/output32_crf/Raven Armor.png",
+        "prevPrice": 30000000,
+        "currPrice": 30000000
+      },
+      {
+        "name": "S22 Raven Sword",
+        "icon": "temp/output32_crf/Raven Sword 1.png",
+        "prevPrice": 10000000,
+        "currPrice": 10000000
+      },
+      {
+        "name": "S22 Raven 5/5",
+        "icon": "temp/output32_crf/Raven Armor.png",
+        "prevPrice": 50000000,
+        "currPrice": 50000000
+      },
+      {
+        "name": "S22 Raven Bow",
+        "icon": "temp/output32_crf/g1048_raven_bow.png",
+        "prevPrice": 5000000,
+        "currPrice": 5000000
+      },
+      {
+        "name": "S23 Blaze Beetle 4/4",
+        "icon": "temp/output32_crf/Beetle Armor.png",
+        "prevPrice": 25000000,
+        "currPrice": 25000000
+      },
+      {
+        "name": "S23 Blaze Beetle Sword",
+        "icon": "temp/output32_crf/Beetle Sword 1.png",
+        "prevPrice": 10000000,
+        "currPrice": 10000000
+      },
+      {
+        "name": "S23 Blaze Beetle 5/5",
+        "icon": "temp/output32_crf/Beetle Armor.png",
+        "prevPrice": 30000000,
+        "currPrice": 30000000
+      },
+      {
+        "name": "S23 Blaze Beetle Bow",
+        "icon": "temp/output32_crf/g1048_beetle_bow.png",
+        "prevPrice": 5000000,
+        "currPrice": 5000000
+      },
+      {
+        "name": "S24 Nebula 4/4",
+        "icon": "temp/output32_crf/Nebula Armor.png",
+        "prevPrice": 25000000,
+        "currPrice": 25000000
+      },
+      {
+        "name": "S24 Nebula Sword",
+        "icon": "temp/output32_crf/Nebula Sword 1.png",
+        "prevPrice": 10000000,
+        "currPrice": 10000000
+      },
+      {
+        "name": "S24 Nebula 5/5",
+        "icon": "temp/output32_crf/Nebula Armor.png",
+        "prevPrice": 30000000,
+        "currPrice": 30000000
+      },
+      {
+        "name": "S24 Nebula Bow",
+        "icon": "temp/output32_crf/g1048_nebula_bow.png",
+        "prevPrice": 5000000,
+        "currPrice": 5000000
+      },
+      {
+        "name": "S25 Magic Swordsman 4/4",
+        "icon": "temp/output32_crf/Magic Swordman Armor.png",
+        "prevPrice": 25000000,
+        "currPrice": 25000000
+      },
+      {
+        "name": "S25 Magic Swordsman Sword",
+        "icon": "temp/output32_crf/Magic Swordman Sword 1.png",
+        "prevPrice": 10000000,
+        "currPrice": 10000000
+      },
+      {
+        "name": "S25 Magic Swordsman 5/5",
+        "icon": "temp/output32_crf/Magic Swordman Armor.png",
+        "prevPrice": 30000000,
+        "currPrice": 30000000
+      },
+      {
+        "name": "S25 Magic Swordsman Bow",
+        "icon": "temp/output32_crf/g1048_magic_swordman_bow.png",
+        "prevPrice": 5000000,
+        "currPrice": 5000000
+      },
+      {
+        "name": "S26 Dinosaur 4/4",
+        "icon": "temp/output32_crf/Dinosaur Armor.png",
+        "prevPrice": 25000000,
+        "currPrice": 25000000
+      },
+      {
+        "name": "S26 Dinosaur Sword",
+        "icon": "temp/output32_crf/Dinosaur Sword 1.png",
+        "prevPrice": 10000000,
+        "currPrice": 10000000
+      },
+      {
+        "name": "S26 Dinosaur 5/5",
+        "icon": "temp/output32_crf/Dinosaur Armor.png",
+        "prevPrice": 30000000,
+        "currPrice": 30000000
+      },
+      {
+        "name": "S26 Dinosaur Bow",
+        "icon": "temp/output32_crf/g1048_dinosaur_bow.png",
+        "prevPrice": 5000000,
+        "currPrice": 5000000
+      },
+      {
+        "name": "S27 Bear Warrior 4/4",
+        "icon": "temp/output32_crf/Bear Armor.png",
+        "prevPrice": 80000000,
+        "currPrice": 80000000
+      },
+      {
+        "name": "S27 Bear Warrior Sword",
+        "icon": "temp/output32_crf/Bear Sword 1.png",
+        "prevPrice": 15000000,
+        "currPrice": 15000000
+      },
+      {
+        "name": "S27 Bear Warrior 5/5",
+        "icon": "temp/output32_crf/Bear Armor.png",
+        "prevPrice": 100000000,
+        "currPrice": 100000000
+      },
+      {
+        "name": "S27 Bear Warrior Bow",
+        "icon": "temp/output32_crf/g1048_bear_bow.png",
+        "prevPrice": 5000000,
+        "currPrice": 5000000
+      },
+      {
+        "name": "S28 Relic Guardian 4/4",
+        "icon": "temp/output32_crf/Relic Armor.png",
+        "prevPrice": 40000000,
+        "currPrice": 40000000
+      },
+      {
+        "name": "S28 Relic Guardian Sword",
+        "icon": "temp/output32_crf/Relic Sword 1.png",
+        "prevPrice": 10000000,
+        "currPrice": 10000000
+      },
+      {
+        "name": "S28 Relic Guardian 5/5",
+        "icon": "temp/output32_crf/Relic Armor.png",
+        "prevPrice": 60000000,
+        "currPrice": 60000000
+      },
+      {
+        "name": "S28 Relic Guardian Bow",
+        "icon": "temp/output32_crf/g1048_relic_bow.png",
+        "prevPrice": 5000000,
+        "currPrice": 5000000
+      },
+      {
+        "name": "S29 Bee Knight 4/4",
+        "icon": "temp/output32_crf/Bee Armor.png",
+        "prevPrice": 25000000,
+        "currPrice": 25000000
+      },
+      {
+        "name": "S29 Bee Knight Sword",
+        "icon": "temp/output32_crf/Bee Sword 1.png",
+        "prevPrice": 10000000,
+        "currPrice": 10000000
+      },
+      {
+        "name": "S29 Bee Knight 5/5",
+        "icon": "temp/output32_crf/Bee Armor.png",
+        "prevPrice": 30000000,
+        "currPrice": 30000000
+      },
+      {
+        "name": "S29 Bee Knight Bow",
+        "icon": "temp/output32_crf/g1048_bee_bow.png",
+        "prevPrice": 5000000,
+        "currPrice": 5000000
+      },
+      {
+        "name": "S30 Spider Web 4/4",
+        "icon": "temp/output32_crf/Spider Armor.png",
+        "prevPrice": 25000000,
+        "currPrice": 25000000
+      },
+      {
+        "name": "S30 Spider Web Sword",
+        "icon": "temp/output32_crf/Spider Sword 1.png",
+        "prevPrice": 10000000,
+        "currPrice": 10000000
+      },
+      {
+        "name": "S30 Spider Web 5/5",
+        "icon": "temp/output32_crf/Spider Armor.png",
+        "prevPrice": 30000000,
+        "currPrice": 30000000
+      },
+      {
+        "name": "S30 Spider Web Bow",
+        "icon": "temp/output32_crf/g1048_spider_bow.png",
+        "prevPrice": 5000000,
+        "currPrice": 5000000
+      },
+      {
+        "name": "S31 Rabbit 4/4",
+        "icon": "temp/output32_crf/Rabbit Armor.png",
+        "prevPrice": 60000000,
+        "currPrice": 60000000
+      },
+      {
+        "name": "S31 Rabbit Sword",
+        "icon": "temp/output32_crf/Rabbit Sword 1.png",
+        "prevPrice": 10000000,
+        "currPrice": 10000000
+      },
+      {
+        "name": "S31 Rabbit 5/5",
+        "icon": "temp/output32_crf/Rabbit Armor.png",
+        "prevPrice": 80000000,
+        "currPrice": 80000000
+      },
+      {
+        "name": "S31 Rabbit Bow",
+        "icon": "temp/output32_crf/g1048_rabbit_bow.png",
+        "prevPrice": 5000000,
+        "currPrice": 5000000
+      },
+      {
+        "name": "S32 Meteor Battalion 4/4",
+        "icon": "temp/output32_crf/Meteor Armor.png",
+        "prevPrice": 25000000,
+        "currPrice": 25000000
+      },
+      {
+        "name": "S32 Meteor Battalion Sword",
+        "icon": "temp/output32_crf/Meteor Sword 1.png",
+        "prevPrice": 20000000,
+        "currPrice": 20000000
+      },
+      {
+        "name": "S32 Meteor Battalion 5/5",
+        "icon": "temp/output32_crf/Meteor Armor.png",
+        "prevPrice": 35000000,
+        "currPrice": 35000000
+      },
+      {
+        "name": "S32 Meteor Battalion Bow",
+        "icon": "temp/output32_crf/g1048_meteor_bow.png",
+        "prevPrice": 15000000,
+        "currPrice": 15000000
+      },
+      {
+        "name": "S33 Wave 4/4",
+        "icon": "temp/output32_crf/Waves Armor.png",
+        "prevPrice": 25000000,
+        "currPrice": 25000000
+      },
+      {
+        "name": "S33 Wave Sword",
+        "icon": "temp/output32_crf/Waves Sword 1.png",
+        "prevPrice": 20000000,
+        "currPrice": 20000000
+      },
+      {
+        "name": "S33 Wave 5/5",
+        "icon": "temp/output32_crf/Waves Armor.png",
+        "prevPrice": 40000000,
+        "currPrice": 40000000
+      },
+      {
+        "name": "S33 Wave Bow",
+        "icon": "temp/output32_crf/g1048_waves_bow.png",
+        "prevPrice": 15000000,
+        "currPrice": 15000000
+      },
+      {
+        "name": "S34 Flytrap 4/4",
+        "icon": "temp/output32_crf/Flytrap Armor.png",
+        "prevPrice": 30000000,
+        "currPrice": 30000000
+      },
+      {
+        "name": "S34 Flytrap Sword",
+        "icon": "temp/output32_crf/Flytrap Sword 1.png",
+        "prevPrice": 20000000,
+        "currPrice": 20000000
+      },
+      {
+        "name": "S34 Flytrap 5/5",
+        "icon": "temp/output32_crf/Flytrap Armor.png",
+        "prevPrice": 40000000,
+        "currPrice": 40000000
+      },
+      {
+        "name": "S34 Flytrap Bow",
+        "icon": "temp/output32_crf/g1048_flytrap_bow.png",
+        "prevPrice": 20000000,
+        "currPrice": 20000000
+      },
+      {
+        "name": "S35 Gem Knight 4/4",
+        "icon": "temp/output32_crf/Gem Knight Armor.png",
+        "prevPrice": 30000000,
+        "currPrice": 30000000
+      },
+      {
+        "name": "S35 Gem Knight Sword",
+        "icon": "temp/output32_crf/Gem Knight Sword 1.png",
+        "prevPrice": 25000000,
+        "currPrice": 25000000
+      },
+      {
+        "name": "S35 Gem Knight 5/5",
+        "icon": "temp/output32_crf/Gem Knight Armor.png",
+        "prevPrice": 45000000,
+        "currPrice": 45000000
+      },
+      {
+        "name": "S35 Gem Knight Bow",
+        "icon": "temp/output32_crf/g1048_gem_knight_bow.png",
+        "prevPrice": 25000000,
+        "currPrice": 25000000
+      },
+      {
+        "name": "S36 Mummy 4/4",
+        "icon": "temp/output32_crf/Mummy Armor.png",
+        "prevPrice": 80000000,
+        "currPrice": 80000000
+      },
+      {
+        "name": "S36 Mummy Sword",
+        "icon": "temp/output32_crf/Mummy Sword 1.png",
+        "prevPrice": 40000000,
+        "currPrice": 40000000
+      },
+      {
+        "name": "S36 Mummy 5/5",
+        "icon": "temp/output32_crf/Mummy Armor.png",
+        "prevPrice": 100000000,
+        "currPrice": 100000000
+      },
+      {
+        "name": "S36 Mummy Bow",
+        "icon": "temp/output32_crf/g1048_mummy_bow.png",
+        "prevPrice": 35000000,
+        "currPrice": 35000000
+      },
+      {
+        "name": "S37 Necrotic 4/4",
+        "icon": "",
+        "prevPrice": 25000000,
+        "currPrice": 25000000
+      },
+      {
+        "name": "S37 Necrotic Sword",
+        "icon": "",
+        "prevPrice": 20000000,
+        "currPrice": 20000000
+      },
+      {
+        "name": "S37 Necrotic 5/5",
+        "icon": "",
+        "prevPrice": 50000000,
+        "currPrice": 50000000
+      },
+      {
+        "name": "S37 Necrotic Gun",
+        "icon": "",
+        "prevPrice": 15000000,
+        "currPrice": 15000000
+      },
+      {
+        "name": "S38 Blood Knight 4/4",
+        "icon": "temp/output32_crf/Blood Knight Armor.png",
+        "prevPrice": 30000000,
+        "currPrice": 30000000
+      },
+      {
+        "name": "S38 Blood Knight Sword",
+        "icon": "temp/output32_crf/Blood Knight Sword 1.png",
+        "prevPrice": 20000000,
+        "currPrice": 20000000
+      },
+      {
+        "name": "S38 Blood Knight 5/5",
+        "icon": "temp/output32_crf/Blood Knight Armor.png",
+        "prevPrice": 45000000,
+        "currPrice": 45000000
+      },
+      {
+        "name": "S38 Blood Knight Bow",
+        "icon": "temp/output32_crf/g1048_blood_knight_bow.png",
+        "prevPrice": 20000000,
+        "currPrice": 20000000
+      },
+      {
+        "name": "S39 Bladewolf 4/4",
+        "icon": "",
+        "prevPrice": 30000000,
+        "currPrice": 30000000
+      },
+      {
+        "name": "S39 Bladewolf Sword",
+        "icon": "",
+        "prevPrice": 20000000,
+        "currPrice": 20000000
+      },
+      {
+        "name": "S39 Bladewolf 5/5",
+        "icon": "",
+        "prevPrice": 45000000,
+        "currPrice": 45000000
+      },
+      {
+        "name": "S39 Bladewolf Bow",
+        "icon": "",
+        "prevPrice": 20000000,
+        "currPrice": 20000000
+      },
+      {
+        "name": "S40 Bone Knight 4/4",
+        "icon": "temp/output32_crf/Bone Knight Armor.png",
+        "prevPrice": 30000000,
+        "currPrice": 30000000
+      },
+      {
+        "name": "S40 Bone Knight Sword",
+        "icon": "temp/output32_crf/Bone Knight Sword 1.png",
+        "prevPrice": 20000000,
+        "currPrice": 20000000
+      },
+      {
+        "name": "S40 Bone Knight 5/5",
+        "icon": "temp/output32_crf/Bone Knight Armor.png",
+        "prevPrice": 45000000,
+        "currPrice": 45000000
+      },
+      {
+        "name": "S40 Bone Knight Bow",
+        "icon": "temp/output32_crf/g1048_bone_knight_bow.png",
+        "prevPrice": 20000000,
+        "currPrice": 20000000
+      },
+      {
+        "name": "S41 Lawless 4/4",
+        "icon": "",
+        "prevPrice": 30000000,
+        "currPrice": 30000000
+      },
+      {
+        "name": "S41 Lawless Sword",
+        "icon": "",
+        "prevPrice": 20000000,
+        "currPrice": 20000000
+      },
+      {
+        "name": "S41 Lawless 5/5",
+        "icon": "",
+        "prevPrice": 45000000,
+        "currPrice": 45000000
+      },
+      {
+        "name": "S41 Lawless Bow",
+        "icon": "",
+        "prevPrice": 20000000,
+        "currPrice": 20000000
+      },
+      {
+        "name": "S42 Firefox 4/4",
+        "icon": "temp/output32_crf/Firefox Armor.png",
+        "prevPrice": 60000000,
+        "currPrice": 60000000
+      },
+      {
+        "name": "S42 Firefox Sword",
+        "icon": "temp/output32_crf/Firefox Sword 1.png",
+        "prevPrice": 20000000,
+        "currPrice": 20000000
+      },
+      {
+        "name": "S42 Firefox 5/5",
+        "icon": "temp/output32_crf/Firefox Armor.png",
+        "prevPrice": 80000000,
+        "currPrice": 80000000
+      },
+      {
+        "name": "S42 Firefox Bow",
+        "icon": "temp/output32_crf/g1048_firefox_bow.png",
+        "prevPrice": 20000000,
+        "currPrice": 20000000
+      },
+      {
+        "name": "S43 Phantom Pirate 4/4",
+        "icon": "",
+        "prevPrice": 30000000,
+        "currPrice": 30000000
+      },
+      {
+        "name": "S43 Phantom Pirate Sword",
+        "icon": "",
+        "prevPrice": 20000000,
+        "currPrice": 20000000
+      },
+      {
+        "name": "S43 Phantom Pirate 5/5",
+        "icon": "",
+        "prevPrice": 45000000,
+        "currPrice": 45000000
+      },
+      {
+        "name": "S43 Phantom Pirate Bow",
+        "icon": "",
+        "prevPrice": 20000000,
+        "currPrice": 20000000
+      },
+      {
+        "name": "S44 Lost Dynasty 4/4",
+        "icon": "",
+        "prevPrice": 30000000,
+        "currPrice": 30000000
+      },
+      {
+        "name": "S44 Lost Dynasty Sword",
+        "icon": "",
+        "prevPrice": 20000000,
+        "currPrice": 20000000
+      },
+      {
+        "name": "S44 Lost Dynasty 5/5",
+        "icon": "",
+        "prevPrice": 45000000,
+        "currPrice": 45000000
+      },
+      {
+        "name": "S44 Lost Dynasty Bow",
+        "icon": "",
+        "prevPrice": 20000000,
+        "currPrice": 20000000
+      },
+      {
+        "name": "S45 Gale Ninja 4/4",
+        "icon": "temp/output32_crf/Wind Ninja Armor.png",
+        "prevPrice": 60000000,
+        "currPrice": 60000000
+      },
+      {
+        "name": "S45 Gale Ninja Sword",
+        "icon": "temp/output32_crf/Wind Ninja Sword 1.png",
+        "prevPrice": 25000000,
+        "currPrice": 25000000
+      },
+      {
+        "name": "S45 Gale Ninja 5/5",
+        "icon": "temp/output32_crf/Wind Ninja Armor.png",
+        "prevPrice": 80000000,
+        "currPrice": 80000000
+      },
+      {
+        "name": "S45 Gale Ninja Bow",
+        "icon": "temp/output32_crf/g1048_wind_ninja_bow.png",
+        "prevPrice": 25000000,
+        "currPrice": 25000000
+      },
+      {
+        "name": "S46 Black Warrior 4/4",
+        "icon": "",
+        "prevPrice": 22500000,
+        "currPrice": 22500000
+      },
+      {
+        "name": "S46 Black Warrior Sword",
+        "icon": "",
+        "prevPrice": 20000000,
+        "currPrice": 20000000
+      },
+      {
+        "name": "S46 Black Warrior 5/5",
+        "icon": "",
+        "prevPrice": 40000000,
+        "currPrice": 40000000
+      },
+      {
+        "name": "S46 Black Warrior Bow",
+        "icon": "",
+        "prevPrice": 17500000,
+        "currPrice": 17500000
+      },
+      {
+        "name": "S47 Cyberpunk 4/4",
+        "icon": "temp/output32_crf/Cyberpunk Armor.png",
+        "prevPrice": 17500000,
+        "currPrice": 17500000
+      },
+      {
+        "name": "S47 Cyberpunk Sword",
+        "icon": "temp/output32_crf/Cyberpunk Sword 1.png",
+        "prevPrice": 20000000,
+        "currPrice": 20000000
+      },
+      {
+        "name": "S47 Cyberpunk 5/5",
+        "icon": "temp/output32_crf/Cyberpunk Armor.png",
+        "prevPrice": 27500000,
+        "currPrice": 27500000
+      },
+      {
+        "name": "S47 Cyberpunk Bow",
+        "icon": "temp/output32_crf/g1048_cyberpunk_bow.png",
+        "prevPrice": 20000000,
+        "currPrice": 20000000
+      },
+      {
+        "name": "S48 Dark Knight 4/4",
+        "icon": "temp/output32_crf/Dark Knight Armor.png",
+        "prevPrice": 22500000,
+        "currPrice": 22500000
+      },
+      {
+        "name": "S48 Dark Knight Sword",
+        "icon": "temp/output32_crf/Dark Knight Sword 1.png",
+        "prevPrice": 20000000,
+        "currPrice": 20000000
+      },
+      {
+        "name": "S48 Dark Knight 5/5",
+        "icon": "temp/output32_crf/Dark Knight Armor.png",
+        "prevPrice": 40000000,
+        "currPrice": 40000000
+      },
+      {
+        "name": "S48 Dark Knight Bow",
+        "icon": "temp/output32_crf/g1048_dark_knight_bow.png",
+        "prevPrice": 20000000,
+        "currPrice": 20000000
+      },
+      {
+        "name": "S49 Fire Dragon Knight 4/4",
+        "icon": "temp/output32_crf/Dragon Knight Armor.png",
+        "prevPrice": 30000000,
+        "currPrice": 30000000
+      },
+      {
+        "name": "S49 Fire Dragon Knight Sword",
+        "icon": "temp/output32_crf/Dragon Knight Sword 1.png",
+        "prevPrice": 20000000,
+        "currPrice": 20000000
+      },
+      {
+        "name": "S49 Fire Dragon Knight 5/5",
+        "icon": "temp/output32_crf/Dragon Knight Armor.png",
+        "prevPrice": 40000000,
+        "currPrice": 40000000
+      },
+      {
+        "name": "S49 Fire Dragon Knight Bow",
+        "icon": "temp/output32_crf/g1048_dragon_knight_bow.png",
+        "prevPrice": 25000000,
+        "currPrice": 25000000
+      }
+    ]
+  },
+  {
+    "category": "TITLES",
+    "logo": "tickerMaker/classic/tiles/diamond.png",
+    "items": [
+      {
+        "name": "Zeus TT",
+        "icon": "temp/output32_crf/Zeus Title.png",
+        "prevPrice": 775000000,
+        "currPrice": 700000000
+      },
+      {
+        "name": "Hades TT",
+        "icon": "temp/output32_crf/Hades Title.png",
+        "prevPrice": 1900000000,
+        "currPrice": 1750000000
+      },
+      {
+        "name": "Ares TT",
+        "icon": "temp/output32_crf/Ares Title.png",
+        "prevPrice": 1800000000,
+        "currPrice": 1400000000
+      },
+      {
+        "name": "Apollo TT",
+        "icon": "temp/output32_crf/Apollo Title.png",
+        "prevPrice": 2000000000,
+        "currPrice": 2000000000
+      },
+      {
+        "name": "Fenrir TT",
+        "icon": "temp/output32_crf/Fenrir Title.png",
+        "prevPrice": 2800000000,
+        "currPrice": 2550000000
+      },
+      {
+        "name": "Valk TT",
+        "icon": "temp/output32_crf/Valkyrie Title.png",
+        "prevPrice": 1950000000,
+        "currPrice": 1800000000
+      },
+      {
+        "name": "Jorm TT",
+        "icon": "temp/output32_crf/Jormungandr Title.png",
+        "prevPrice": 1450000000,
+        "currPrice": 1250000000
+      },
+      {
+        "name": "Thor TT",
+        "icon": "temp/output32_crf/Thor Title.png",
+        "prevPrice": 725000000,
+        "currPrice": 675000000
+      },
+      {
+        "name": "Helheim TT",
+        "icon": "temp/output32_crf/Hel Title.png",
+        "prevPrice": 6150000000,
+        "currPrice": 6500000000
+      },
+      {
+        "name": "Hermes TT",
+        "icon": "temp/output32_crf/Hermes Title.png",
+        "prevPrice": 2700000000,
+        "currPrice": 2350000000
+      },
+      {
+        "name": "Hephaestus TT",
+        "icon": "temp/output32_crf/Hephaestus Title.png",
+        "prevPrice": 950000000,
+        "currPrice": 950000000
+      },
+      {
+        "name": "Winter TT",
+        "icon": "temp/output32_crf/Chione Title.png",
+        "prevPrice": 2400000000,
+        "currPrice": 2350000000
+      },
+      {
+        "name": "Medusa TT",
+        "icon": "temp/output32_crf/Medusa Title.png",
+        "prevPrice": 2350000000,
+        "currPrice": 1700000000
+      },
+      {
+        "name": "Pride TT",
+        "icon": "temp/output32_crf/Pride Title.png",
+        "prevPrice": 3950000000,
+        "currPrice": 4000000000
+      },
+      {
+        "name": "Envy TT",
+        "icon": "temp/output32_crf/Envy Armor.png",
+        "prevPrice": 3900000000,
+        "currPrice": 2700000000
+      },
+      {
+        "name": "Gluttony TT",
+        "icon": "temp/output32_crf/Greed Title.png",
+        "prevPrice": 1650000000,
+        "currPrice": 1350000000
+      },
+      {
+        "name": "Wrath TT",
+        "icon": "temp/output32_crf/Wrath Title.png",
+        "prevPrice": 1050000000,
+        "currPrice": 950000000
+      },
+      {
+        "name": "Greed TT",
+        "icon": "temp/output32_crf/Greed Title.png",
+        "prevPrice": 1900000000,
+        "currPrice": 1800000000
+      },
+      {
+        "name": "Sloth TT",
+        "icon": "temp/output32_crf/Sloth Title.png",
+        "prevPrice": 1950000000,
+        "currPrice": 1800000000
+      },
+      {
+        "name": "Lust TT",
+        "icon": "temp/output32_crf/Lust Title.png",
+        "prevPrice": 1250000000,
+        "currPrice": 1100000000
+      },
+      {
+        "name": "Judgment TT",
+        "icon": "temp/output32_crf/Judgment Title.png",
+        "prevPrice": 1250000000,
+        "currPrice": 1050000000
+      },
+      {
+        "name": "Phoenix TT",
+        "icon": "temp/output32_crf/Phoenix Title.png",
+        "prevPrice": 1900000000,
+        "currPrice": 1650000000
+      },
+      {
+        "name": "Mercurius TT",
+        "icon": "temp/output32_crf/Mercury Title.png",
+        "prevPrice": 1050000000,
+        "currPrice": 1050000000
+      },
+      {
+        "name": "Mars TT",
+        "icon": "temp/output32_crf/Mars Title.png",
+        "prevPrice": 2100000000,
+        "currPrice": 1700000000
+      },
+      {
+        "name": "Venus TT",
+        "icon": "temp/output32_crf/Venus Title.png",
+        "prevPrice": 1650000000,
+        "currPrice": 1700000000
+      },
+      {
+        "name": "Terra TT",
+        "icon": "temp/output32_crf/Terra Title.png",
+        "prevPrice": 4250000000,
+        "currPrice": 3900000000
+      },
+      {
+        "name": "Uranus TT",
+        "icon": "temp/output32_crf/Uranus Title.png",
+        "prevPrice": 1900000000,
+        "currPrice": 1800000000
+      },
+      {
+        "name": "Neptune TT",
+        "icon": "temp/output32_crf/Neptune Title.png",
+        "prevPrice": 1500000000,
+        "currPrice": 1400000000
+      },
+      {
+        "name": "Saturn TT",
+        "icon": "temp/output32_crf/Saturn Title.png",
+        "prevPrice": 1500000000,
+        "currPrice": 1400000000
+      },
+      {
+        "name": "Jupiter TT",
+        "icon": "temp/output32_crf/Jupiter Armor.png",
+        "prevPrice": 3500000000,
+        "currPrice": 3500000000
+      },
+      {
+        "name": "Fool's TT",
+        "icon": "temp/output32_crf/The Fool Armor.png",
+        "prevPrice": 1100000000,
+        "currPrice": 950000000
+      },
+      {
+        "name": "Magician TT",
+        "icon": "",
+        "prevPrice": 4000000000,
+        "currPrice": 4000000000
+      },
+      {
+        "name": "Chariot TT",
+        "icon": "",
+        "prevPrice": 2900000000,
+        "currPrice": 2250000000
+      }
+    ]
+  },
+  {
+    "category": "PETS",
+    "logo": "tickerMaker/classic/tiles/flower01_32.png",
+    "items": [
+      {
+        "name": "Roar Flame Tiger P5",
+        "icon": "",
+        "prevPrice": 50000000,
+        "currPrice": 50000000
+      },
+      {
+        "name": "Roar Flame Tiger P6",
+        "icon": "",
+        "prevPrice": 60000000,
+        "currPrice": 60000000
+      },
+      {
+        "name": "Roar Flame Tiger P7",
+        "icon": "",
+        "prevPrice": 80000000,
+        "currPrice": 80000000
+      },
+      {
+        "name": "Roar Flame Tiger P8",
+        "icon": "",
+        "prevPrice": 150000000,
+        "currPrice": 100000000
+      },
+      {
+        "name": "Roar Flame Tiger P9",
+        "icon": "",
+        "prevPrice": 250000000,
+        "currPrice": 200000000
+      },
+      {
+        "name": "Roar Flame Tiger P10",
+        "icon": "",
+        "prevPrice": 525000000,
+        "currPrice": 525000000
+      },
+      {
+        "name": "Nine-Tailed Fox P5",
+        "icon": "",
+        "prevPrice": 90000000,
+        "currPrice": 60000000
+      },
+      {
+        "name": "Nine-Tailed Fox P6",
+        "icon": "",
+        "prevPrice": 120000000,
+        "currPrice": 90000000
+      },
+      {
+        "name": "Nine-Tailed Fox P7",
+        "icon": "",
+        "prevPrice": 150000000,
+        "currPrice": 120000000
+      },
+      {
+        "name": "Nine-Tailed Fox P8",
+        "icon": "",
+        "prevPrice": 265000000,
+        "currPrice": 225000000
+      },
+      {
+        "name": "Nine-Tailed Fox P9",
+        "icon": "",
+        "prevPrice": 525000000,
+        "currPrice": 425000000
+      },
+      {
+        "name": "Nine-Tailed Fox P10",
+        "icon": "",
+        "prevPrice": 1050000000,
+        "currPrice": 1050000000
+      },
+      {
+        "name": "Magic Flame Dragon P5",
+        "icon": "",
+        "prevPrice": 70000000,
+        "currPrice": 60000000
+      },
+      {
+        "name": "Magic Flame Dragon P6",
+        "icon": "",
+        "prevPrice": 100000000,
+        "currPrice": 90000000
+      },
+      {
+        "name": "Magic Flame Dragon P7",
+        "icon": "",
+        "prevPrice": 150000000,
+        "currPrice": 120000000
+      },
+      {
+        "name": "Magic Flame Dragon P8",
+        "icon": "",
+        "prevPrice": 250000000,
+        "currPrice": 200000000
+      },
+      {
+        "name": "Magic Flame Dragon P9",
+        "icon": "",
+        "prevPrice": 450000000,
+        "currPrice": 400000000
+      },
+      {
+        "name": "Magic Flame Dragon P10",
+        "icon": "",
+        "prevPrice": 950000000,
+        "currPrice": 950000000
+      },
+      {
+        "name": "Thorn Shooter P5",
+        "icon": "",
+        "prevPrice": 70000000,
+        "currPrice": 50000000
+      },
+      {
+        "name": "Thorn Shooter P6",
+        "icon": "",
+        "prevPrice": 100000000,
+        "currPrice": 75000000
+      },
+      {
+        "name": "Thorn Shooter P7",
+        "icon": "",
+        "prevPrice": 150000000,
+        "currPrice": 100000000
+      },
+      {
+        "name": "Thorn Shooter P8",
+        "icon": "",
+        "prevPrice": 250000000,
+        "currPrice": 200000000
+      },
+      {
+        "name": "Thorn Shooter P9",
+        "icon": "",
+        "prevPrice": 300000000,
+        "currPrice": 300000000
+      },
+      {
+        "name": "Thorn Shooter P10",
+        "icon": "",
+        "prevPrice": 650000000,
+        "currPrice": 650000000
+      },
+      {
+        "name": "Polar Ice Shark P5",
+        "icon": "",
+        "prevPrice": 180000000,
+        "currPrice": 150000000
+      },
+      {
+        "name": "Polar Ice Shark P6",
+        "icon": "",
+        "prevPrice": 425000000,
+        "currPrice": 250000000
+      },
+      {
+        "name": "Polar Ice Shark P7",
+        "icon": "",
+        "prevPrice": 625000000,
+        "currPrice": 350000000
+      },
+      {
+        "name": "Polar Ice Shark P8",
+        "icon": "",
+        "prevPrice": 875000000,
+        "currPrice": 600000000
+      },
+      {
+        "name": "Polar Ice Shark P9",
+        "icon": "",
+        "prevPrice": 1500000000,
+        "currPrice": 1050000000
+      },
+      {
+        "name": "Polar Ice Shark P10",
+        "icon": "",
+        "prevPrice": 4250000000,
+        "currPrice": 2750000000
+      },
+      {
+        "name": "Cumulus Bird P5",
+        "icon": "",
+        "prevPrice": 70000000,
+        "currPrice": 70000000
+      },
+      {
+        "name": "Cumulus Bird P6",
+        "icon": "",
+        "prevPrice": 100000000,
+        "currPrice": 100000000
+      },
+      {
+        "name": "Cumulus Bird P7",
+        "icon": "",
+        "prevPrice": 150000000,
+        "currPrice": 150000000
+      },
+      {
+        "name": "Cumulus Bird P8",
+        "icon": "",
+        "prevPrice": 250000000,
+        "currPrice": 250000000
+      },
+      {
+        "name": "Cumulus Bird P9",
+        "icon": "",
+        "prevPrice": 375000000,
+        "currPrice": 350000000
+      },
+      {
+        "name": "Cumulus Bird P10",
+        "icon": "",
+        "prevPrice": 800000000,
+        "currPrice": 650000000
+      },
+      {
+        "name": "Blaze Rex P5",
+        "icon": "",
+        "prevPrice": 80000000,
+        "currPrice": 80000000
+      },
+      {
+        "name": "Blaze Rex P6",
+        "icon": "",
+        "prevPrice": 125000000,
+        "currPrice": 125000000
+      },
+      {
+        "name": "Blaze Rex P7",
+        "icon": "",
+        "prevPrice": 200000000,
+        "currPrice": 200000000
+      },
+      {
+        "name": "Blaze Rex P8",
+        "icon": "",
+        "prevPrice": 375000000,
+        "currPrice": 350000000
+      },
+      {
+        "name": "Blaze Rex P9",
+        "icon": "",
+        "prevPrice": 600000000,
+        "currPrice": 600000000
+      },
+      {
+        "name": "Blaze Rex P10",
+        "icon": "",
+        "prevPrice": 1500000000,
+        "currPrice": 1500000000
+      },
+      {
+        "name": "Pegasus P5",
+        "icon": "temp/output32_crf/0 Pet Egg.png",
+        "prevPrice": 650000000,
+        "currPrice": 650000000
+      },
+      {
+        "name": "Pegasus P6",
+        "icon": "temp/output32_crf/0 Pet Egg.png",
+        "prevPrice": 1050000000,
+        "currPrice": 1050000000
+      },
+      {
+        "name": "Pegasus P7",
+        "icon": "temp/output32_crf/0 Pet Egg.png",
+        "prevPrice": 1450000000,
+        "currPrice": 1450000000
+      },
+      {
+        "name": "Pegasus P8",
+        "icon": "temp/output32_crf/0 Pet Egg.png",
+        "prevPrice": 2100000000,
+        "currPrice": 2100000000
+      },
+      {
+        "name": "Pegasus P9",
+        "icon": "temp/output32_crf/0 Pet Egg.png",
+        "prevPrice": 3750000000,
+        "currPrice": 3750000000
+      },
+      {
+        "name": "Pegasus P10",
+        "icon": "temp/output32_crf/0 Pet Egg.png",
+        "prevPrice": 7250000000,
+        "currPrice": 7250000000
+      },
+      {
+        "name": "Flame Scorpion P5",
+        "icon": "",
+        "prevPrice": 150000000,
+        "currPrice": 150000000
+      },
+      {
+        "name": "Flame Scorpion P6",
+        "icon": "",
+        "prevPrice": 200000000,
+        "currPrice": 200000000
+      },
+      {
+        "name": "Flame Scorpion P7",
+        "icon": "",
+        "prevPrice": 350000000,
+        "currPrice": 350000000
+      },
+      {
+        "name": "Flame Scorpion P8",
+        "icon": "",
+        "prevPrice": 450000000,
+        "currPrice": 450000000
+      },
+      {
+        "name": "Flame Scorpion P9",
+        "icon": "",
+        "prevPrice": 800000000,
+        "currPrice": 800000000
+      },
+      {
+        "name": "Flame Scorpion P10",
+        "icon": "",
+        "prevPrice": 1750000000,
+        "currPrice": 1750000000
+      },
+      {
+        "name": "Mantis P5",
+        "icon": "temp/output32_crf/1 Pet Egg.png",
+        "prevPrice": 300000000,
+        "currPrice": 300000000
+      },
+      {
+        "name": "Mantis P6",
+        "icon": "temp/output32_crf/1 Pet Egg.png",
+        "prevPrice": 425000000,
+        "currPrice": 450000000
+      },
+      {
+        "name": "Mantis P7",
+        "icon": "temp/output32_crf/1 Pet Egg.png",
+        "prevPrice": 525000000,
+        "currPrice": 550000000
+      },
+      {
+        "name": "Mantis P8",
+        "icon": "temp/output32_crf/1 Pet Egg.png",
+        "prevPrice": 775000000,
+        "currPrice": 800000000
+      },
+      {
+        "name": "Mantis P9",
+        "icon": "temp/output32_crf/1 Pet Egg.png",
+        "prevPrice": 1350000000,
+        "currPrice": 1350000000
+      },
+      {
+        "name": "Mantis P10",
+        "icon": "temp/output32_crf/1 Pet Egg.png",
+        "prevPrice": 3900000000,
+        "currPrice": 4000000000
+      },
+      {
+        "name": "Wukong P5",
+        "icon": "temp/output32_crf/Wukong Pet Egg.png",
+        "prevPrice": 100000000,
+        "currPrice": 50000000
+      },
+      {
+        "name": "Wukong P6",
+        "icon": "temp/output32_crf/Wukong Pet Egg.png",
+        "prevPrice": 150000000,
+        "currPrice": 90000000
+      },
+      {
+        "name": "Wukong P7",
+        "icon": "temp/output32_crf/Wukong Pet Egg.png",
+        "prevPrice": 225000000,
+        "currPrice": 150000000
+      },
+      {
+        "name": "Wukong P8",
+        "icon": "temp/output32_crf/Wukong Pet Egg.png",
+        "prevPrice": 325000000,
+        "currPrice": 200000000
+      },
+      {
+        "name": "Wukong P9",
+        "icon": "temp/output32_crf/Wukong Pet Egg.png",
+        "prevPrice": 600000000,
+        "currPrice": 375000000
+      },
+      {
+        "name": "Wukong P10",
+        "icon": "temp/output32_crf/Wukong Pet Egg.png",
+        "prevPrice": 1100000000,
+        "currPrice": 650000000
+      },
+      {
+        "name": "Snake P5",
+        "icon": "",
+        "prevPrice": 225000000,
+        "currPrice": 225000000
+      },
+      {
+        "name": "Snake P6",
+        "icon": "",
+        "prevPrice": 300000000,
+        "currPrice": 300000000
+      },
+      {
+        "name": "Snake P7",
+        "icon": "",
+        "prevPrice": 450000000,
+        "currPrice": 450000000
+      },
+      {
+        "name": "Snake P8",
+        "icon": "",
+        "prevPrice": 575000000,
+        "currPrice": 575000000
+      },
+      {
+        "name": "Snake P9",
+        "icon": "",
+        "prevPrice": 850000000,
+        "currPrice": 850000000
+      },
+      {
+        "name": "Snake P10",
+        "icon": "",
+        "prevPrice": 2000000000,
+        "currPrice": 2000000000
+      },
+      {
+        "name": "Gale Breaker Centaur P5",
+        "icon": "",
+        "prevPrice": 150000000,
+        "currPrice": 150000000
+      },
+      {
+        "name": "Gale Breaker Centaur P6",
+        "icon": "",
+        "prevPrice": 250000000,
+        "currPrice": 250000000
+      },
+      {
+        "name": "Gale Breaker Centaur P7",
+        "icon": "",
+        "prevPrice": 350000000,
+        "currPrice": 350000000
+      },
+      {
+        "name": "Gale Breaker Centaur P8",
+        "icon": "",
+        "prevPrice": 475000000,
+        "currPrice": 475000000
+      },
+      {
+        "name": "Gale Breaker Centaur P9",
+        "icon": "",
+        "prevPrice": 800000000,
+        "currPrice": 750000000
+      },
+      {
+        "name": "Gale Breaker Centaur P10",
+        "icon": "",
+        "prevPrice": 1750000000,
+        "currPrice": 1750000000
+      },
+      {
+        "name": "Narla/Narwhal P5",
+        "icon": "temp/output32_crf/2 Pet Egg.png",
+        "prevPrice": 250000000,
+        "currPrice": 250000000
+      },
+      {
+        "name": "Narla/Narwhal P6",
+        "icon": "temp/output32_crf/2 Pet Egg.png",
+        "prevPrice": 350000000,
+        "currPrice": 300000000
+      },
+      {
+        "name": "Narla/Narwhal P7",
+        "icon": "temp/output32_crf/2 Pet Egg.png",
+        "prevPrice": 450000000,
+        "currPrice": 400000000
+      },
+      {
+        "name": "Narla/Narwhal P8",
+        "icon": "temp/output32_crf/2 Pet Egg.png",
+        "prevPrice": 575000000,
+        "currPrice": 475000000
+      },
+      {
+        "name": "Narla/Narwhal P9",
+        "icon": "temp/output32_crf/2 Pet Egg.png",
+        "prevPrice": 850000000,
+        "currPrice": 750000000
+      },
+      {
+        "name": "Narla/Narwhal P10",
+        "icon": "temp/output32_crf/2 Pet Egg.png",
+        "prevPrice": 2000000000,
+        "currPrice": 2000000000
+      },
+      {
+        "name": "Netherland Dragon P5",
+        "icon": "temp/output32_crf/3 Pet Egg.png",
+        "prevPrice": 125000000,
+        "currPrice": 90000000
+      },
+      {
+        "name": "Netherland Dragon P6",
+        "icon": "temp/output32_crf/3 Pet Egg.png",
+        "prevPrice": 200000000,
+        "currPrice": 150000000
+      },
+      {
+        "name": "Netherland Dragon P7",
+        "icon": "temp/output32_crf/3 Pet Egg.png",
+        "prevPrice": 300000000,
+        "currPrice": 200000000
+      },
+      {
+        "name": "Netherland Dragon P8",
+        "icon": "temp/output32_crf/3 Pet Egg.png",
+        "prevPrice": 450000000,
+        "currPrice": 325000000
+      },
+      {
+        "name": "Netherland Dragon P9",
+        "icon": "temp/output32_crf/3 Pet Egg.png",
+        "prevPrice": 750000000,
+        "currPrice": 525000000
+      },
+      {
+        "name": "Netherland Dragon P10",
+        "icon": "temp/output32_crf/3 Pet Egg.png",
+        "prevPrice": 1750000000,
+        "currPrice": 1500000000
+      },
+      {
+        "name": "Oni P5",
+        "icon": "",
+        "prevPrice": 150000000,
+        "currPrice": 150000000
+      },
+      {
+        "name": "Oni P6",
+        "icon": "",
+        "prevPrice": 250000000,
+        "currPrice": 250000000
+      },
+      {
+        "name": "Oni P7",
+        "icon": "",
+        "prevPrice": 350000000,
+        "currPrice": 350000000
+      },
+      {
+        "name": "Oni P8",
+        "icon": "",
+        "prevPrice": 500000000,
+        "currPrice": 500000000
+      },
+      {
+        "name": "Oni P9",
+        "icon": "",
+        "prevPrice": 775000000,
+        "currPrice": 750000000
+      },
+      {
+        "name": "Oni P10",
+        "icon": "",
+        "prevPrice": 1750000000,
+        "currPrice": 1750000000
+      },
+      {
+        "name": "Morphy P5",
+        "icon": "",
+        "prevPrice": 325000000,
+        "currPrice": 325000000
+      },
+      {
+        "name": "Morphy P6",
+        "icon": "",
+        "prevPrice": 400000000,
+        "currPrice": 400000000
+      },
+      {
+        "name": "Morphy P7",
+        "icon": "",
+        "prevPrice": 500000000,
+        "currPrice": 500000000
+      },
+      {
+        "name": "Morphy P8",
+        "icon": "",
+        "prevPrice": 650000000,
+        "currPrice": 650000000
+      },
+      {
+        "name": "Morphy P9",
+        "icon": "",
+        "prevPrice": 1100000000,
+        "currPrice": 1100000000
+      },
+      {
+        "name": "Morphy P10",
+        "icon": "",
+        "prevPrice": 2500000000,
+        "currPrice": 2500000000
+      },
+      {
+        "name": "Roar Flame Tiger P5 RR",
+        "icon": "",
+        "prevPrice": 300000000,
+        "currPrice": 300000000
+      },
+      {
+        "name": "Roar Flame Tiger P6 RR",
+        "icon": "",
+        "prevPrice": 450000000,
+        "currPrice": 450000000
+      },
+      {
+        "name": "Roar Flame Tiger P7 RR",
+        "icon": "",
+        "prevPrice": 650000000,
+        "currPrice": 650000000
+      },
+      {
+        "name": "Roar Flame Tiger P8 RR",
+        "icon": "",
+        "prevPrice": 1300000000,
+        "currPrice": 1300000000
+      },
+      {
+        "name": "Roar Flame Tiger P9 RR",
+        "icon": "",
+        "prevPrice": 2500000000,
+        "currPrice": 2500000000
+      },
+      {
+        "name": "Roar Flame Tiger P10 RR",
+        "icon": "",
+        "prevPrice": 5000000000,
+        "currPrice": 5000000000
+      },
+      {
+        "name": "Magic Flame Dragon P5 RR",
+        "icon": "",
+        "prevPrice": 425000000,
+        "currPrice": 425000000
+      },
+      {
+        "name": "Magic Flame Dragon P6 RR",
+        "icon": "",
+        "prevPrice": 525000000,
+        "currPrice": 525000000
+      },
+      {
+        "name": "Magic Flame Dragon P7 RR",
+        "icon": "",
+        "prevPrice": 900000000,
+        "currPrice": 900000000
+      },
+      {
+        "name": "Magic Flame Dragon P8 RR",
+        "icon": "",
+        "prevPrice": 2150000000,
+        "currPrice": 2150000000
+      },
+      {
+        "name": "Magic Flame Dragon P9 RR",
+        "icon": "",
+        "prevPrice": 4250000000,
+        "currPrice": 4250000000
+      },
+      {
+        "name": "Magic Flame Dragon P10 RR",
+        "icon": "",
+        "prevPrice": 6500000000,
+        "currPrice": 6500000000
+      },
+      {
+        "name": "Nine-Tailed Fox P5 RR",
+        "icon": "",
+        "prevPrice": 400000000,
+        "currPrice": 400000000
+      },
+      {
+        "name": "Nine-Tailed Fox P6 RR",
+        "icon": "",
+        "prevPrice": 550000000,
+        "currPrice": 550000000
+      },
+      {
+        "name": "Nine-Tailed Fox P7 RR",
+        "icon": "",
+        "prevPrice": 1200000000,
+        "currPrice": 1200000000
+      },
+      {
+        "name": "Nine-Tailed Fox P8 RR",
+        "icon": "",
+        "prevPrice": 2250000000,
+        "currPrice": 2250000000
+      },
+      {
+        "name": "Nine-Tailed Fox P9 RR",
+        "icon": "",
+        "prevPrice": 3750000000,
+        "currPrice": 3750000000
+      },
+      {
+        "name": "Nine-Tailed Fox P10 RR",
+        "icon": "",
+        "prevPrice": 6500000000,
+        "currPrice": 6500000000
+      },
+      {
+        "name": "Thorn Shooter P5 RR",
+        "icon": "",
+        "prevPrice": 400000000,
+        "currPrice": 400000000
+      },
+      {
+        "name": "Thorn Shooter P6 RR",
+        "icon": "",
+        "prevPrice": 575000000,
+        "currPrice": 575000000
+      },
+      {
+        "name": "Thorn Shooter P7 RR",
+        "icon": "",
+        "prevPrice": 900000000,
+        "currPrice": 900000000
+      },
+      {
+        "name": "Thorn Shooter P8 RR",
+        "icon": "",
+        "prevPrice": 1350000000,
+        "currPrice": 1350000000
+      },
+      {
+        "name": "Thorn Shooter P9 RR",
+        "icon": "",
+        "prevPrice": 2750000000,
+        "currPrice": 2750000000
+      },
+      {
+        "name": "Thorn Shooter P10 RR",
+        "icon": "",
+        "prevPrice": 6000000000,
+        "currPrice": 6000000000
+      },
+      {
+        "name": "Polar Ice Shark P5 RR",
+        "icon": "",
+        "prevPrice": 950000000,
+        "currPrice": 800000000
+      },
+      {
+        "name": "Polar Ice Shark P6 RR",
+        "icon": "",
+        "prevPrice": 1900000000,
+        "currPrice": 1050000000
+      },
+      {
+        "name": "Polar Ice Shark P7 RR",
+        "icon": "",
+        "prevPrice": 2750000000,
+        "currPrice": 1650000000
+      },
+      {
+        "name": "Polar Ice Shark P8 RR",
+        "icon": "",
+        "prevPrice": 4250000000,
+        "currPrice": 2650000000
+      },
+      {
+        "name": "Polar Ice Shark P9 RR",
+        "icon": "",
+        "prevPrice": 8500000000,
+        "currPrice": 9000000000
+      },
+      {
+        "name": "Polar Ice Shark P10 RR",
+        "icon": "",
+        "prevPrice": 19000000000,
+        "currPrice": 19000000000
+      },
+      {
+        "name": "Cumulus Bird P5 RR",
+        "icon": "",
+        "prevPrice": 325000000,
+        "currPrice": 325000000
+      },
+      {
+        "name": "Cumulus Bird P6 RR",
+        "icon": "",
+        "prevPrice": 525000000,
+        "currPrice": 525000000
+      },
+      {
+        "name": "Cumulus Bird P7 RR",
+        "icon": "",
+        "prevPrice": 1350000000,
+        "currPrice": 1350000000
+      },
+      {
+        "name": "Cumulus Bird P8 RR",
+        "icon": "",
+        "prevPrice": 2250000000,
+        "currPrice": 2250000000
+      },
+      {
+        "name": "Cumulus Bird P9 RR",
+        "icon": "",
+        "prevPrice": 3250000000,
+        "currPrice": 3250000000
+      },
+      {
+        "name": "Cumulus Bird P10 RR",
+        "icon": "",
+        "prevPrice": 6500000000,
+        "currPrice": 6500000000
+      },
+      {
+        "name": "Blaze Rex P5 RR",
+        "icon": "",
+        "prevPrice": 350000000,
+        "currPrice": 350000000
+      },
+      {
+        "name": "Blaze Rex P6 RR",
+        "icon": "",
+        "prevPrice": 500000000,
+        "currPrice": 500000000
+      },
+      {
+        "name": "Blaze Rex P7 RR",
+        "icon": "",
+        "prevPrice": 1400000000,
+        "currPrice": 1400000000
+      },
+      {
+        "name": "Blaze Rex P8 RR",
+        "icon": "",
+        "prevPrice": 2750000000,
+        "currPrice": 2750000000
+      },
+      {
+        "name": "Blaze Rex P9 RR",
+        "icon": "",
+        "prevPrice": 5750000000,
+        "currPrice": 5250000000
+      },
+      {
+        "name": "Blaze Rex P10 RR",
+        "icon": "",
+        "prevPrice": 11000000000,
+        "currPrice": 11000000000
+      },
+      {
+        "name": "Snake P5 RR",
+        "icon": "",
+        "prevPrice": 800000000,
+        "currPrice": 800000000
+      },
+      {
+        "name": "Snake P6 RR",
+        "icon": "",
+        "prevPrice": 1200000000,
+        "currPrice": 1200000000
+      },
+      {
+        "name": "Snake P7 RR",
+        "icon": "",
+        "prevPrice": 2750000000,
+        "currPrice": 2750000000
+      },
+      {
+        "name": "Snake P8 RR",
+        "icon": "",
+        "prevPrice": 4250000000,
+        "currPrice": 3750000000
+      },
+      {
+        "name": "Snake P9 RR",
+        "icon": "",
+        "prevPrice": 8000000000,
+        "currPrice": 7250000000
+      },
+      {
+        "name": "Snake P10 RR",
+        "icon": "",
+        "prevPrice": 20000000000,
+        "currPrice": 18000000000
+      },
+      {
+        "name": "Pegasus P5 RR",
+        "icon": "temp/output32_crf/0 Pet Egg.png",
+        "prevPrice": 1500000000,
+        "currPrice": 1500000000
+      },
+      {
+        "name": "Pegasus P6 RR",
+        "icon": "temp/output32_crf/0 Pet Egg.png",
+        "prevPrice": 2350000000,
+        "currPrice": 2350000000
+      },
+      {
+        "name": "Pegasus P7 RR",
+        "icon": "temp/output32_crf/0 Pet Egg.png",
+        "prevPrice": 3500000000,
+        "currPrice": 3500000000
+      },
+      {
+        "name": "Pegasus P8 RR",
+        "icon": "temp/output32_crf/0 Pet Egg.png",
+        "prevPrice": 7500000000,
+        "currPrice": 7500000000
+      },
+      {
+        "name": "Pegasus P9 RR",
+        "icon": "temp/output32_crf/0 Pet Egg.png",
+        "prevPrice": 17000000000,
+        "currPrice": 17000000000
+      },
+      {
+        "name": "Pegasus P10 RR",
+        "icon": "temp/output32_crf/0 Pet Egg.png",
+        "prevPrice": 32500000000,
+        "currPrice": 32500000000
+      },
+      {
+        "name": "Flame Scorpion P5 RR",
+        "icon": "",
+        "prevPrice": 650000000,
+        "currPrice": 650000000
+      },
+      {
+        "name": "Flame Scorpion P6 RR",
+        "icon": "",
+        "prevPrice": 1350000000,
+        "currPrice": 1350000000
+      },
+      {
+        "name": "Flame Scorpion P7 RR",
+        "icon": "",
+        "prevPrice": 2000000000,
+        "currPrice": 2000000000
+      },
+      {
+        "name": "Flame Scorpion P8 RR",
+        "icon": "",
+        "prevPrice": 3250000000,
+        "currPrice": 3250000000
+      },
+      {
+        "name": "Flame Scorpion P9 RR",
+        "icon": "",
+        "prevPrice": 7000000000,
+        "currPrice": 7000000000
+      },
+      {
+        "name": "Flame Scorpion P10 RR",
+        "icon": "",
+        "prevPrice": 12500000000,
+        "currPrice": 12500000000
+      },
+      {
+        "name": "Mantis P5 RR",
+        "icon": "temp/output32_crf/1 Pet Egg.png",
+        "prevPrice": 1400000000,
+        "currPrice": 1400000000
+      },
+      {
+        "name": "Mantis P6 RR",
+        "icon": "temp/output32_crf/1 Pet Egg.png",
+        "prevPrice": 2150000000,
+        "currPrice": 2150000000
+      },
+      {
+        "name": "Mantis P7 RR",
+        "icon": "temp/output32_crf/1 Pet Egg.png",
+        "prevPrice": 3250000000,
+        "currPrice": 3250000000
+      },
+      {
+        "name": "Mantis P8 RR",
+        "icon": "temp/output32_crf/1 Pet Egg.png",
+        "prevPrice": 6500000000,
+        "currPrice": 6500000000
+      },
+      {
+        "name": "Mantis P9 RR",
+        "icon": "temp/output32_crf/1 Pet Egg.png",
+        "prevPrice": 13500000000,
+        "currPrice": 13500000000
+      },
+      {
+        "name": "Mantis P10 RR",
+        "icon": "temp/output32_crf/1 Pet Egg.png",
+        "prevPrice": 27500000000,
+        "currPrice": 27500000000
+      },
+      {
+        "name": "Wukong P5 RR",
+        "icon": "temp/output32_crf/Wukong Pet Egg.png",
+        "prevPrice": 400000000,
+        "currPrice": 200000000
+      },
+      {
+        "name": "Wukong P6 RR",
+        "icon": "temp/output32_crf/Wukong Pet Egg.png",
+        "prevPrice": 650000000,
+        "currPrice": 350000000
+      },
+      {
+        "name": "Wukong P7 RR",
+        "icon": "temp/output32_crf/Wukong Pet Egg.png",
+        "prevPrice": 1000000000,
+        "currPrice": 550000000
+      },
+      {
+        "name": "Wukong P8 RR",
+        "icon": "temp/output32_crf/Wukong Pet Egg.png",
+        "prevPrice": 1750000000,
+        "currPrice": 1250000000
+      },
+      {
+        "name": "Wukong P9 RR",
+        "icon": "temp/output32_crf/Wukong Pet Egg.png",
+        "prevPrice": 5500000000,
+        "currPrice": 3250000000
+      },
+      {
+        "name": "Wukong P10 RR",
+        "icon": "temp/output32_crf/Wukong Pet Egg.png",
+        "prevPrice": 12000000000,
+        "currPrice": 7000000000
+      },
+      {
+        "name": "Gale Breaker Centaur P5 RR",
+        "icon": "",
+        "prevPrice": 800000000,
+        "currPrice": 800000000
+      },
+      {
+        "name": "Gale Breaker Centaur P6 RR",
+        "icon": "",
+        "prevPrice": 1350000000,
+        "currPrice": 1350000000
+      },
+      {
+        "name": "Gale Breaker Centaur P7 RR",
+        "icon": "",
+        "prevPrice": 2500000000,
+        "currPrice": 2500000000
+      },
+      {
+        "name": "Gale Breaker Centaur P8 RR",
+        "icon": "",
+        "prevPrice": 3250000000,
+        "currPrice": 3250000000
+      },
+      {
+        "name": "Gale Breaker Centaur P9 RR",
+        "icon": "",
+        "prevPrice": 5500000000,
+        "currPrice": 5500000000
+      },
+      {
+        "name": "Gale Breaker Centaur P10 RR",
+        "icon": "",
+        "prevPrice": 12500000000,
+        "currPrice": 12500000000
+      },
+      {
+        "name": "Narla/Narwhal P5 RR",
+        "icon": "temp/output32_crf/2 Pet Egg.png",
+        "prevPrice": 800000000,
+        "currPrice": 600000000
+      },
+      {
+        "name": "Narla/Narwhal P6 RR",
+        "icon": "temp/output32_crf/2 Pet Egg.png",
+        "prevPrice": 1500000000,
+        "currPrice": 1250000000
+      },
+      {
+        "name": "Narla/Narwhal P7 RR",
+        "icon": "temp/output32_crf/2 Pet Egg.png",
+        "prevPrice": 3250000000,
+        "currPrice": 2250000000
+      },
+      {
+        "name": "Narla/Narwhal P8 RR",
+        "icon": "temp/output32_crf/2 Pet Egg.png",
+        "prevPrice": 5250000000,
+        "currPrice": 4250000000
+      },
+      {
+        "name": "Narla/Narwhal P9 RR",
+        "icon": "temp/output32_crf/2 Pet Egg.png",
+        "prevPrice": 8500000000,
+        "currPrice": 7250000000
+      },
+      {
+        "name": "Narla/Narwhal P10 RR",
+        "icon": "temp/output32_crf/2 Pet Egg.png",
+        "prevPrice": 19000000000,
+        "currPrice": 16000000000
+      },
+      {
+        "name": "Netherland Dragon P5 RR",
+        "icon": "temp/output32_crf/3 Pet Egg.png",
+        "prevPrice": 600000000,
+        "currPrice": 600000000
+      },
+      {
+        "name": "Netherland Dragon P6 RR",
+        "icon": "temp/output32_crf/3 Pet Egg.png",
+        "prevPrice": 1000000000,
+        "currPrice": 1000000000
+      },
+      {
+        "name": "Netherland Dragon P7 RR",
+        "icon": "temp/output32_crf/3 Pet Egg.png",
+        "prevPrice": 1500000000,
+        "currPrice": 1500000000
+      },
+      {
+        "name": "Netherland Dragon P8 RR",
+        "icon": "temp/output32_crf/3 Pet Egg.png",
+        "prevPrice": 3000000000,
+        "currPrice": 2500000000
+      },
+      {
+        "name": "Netherland Dragon P9 RR",
+        "icon": "temp/output32_crf/3 Pet Egg.png",
+        "prevPrice": 5500000000,
+        "currPrice": 4250000000
+      },
+      {
+        "name": "Netherland Dragon P10 RR",
+        "icon": "temp/output32_crf/3 Pet Egg.png",
+        "prevPrice": 12000000000,
+        "currPrice": 9000000000
+      },
+      {
+        "name": "Oni P5 RR",
+        "icon": "",
+        "prevPrice": 375000000,
+        "currPrice": 375000000
+      },
+      {
+        "name": "Oni P6 RR",
+        "icon": "",
+        "prevPrice": 600000000,
+        "currPrice": 600000000
+      },
+      {
+        "name": "Oni P7 RR",
+        "icon": "",
+        "prevPrice": 1100000000,
+        "currPrice": 1100000000
+      },
+      {
+        "name": "Oni P8 RR",
+        "icon": "",
+        "prevPrice": 3250000000,
+        "currPrice": 3250000000
+      },
+      {
+        "name": "Oni P9 RR",
+        "icon": "",
+        "prevPrice": 7250000000,
+        "currPrice": 7250000000
+      },
+      {
+        "name": "Oni P10 RR",
+        "icon": "",
+        "prevPrice": 13500000000,
+        "currPrice": 13500000000
+      },
+      {
+        "name": "Morphy P5 RR",
+        "icon": "",
+        "prevPrice": 850000000,
+        "currPrice": 850000000
+      },
+      {
+        "name": "Morphy P6 RR",
+        "icon": "",
+        "prevPrice": 1000000000,
+        "currPrice": 1000000000
+      },
+      {
+        "name": "Morphy P7 RR",
+        "icon": "",
+        "prevPrice": 1750000000,
+        "currPrice": 1750000000
+      },
+      {
+        "name": "Morphy P8 RR",
+        "icon": "",
+        "prevPrice": 3250000000,
+        "currPrice": 3250000000
+      },
+      {
+        "name": "Morphy P9 RR",
+        "icon": "",
+        "prevPrice": 7250000000,
+        "currPrice": 7250000000
+      },
+      {
+        "name": "Morphy P10 RR",
+        "icon": "",
+        "prevPrice": 17500000000,
+        "currPrice": 17500000000
+      }
+    ]
+  },
+  {
+    "category": "MVP ENCH",
+    "logo": "tickerMaker/classic/tiles/bluehelmet.png",
+    "items": [
+      {
+        "name": "Poseidon DEF 1 4/4",
+        "icon": "temp/output32_crf/Aquaman Armor.png",
+        "prevPrice": 1200000000,
+        "currPrice": 1200000000
+      },
+      {
+        "name": "Poseidon DEF 1 5/5",
+        "icon": "temp/output32_crf/Aquaman Armor.png",
+        "prevPrice": 1800000000,
+        "currPrice": 1800000000
+      },
+      {
+        "name": "Zeus DEF 1 4/4",
+        "icon": "temp/output32_crf/Zeus Armor.png",
+        "prevPrice": 500000000,
+        "currPrice": 500000000
+      },
+      {
+        "name": "Zeus DEF 1 5/5",
+        "icon": "temp/output32_crf/Zeus Armor.png",
+        "prevPrice": 700000000,
+        "currPrice": 700000000
+      },
+      {
+        "name": "Hades DEF 1 4/4",
+        "icon": "temp/output32_crf/Hades Armor.png",
+        "prevPrice": 2500000000,
+        "currPrice": 2200000000
+      },
+      {
+        "name": "Hades DEF 1 5/5",
+        "icon": "temp/output32_crf/Hades Armor.png",
+        "prevPrice": 3100000000,
+        "currPrice": 2800000000
+      },
+      {
+        "name": "Ares DEF 1 4/4",
+        "icon": "temp/output32_crf/Ares Armor.png",
+        "prevPrice": 1500000000,
+        "currPrice": 1500000000
+      },
+      {
+        "name": "Ares DEF 1 5/5",
+        "icon": "temp/output32_crf/Ares Armor.png",
+        "prevPrice": 2000000000,
+        "currPrice": 2000000000
+      },
+      {
+        "name": "Apollo DEF 1 4/4",
+        "icon": "temp/output32_crf/Apollo Armor.png",
+        "prevPrice": 1500000000,
+        "currPrice": 1500000000
+      },
+      {
+        "name": "Apollo DEF 1 5/5",
+        "icon": "temp/output32_crf/Apollo Armor.png",
+        "prevPrice": 2000000000,
+        "currPrice": 2000000000
+      },
+      {
+        "name": "Fenrir DEF 1 4/4",
+        "icon": "temp/output32_crf/Fenrir Armor.png",
+        "prevPrice": 700000000,
+        "currPrice": 600000000
+      },
+      {
+        "name": "Fenrir DEF 1 5/5",
+        "icon": "temp/output32_crf/Fenrir Armor.png",
+        "prevPrice": 1100000000,
+        "currPrice": 950000000
+      },
+      {
+        "name": "Valkyrie DEF 1 4/4",
+        "icon": "temp/output32_crf/Valkyrie Armor.png",
+        "prevPrice": 1200000000,
+        "currPrice": 1200000000
+      },
+      {
+        "name": "Valkyrie DEF 1 5/5",
+        "icon": "temp/output32_crf/Valkyrie Armor.png",
+        "prevPrice": 1700000000,
+        "currPrice": 1700000000
+      },
+      {
+        "name": "Jormungandr DEF 1 4/4",
+        "icon": "temp/output32_crf/Jormungandr Armor.png",
+        "prevPrice": 2450000000,
+        "currPrice": 2300000000
+      },
+      {
+        "name": "Jormungandr DEF 1 5/5",
+        "icon": "temp/output32_crf/Jormungandr Armor.png",
+        "prevPrice": 2850000000,
+        "currPrice": 2800000000
+      },
+      {
+        "name": "Thor DEF 1 4/4",
+        "icon": "temp/output32_crf/Thor Armor.png",
+        "prevPrice": 3100000000,
+        "currPrice": 1800000000
+      },
+      {
+        "name": "Thor DEF 1 5/5",
+        "icon": "temp/output32_crf/Thor Armor.png",
+        "prevPrice": 3900000000,
+        "currPrice": 2650000000
+      },
+      {
+        "name": "Helheim DEF 1 4/4",
+        "icon": "temp/output32_crf/Hel Armor.png",
+        "prevPrice": 2800000000,
+        "currPrice": 2800000000
+      },
+      {
+        "name": "Helheim DEF 1 5/5",
+        "icon": "temp/output32_crf/Hel Armor.png",
+        "prevPrice": 3450000000,
+        "currPrice": 3450000000
+      },
+      {
+        "name": "Hermes DEF 1 4/4",
+        "icon": "temp/output32_crf/Hermes Armor.png",
+        "prevPrice": 2500000000,
+        "currPrice": 2100000000
+      },
+      {
+        "name": "Hermes DEF 1 5/5",
+        "icon": "temp/output32_crf/Hermes Armor.png",
+        "prevPrice": 3200000000,
+        "currPrice": 2900000000
+      },
+      {
+        "name": "Hephaestus DEF 1 4/4",
+        "icon": "temp/output32_crf/Hephaestus Armor.png",
+        "prevPrice": 2000000000,
+        "currPrice": 2000000000
+      },
+      {
+        "name": "Hephaestus DEF 1 5/5",
+        "icon": "temp/output32_crf/Hephaestus Armor.png",
+        "prevPrice": 2500000000,
+        "currPrice": 2500000000
+      },
+      {
+        "name": "Medusa DEF 1 4/4",
+        "icon": "temp/output32_crf/Medusa Armor.png",
+        "prevPrice": 1800000000,
+        "currPrice": 1800000000
+      },
+      {
+        "name": "Medusa DEF 1 5/5",
+        "icon": "temp/output32_crf/Medusa Armor.png",
+        "prevPrice": 2500000000,
+        "currPrice": 2500000000
+      },
+      {
+        "name": "Winter DEF 1 4/4",
+        "icon": "temp/output32_crf/Chione Armor.png",
+        "prevPrice": 2800000000,
+        "currPrice": 2650000000
+      },
+      {
+        "name": "Winter DEF 1 5/5",
+        "icon": "temp/output32_crf/Chione Armor.png",
+        "prevPrice": 3500000000,
+        "currPrice": 3100000000
+      },
+      {
+        "name": "Pride DEF 1 4/4",
+        "icon": "temp/output32_crf/Pride Armor.png",
+        "prevPrice": 1150000000,
+        "currPrice": 1150000000
+      },
+      {
+        "name": "Pride DEF 1 5/5",
+        "icon": "temp/output32_crf/Pride Armor.png",
+        "prevPrice": 1500000000,
+        "currPrice": 1500000000
+      },
+      {
+        "name": "Envy DEF 1 4/4",
+        "icon": "temp/output32_crf/Envy Armor.png",
+        "prevPrice": 1600000000,
+        "currPrice": 1600000000
+      },
+      {
+        "name": "Envy DEF 1 5/5",
+        "icon": "temp/output32_crf/Envy Armor.png",
+        "prevPrice": 1900000000,
+        "currPrice": 1900000000
+      },
+      {
+        "name": "Gluttony DEF 1 4/4",
+        "icon": "temp/output32_crf/Greed Armor.png",
+        "prevPrice": 2400000000,
+        "currPrice": 2100000000
+      },
+      {
+        "name": "Gluttony DEF 1 5/5",
+        "icon": "temp/output32_crf/Greed Armor.png",
+        "prevPrice": 3000000000,
+        "currPrice": 2650000000
+      },
+      {
+        "name": "Wrath Demon DEF 1 4/4",
+        "icon": "temp/output32_crf/Wrath Armor.png",
+        "prevPrice": 1800000000,
+        "currPrice": 1800000000
+      },
+      {
+        "name": "Wrath Demon DEF 1 5/5",
+        "icon": "temp/output32_crf/Wrath Armor.png",
+        "prevPrice": 2200000000,
+        "currPrice": 2200000000
+      },
+      {
+        "name": "Greed DEF 1 4/4",
+        "icon": "temp/output32_crf/Greed Armor.png",
+        "prevPrice": 1600000000,
+        "currPrice": 1400000000
+      },
+      {
+        "name": "Greed DEF 1 5/5",
+        "icon": "temp/output32_crf/Greed Armor.png",
+        "prevPrice": 2000000000,
+        "currPrice": 2000000000
+      },
+      {
+        "name": "Sloth DEF 1 4/4",
+        "icon": "temp/output32_crf/Sloth Armor.png",
+        "prevPrice": 1400000000,
+        "currPrice": 1400000000
+      },
+      {
+        "name": "Sloth DEF 1 5/5",
+        "icon": "temp/output32_crf/Sloth Armor.png",
+        "prevPrice": 2000000000,
+        "currPrice": 2000000000
+      },
+      {
+        "name": "Lust DEF 1 4/4",
+        "icon": "temp/output32_crf/Lust Armor.png",
+        "prevPrice": 2800000000,
+        "currPrice": 2450000000
+      },
+      {
+        "name": "Lust DEF 1 5/5",
+        "icon": "temp/output32_crf/Lust Armor.png",
+        "prevPrice": 3500000000,
+        "currPrice": 3000000000
+      },
+      {
+        "name": "Judgment DEF 1 4/4",
+        "icon": "temp/output32_crf/Judgment Armor.png",
+        "prevPrice": 1200000000,
+        "currPrice": 1200000000
+      },
+      {
+        "name": "Judgment DEF 1 5/5",
+        "icon": "temp/output32_crf/Judgment Armor.png",
+        "prevPrice": 1700000000,
+        "currPrice": 1700000000
+      },
+      {
+        "name": "Wraith DEF 1 4/4",
+        "icon": "",
+        "prevPrice": 2000000000,
+        "currPrice": 2000000000
+      },
+      {
+        "name": "Wraith DEF 1 5/5",
+        "icon": "",
+        "prevPrice": 2500000000,
+        "currPrice": 2500000000
+      },
+      {
+        "name": "Phoenix DEF 1 4/4",
+        "icon": "temp/output32_crf/Phoenix Armor.png",
+        "prevPrice": 1800000000,
+        "currPrice": 1800000000
+      },
+      {
+        "name": "Phoenix DEF 1 5/5",
+        "icon": "temp/output32_crf/Phoenix Armor.png",
+        "prevPrice": 2500000000,
+        "currPrice": 2500000000
+      },
+      {
+        "name": "Mercurius DEF 1 4/4",
+        "icon": "temp/output32_crf/Mercury Armor.png",
+        "prevPrice": 1600000000,
+        "currPrice": 1400000000
+      },
+      {
+        "name": "Mercurius DEF 1 5/5",
+        "icon": "temp/output32_crf/Mercury Armor.png",
+        "prevPrice": 2000000000,
+        "currPrice": 2000000000
+      },
+      {
+        "name": "Mars DEF 1 4/4",
+        "icon": "temp/output32_crf/Mars Armor.png",
+        "prevPrice": 2400000000,
+        "currPrice": 1900000000
+      },
+      {
+        "name": "Mars DEF 1 5/5",
+        "icon": "temp/output32_crf/Mars Armor.png",
+        "prevPrice": 3000000000,
+        "currPrice": 2650000000
+      },
+      {
+        "name": "Venus DEF 1 4/4",
+        "icon": "temp/output32_crf/Venus Armor.png",
+        "prevPrice": 2800000000,
+        "currPrice": 2800000000
+      },
+      {
+        "name": "Venus DEF 1 5/5",
+        "icon": "temp/output32_crf/Venus Armor.png",
+        "prevPrice": 3550000000,
+        "currPrice": 3500000000
+      },
+      {
+        "name": "Terra DEF 1 4/4",
+        "icon": "temp/output32_crf/Terra Armor.png",
+        "prevPrice": 3650000000,
+        "currPrice": 3300000000
+      },
+      {
+        "name": "Terra DEF 1 5/5",
+        "icon": "temp/output32_crf/Terra Armor.png",
+        "prevPrice": 4750000000,
+        "currPrice": 4250000000
+      },
+      {
+        "name": "Uranus DEF 1 4/4",
+        "icon": "temp/output32_crf/Uranus Armor.png",
+        "prevPrice": 1900000000,
+        "currPrice": 1700000000
+      },
+      {
+        "name": "Uranus DEF 1 5/5",
+        "icon": "temp/output32_crf/Uranus Armor.png",
+        "prevPrice": 2400000000,
+        "currPrice": 2250000000
+      },
+      {
+        "name": "Neptune DEF 1 4/4",
+        "icon": "temp/output32_crf/Neptune Armor.png",
+        "prevPrice": 2100000000,
+        "currPrice": 2100000000
+      },
+      {
+        "name": "Neptune DEF 1 5/5",
+        "icon": "temp/output32_crf/Neptune Armor.png",
+        "prevPrice": 2600000000,
+        "currPrice": 2600000000
+      },
+      {
+        "name": "Saturn DEF 1 4/4",
+        "icon": "temp/output32_crf/Saturn Armor.png",
+        "prevPrice": 2800000000,
+        "currPrice": 2800000000
+      },
+      {
+        "name": "Saturn DEF 1 5/5",
+        "icon": "temp/output32_crf/Saturn Armor.png",
+        "prevPrice": 3500000000,
+        "currPrice": 3500000000
+      },
+      {
+        "name": "Jupiter DEF 1 4/4",
+        "icon": "temp/output32_crf/Jupiter Armor.png",
+        "prevPrice": 1800000000,
+        "currPrice": 1800000000
+      },
+      {
+        "name": "Jupiter DEF 1 5/5",
+        "icon": "temp/output32_crf/Jupiter Armor.png",
+        "prevPrice": 2250000000,
+        "currPrice": 2250000000
+      },
+      {
+        "name": "Fool DEF 1 4/4",
+        "icon": "temp/output32_crf/The Fool Armor.png",
+        "prevPrice": 3800000000,
+        "currPrice": 3100000000
+      },
+      {
+        "name": "Fool DEF 1 5/5",
+        "icon": "temp/output32_crf/The Fool Armor.png",
+        "prevPrice": 4500000000,
+        "currPrice": 3900000000
+      },
+      {
+        "name": "Magician DEF 1 4/4",
+        "icon": "temp/output32_crf/The Magician Armor.png",
+        "prevPrice": 2850000000,
+        "currPrice": 2750000000
+      },
+      {
+        "name": "Magician DEF 1 5/5",
+        "icon": "temp/output32_crf/The Magician Armor.png",
+        "prevPrice": 3500000000,
+        "currPrice": 3500000000
+      },
+      {
+        "name": "Chariot DEF 1 4/4",
+        "icon": "temp/output32_crf/The Chariot Armor.png",
+        "prevPrice": 3650000000,
+        "currPrice": 3650000000
+      },
+      {
+        "name": "Chariot DEF 1 5/5",
+        "icon": "temp/output32_crf/The Chariot Armor.png",
+        "prevPrice": 4650000000,
+        "currPrice": 4650000000
+      }
+    ]
+  },
+  {
+    "category": "OTHERS",
+    "logo": "",
+    "items": [
+      {
+        "name": "Pet Skill Map",
+        "icon": "",
+        "prevPrice": 25000,
+        "currPrice": 25000
+      },
+      {
+        "name": "Advance Skill Map",
+        "icon": "",
+        "prevPrice": 12500000,
+        "currPrice": 12500000
+      },
+      {
+        "name": "Legendary Egg",
+        "icon": "",
+        "prevPrice": 27500000,
+        "currPrice": 27500000
+      },
+      {
+        "name": "Epic Egg",
+        "icon": "",
+        "prevPrice": 9000000,
+        "currPrice": 9000000
+      },
+      {
+        "name": "Revive (Purple)",
+        "icon": "",
+        "prevPrice": 100000,
+        "currPrice": 100000
+      },
+      {
+        "name": "Revive (Yellow)",
+        "icon": "",
+        "prevPrice": 40000000,
+        "currPrice": 40000000
+      },
+      {
+        "name": "Berserk (Purple)",
+        "icon": "",
+        "prevPrice": 4000000,
+        "currPrice": 4000000
+      },
+      {
+        "name": "Alacrity (Purple)",
+        "icon": "",
+        "prevPrice": 100000,
+        "currPrice": 100000
+      },
+      {
+        "name": "Alacrity (Yellow)",
+        "icon": "",
+        "prevPrice": 40000000,
+        "currPrice": 40000000
+      },
+      {
+        "name": "Devotion (Purple)",
+        "icon": "",
+        "prevPrice": 100000,
+        "currPrice": 100000
+      },
+      {
+        "name": "Devotion (Yellow)",
+        "icon": "",
+        "prevPrice": 70000000,
+        "currPrice": 70000000
+      },
+      {
+        "name": "Lifesteal (Purple)",
+        "icon": "",
+        "prevPrice": 100000,
+        "currPrice": 100000
+      },
+      {
+        "name": "Regain HP (Purple)",
+        "icon": "",
+        "prevPrice": 3500000,
+        "currPrice": 3500000
+      },
+      {
+        "name": "Protection (Purple)",
+        "icon": "",
+        "prevPrice": 1000000,
+        "currPrice": 1000000
+      },
+      {
+        "name": "Protection (Yellow)",
+        "icon": "",
+        "prevPrice": 170000000,
+        "currPrice": 170000000
+      },
+      {
+        "name": "Surge (Purple)",
+        "icon": "",
+        "prevPrice": 100000,
+        "currPrice": 100000
+      },
+      {
+        "name": "Surge (Yellow)",
+        "icon": "",
+        "prevPrice": 300000000,
+        "currPrice": 300000000
+      },
+      {
+        "name": "Strong (Purple)",
+        "icon": "",
+        "prevPrice": 1000000,
+        "currPrice": 1000000
+      },
+      {
+        "name": "Strong (Yellow)",
+        "icon": "",
+        "prevPrice": 180000000,
+        "currPrice": 180000000
+      },
+      {
+        "name": "Diligent (Purple)",
+        "icon": "",
+        "prevPrice": 400000,
+        "currPrice": 400000
+      },
+      {
+        "name": "Diligent (Yellow)",
+        "icon": "",
+        "prevPrice": 50000000,
+        "currPrice": 50000000
+      },
+      {
+        "name": "Luck (Purple)",
+        "icon": "",
+        "prevPrice": 400000,
+        "currPrice": 400000
+      },
+      {
+        "name": "Luck (Yellow)",
+        "icon": "",
+        "prevPrice": 50000000,
+        "currPrice": 50000000
+      },
+      {
+        "name": "Hatching (Purple)",
+        "icon": "",
+        "prevPrice": 400000,
+        "currPrice": 400000
+      },
+      {
+        "name": "Hatching (Yellow)",
+        "icon": "",
+        "prevPrice": 50000000,
+        "currPrice": 50000000
+      },
+      {
+        "name": "Mining (Purple)",
+        "icon": "",
+        "prevPrice": 3000000,
+        "currPrice": 3000000
+      },
+      {
+        "name": "Mining (Yellow)",
+        "icon": "",
+        "prevPrice": 200000000,
+        "currPrice": 200000000
+      },
+      {
+        "name": "Coins (Purple)",
+        "icon": "",
+        "prevPrice": 400000,
+        "currPrice": 400000
+      },
+      {
+        "name": "Coins (Yellow)",
+        "icon": "",
+        "prevPrice": 50000000,
+        "currPrice": 50000000
+      },
+      {
+        "name": "Wild Regeneration (Purple)",
+        "icon": "",
+        "prevPrice": 4000000,
+        "currPrice": 4000000
+      },
+      {
+        "name": "Crushing Blow (Purple)",
+        "icon": "",
+        "prevPrice": 100000,
+        "currPrice": 100000
+      },
+      {
+        "name": "Crushing Blow (Yellow)",
+        "icon": "",
+        "prevPrice": 40000000,
+        "currPrice": 40000000
+      },
+      {
+        "name": "Giant (Purple)",
+        "icon": "",
+        "prevPrice": 25000000,
+        "currPrice": 25000000
+      },
+      {
+        "name": "HP (Purple)",
+        "icon": "",
+        "prevPrice": 400000,
+        "currPrice": 400000
+      },
+      {
+        "name": "Healing Power (Purple)",
+        "icon": "",
+        "prevPrice": 4000000,
+        "currPrice": 4000000
+      },
+      {
+        "name": "Power Crush (Purple)",
+        "icon": "",
+        "prevPrice": 100000,
+        "currPrice": 100000
+      },
+      {
+        "name": "Power Crush (Yellow)",
+        "icon": "",
+        "prevPrice": 40000000,
+        "currPrice": 40000000
+      },
+      {
+        "name": "Block (Purple)",
+        "icon": "",
+        "prevPrice": 400000,
+        "currPrice": 400000
+      },
+      {
+        "name": "Block (Yellow)",
+        "icon": "",
+        "prevPrice": 40000000,
+        "currPrice": 40000000
+      },
+      {
+        "name": "Absolute Defence (Purple)",
+        "icon": "",
+        "prevPrice": 20000000,
+        "currPrice": 20000000
+      },
+      {
+        "name": "Red DMG (Purple)",
+        "icon": "",
+        "prevPrice": 100000,
+        "currPrice": 100000
+      },
+      {
+        "name": "Defence (Purple)",
+        "icon": "",
+        "prevPrice": 1000000,
+        "currPrice": 1000000
+      },
+      {
+        "name": "Mega Smash (Purple)",
+        "icon": "",
+        "prevPrice": 400000,
+        "currPrice": 400000
+      },
+      {
+        "name": "Mega Smash (Yellow)",
+        "icon": "",
+        "prevPrice": 40000000,
+        "currPrice": 40000000
+      },
+      {
+        "name": "Wild Recovery (Purple)",
+        "icon": "",
+        "prevPrice": 4000000,
+        "currPrice": 4000000
+      },
+      {
+        "name": "Fight Till The End (Purple)",
+        "icon": "",
+        "prevPrice": 60000000,
+        "currPrice": 60000000
+      },
+      {
+        "name": "Combo Atk (Purple)",
+        "icon": "",
+        "prevPrice": 2500000,
+        "currPrice": 2500000
+      },
+      {
+        "name": "Combo Atk (Yellow)",
+        "icon": "",
+        "prevPrice": 350000000,
+        "currPrice": 350000000
+      },
+      {
+        "name": "Additional DMG (Purple)",
+        "icon": "",
+        "prevPrice": 100000,
+        "currPrice": 100000
+      },
+      {
+        "name": "Additional DMG (Yellow)",
+        "icon": "",
+        "prevPrice": 40000000,
+        "currPrice": 40000000
+      },
+      {
+        "name": "Crit DMG (Purple)",
+        "icon": "",
+        "prevPrice": 1000000,
+        "currPrice": 1000000
+      },
+      {
+        "name": "Crit Rate (Purple)",
+        "icon": "",
+        "prevPrice": 1000000,
+        "currPrice": 1000000
+      },
+      {
+        "name": "Increase DMG (Purple)",
+        "icon": "",
+        "prevPrice": 1000000,
+        "currPrice": 1000000
+      },
+      {
+        "name": "DMG II (Purple)",
+        "icon": "",
+        "prevPrice": 1000000,
+        "currPrice": 1000000
+      },
+      {
+        "name": "Martial Spirit 4/4",
+        "icon": "",
+        "prevPrice": 40000000,
+        "currPrice": 22500000
+      },
+      {
+        "name": "Martial Spirit 5/5",
+        "icon": "",
+        "prevPrice": 60000000,
+        "currPrice": 40000000
+      },
+      {
+        "name": "Martial Peak 4/4",
+        "icon": "",
+        "prevPrice": 300000000,
+        "currPrice": 225000000
+      },
+      {
+        "name": "Martial Peak 5/5",
+        "icon": "",
+        "prevPrice": 400000000,
+        "currPrice": 300000000
+      },
+      {
+        "name": "Meow Set 4/4",
+        "icon": "temp/output32_crf/g1048_cat_armor_armor.png",
+        "prevPrice": 110000000,
+        "currPrice": 110000000
+      },
+      {
+        "name": "Meow Set 5/5",
+        "icon": "temp/output32_crf/g1048_cat_armor_armor.png",
+        "prevPrice": 150000000,
+        "currPrice": 150000000
+      },
+      {
+        "name": "Reaper Set 4/4",
+        "icon": "",
+        "prevPrice": 30000000,
+        "currPrice": 30000000
+      },
+      {
+        "name": "Reaper Set 5/5",
+        "icon": "",
+        "prevPrice": 50000000,
+        "currPrice": 50000000
+      },
+      {
+        "name": "Archangel Set 4/4",
+        "icon": "",
+        "prevPrice": 75000000,
+        "currPrice": 75000000
+      },
+      {
+        "name": "Archangel Set 5/5",
+        "icon": "",
+        "prevPrice": 100000000,
+        "currPrice": 100000000
+      },
+      {
+        "name": "King Barbarian Set 4/4",
+        "icon": "",
+        "prevPrice": 200000000,
+        "currPrice": 200000000
+      },
+      {
+        "name": "King Barbarian Set 5/5",
+        "icon": "",
+        "prevPrice": 300000000,
+        "currPrice": 300000000
+      },
+      {
+        "name": "Skeleton Set 4/4",
+        "icon": "",
+        "prevPrice": 20000000,
+        "currPrice": 20000000
+      },
+      {
+        "name": "Skeleton Set 5/5",
+        "icon": "",
+        "prevPrice": 30000000,
+        "currPrice": 30000000
+      },
+      {
+        "name": "Frozen Prince Set 4/4",
+        "icon": "",
+        "prevPrice": 40000000,
+        "currPrice": 40000000
+      },
+      {
+        "name": "Frozen Prince Set 5/5",
+        "icon": "",
+        "prevPrice": 60000000,
+        "currPrice": 60000000
+      },
+      {
+        "name": "Green Bag",
+        "icon": "",
+        "prevPrice": 175000,
+        "currPrice": 175000
+      },
+      {
+        "name": "Blue Bag",
+        "icon": "",
+        "prevPrice": 3000000,
+        "currPrice": 3000000
+      },
+      {
+        "name": "Purple Bag",
+        "icon": "",
+        "prevPrice": 70000000,
+        "currPrice": 70000000
+      },
+      {
+        "name": "Escape Dominator TT",
+        "icon": "",
+        "prevPrice": 100000000,
+        "currPrice": 100000000
+      },
+      {
+        "name": "Apex Fighter Title",
+        "icon": "",
+        "prevPrice": 300000000,
+        "currPrice": 275000000
+      },
+      {
+        "name": "Prime Fighter Title",
+        "icon": "",
+        "prevPrice": 150000000,
+        "currPrice": 150000000
+      },
+      {
+        "name": "Ocean Title",
+        "icon": "",
+        "prevPrice": 30000000,
+        "currPrice": 30000000
+      },
+      {
+        "name": "99 Rounds Title",
+        "icon": "",
+        "prevPrice": 15000000,
+        "currPrice": 15000000
+      },
+      {
+        "name": "Death Scythe",
+        "icon": "",
+        "prevPrice": 90000000,
+        "currPrice": 90000000
+      },
+      {
+        "name": "Batbow",
+        "icon": "",
+        "prevPrice": 17500000,
+        "currPrice": 17500000
+      },
+      {
+        "name": "Shapeless Sword",
+        "icon": "",
+        "prevPrice": 110000000,
+        "currPrice": 110000000
+      },
+      {
+        "name": "Moon Scythe",
+        "icon": "",
+        "prevPrice": 110000000,
+        "currPrice": 110000000
+      },
+      {
+        "name": "Xmas Sword 2022",
+        "icon": "",
+        "prevPrice": 300000000,
+        "currPrice": 300000000
+      },
+      {
+        "name": "Xmas Sword 2022 (Regain 4 HP)",
+        "icon": "",
+        "prevPrice": 600000000,
+        "currPrice": 600000000
+      },
+      {
+        "name": "Flying Cross",
+        "icon": "",
+        "prevPrice": 50000000,
+        "currPrice": 50000000
+      },
+      {
+        "name": "Dimensional Rift SW",
+        "icon": "",
+        "prevPrice": 60000000,
+        "currPrice": 60000000
+      },
+      {
+        "name": "Frozen Prince SW",
+        "icon": "",
+        "prevPrice": 60000000,
+        "currPrice": 60000000
+      },
+      {
+        "name": "Archangel Sword",
+        "icon": "",
+        "prevPrice": 50000000,
+        "currPrice": 50000000
+      },
+      {
+        "name": "Blaze Gauntlets",
+        "icon": "",
+        "prevPrice": 125000000,
+        "currPrice": 125000000
+      },
+      {
+        "name": "Ares Shield",
+        "icon": "",
+        "prevPrice": 30000000,
+        "currPrice": 30000000
+      },
+      {
+        "name": "Steampunk Shield",
+        "icon": "",
+        "prevPrice": 40000000,
+        "currPrice": 40000000
+      },
+      {
+        "name": "Poseidon Shield",
+        "icon": "temp/output32_crf/g1048_aquaman_shield.png",
+        "prevPrice": 22500000,
+        "currPrice": 22500000
+      },
+      {
+        "name": "Nightmare Shield",
+        "icon": "temp/output32_crf/g1048_item_nightmare_shield.png",
+        "prevPrice": 30000000,
+        "currPrice": 30000000
+      },
+      {
+        "name": "Love Ring",
+        "icon": "temp/output32_crf/g1048_angel_ring.png",
+        "prevPrice": 675000000,
+        "currPrice": 675000000
+      },
+      {
+        "name": "Christmas Ring",
+        "icon": "temp/output32_crf/g1048_christmas_ring.png",
+        "prevPrice": 55000000,
+        "currPrice": 55000000
+      },
+      {
+        "name": "Starmoon Ring",
+        "icon": "temp/output32_crf/g1048_item_hallowring.png",
+        "prevPrice": 135000000,
+        "currPrice": 135000000
+      },
+      {
+        "name": "Devil Wings",
+        "icon": "",
+        "prevPrice": 15000000,
+        "currPrice": 15000000
+      },
+      {
+        "name": "Cancer Ring",
+        "icon": "",
+        "prevPrice": 12500000,
+        "currPrice": 12500000
+      },
+      {
+        "name": "Skyblock Classic Title",
+        "icon": "",
+        "prevPrice": 700000000,
+        "currPrice": 700000000
+      },
+      {
+        "name": "Fairy TT",
+        "icon": "",
+        "prevPrice": 150000000,
+        "currPrice": 150000000
+      },
+      {
+        "name": "Og Gatling",
+        "icon": "",
+        "prevPrice": 110000000,
+        "currPrice": 110000000
+      },
+      {
+        "name": "Gold Gatling",
+        "icon": "temp/output32_crf/g1048_gold_gatling.png",
+        "prevPrice": 135000000,
+        "currPrice": 135000000
+      },
+      {
+        "name": "Firecracker Gatling",
+        "icon": "",
+        "prevPrice": 135000000,
+        "currPrice": 135000000
+      },
+      {
+        "name": "Ocean Gatling",
+        "icon": "",
+        "prevPrice": 135000000,
+        "currPrice": 135000000
+      },
+      {
+        "name": "Shadow Gatling",
+        "icon": "",
+        "prevPrice": 200000000,
+        "currPrice": 200000000
+      },
+      {
+        "name": "Freya Wand",
+        "icon": "",
+        "prevPrice": 100000000,
+        "currPrice": 100000000
+      },
+      {
+        "name": "Xmas Wand",
+        "icon": "",
+        "prevPrice": 80000000,
+        "currPrice": 80000000
+      },
+      {
+        "name": "Ocean Wand",
+        "icon": "temp/output32_crf/g1048_pixel_christmas_wand.png",
+        "prevPrice": 75000000,
+        "currPrice": 75000000
+      },
+      {
+        "name": "Ocean Wand (Rare)",
+        "icon": "temp/output32_crf/g1048_pixel_christmas_wand.png",
+        "prevPrice": 700000000,
+        "currPrice": 725000000
+      }
+    ]
+  }
+]

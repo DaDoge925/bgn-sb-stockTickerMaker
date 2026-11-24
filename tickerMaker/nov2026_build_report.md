@@ -1,0 +1,341 @@
+# November 2026 Ticker Build
+
+Output: newsroom-stocks nov2026.json
+Items: 751 (ARMORS 70, WEAPONS 69, SEASONS 196, TITLES 33, PETS 204, MVP ENCH 70, OTHERS 109)
+Price changes: up 12, down 181, unchanged 558
+New items: 25; dropped from October JSON: 9
+Rule 2 vs rule 3 conflicts: 6
+Validation: JSON parses; prices are positive integers; category names are unique.
+
+## Blank Icons
+
+### ARMORS
+- Wraith 4/4
+- Wraith 5/5
+
+### WEAPONS
+- Permafrost Sword
+- Permafrost Sword (RR)
+- Wraith Sword
+
+### SEASONS
+- S1 Necrotic 4/4
+- S1 Necrotic Sword
+- S1 Necrotic 5/5
+- S1 Necrotic Gun
+- S2 Nightmare Knight Bow
+- S3 Silver Fang Sword
+- S3 Silver Fang Bow
+- S4 Astral 4/4
+- S4 Astral Sword
+- S4 Astral 5/5
+- S4 Astral Bow
+- S10 Astronaut 4/4
+- S10 Astronaut Sword
+- S10 Astronaut 5/5
+- S10 Astronaut Bow
+- S12 Anubis 4/4
+- S12 Anubis Sword
+- S12 Anubis 5/5
+- S12 Anubis Bow
+- S14 Onimusha 4/4
+- S14 Onimusha Sword
+- S14 Onimusha 5/5
+- S14 Onimusha Bow
+- S15 Frost Lord Bow
+- S16 Eye Of Elder God 4/4
+- S16 Eye Of Elder God Sword
+- S16 Eye Of Elder God 5/5
+- S16 Eye Of Elder God Bow
+- S18 Star And Moon 4/4
+- S18 Star And Moon Sword
+- S18 Star And Moon 5/5
+- S18 Star And Moon Bow
+- S37 Necrotic 4/4
+- S37 Necrotic Sword
+- S37 Necrotic 5/5
+- S37 Necrotic Gun
+- S39 Bladewolf 4/4
+- S39 Bladewolf Sword
+- S39 Bladewolf 5/5
+- S39 Bladewolf Bow
+- S41 Lawless 4/4
+- S41 Lawless Sword
+- S41 Lawless 5/5
+- S41 Lawless Bow
+- S43 Phantom Pirate 4/4
+- S43 Phantom Pirate Sword
+- S43 Phantom Pirate 5/5
+- S43 Phantom Pirate Bow
+- S44 Lost Dynasty 4/4
+- S44 Lost Dynasty Sword
+- S44 Lost Dynasty 5/5
+- S44 Lost Dynasty Bow
+- S46 Black Warrior 4/4
+- S46 Black Warrior Sword
+- S46 Black Warrior 5/5
+- S46 Black Warrior Bow
+
+### TITLES
+- Magician TT
+- Chariot TT
+
+### PETS
+- Roar Flame Tiger P5
+- Roar Flame Tiger P6
+- Roar Flame Tiger P7
+- Roar Flame Tiger P8
+- Roar Flame Tiger P9
+- Roar Flame Tiger P10
+- Nine-Tailed Fox P5
+- Nine-Tailed Fox P6
+- Nine-Tailed Fox P7
+- Nine-Tailed Fox P8
+- Nine-Tailed Fox P9
+- Nine-Tailed Fox P10
+- Magic Flame Dragon P5
+- Magic Flame Dragon P6
+- Magic Flame Dragon P7
+- Magic Flame Dragon P8
+- Magic Flame Dragon P9
+- Magic Flame Dragon P10
+- Thorn Shooter P5
+- Thorn Shooter P6
+- Thorn Shooter P7
+- Thorn Shooter P8
+- Thorn Shooter P9
+- Thorn Shooter P10
+- Polar Ice Shark P5
+- Polar Ice Shark P6
+- Polar Ice Shark P7
+- Polar Ice Shark P8
+- Polar Ice Shark P9
+- Polar Ice Shark P10
+- Cumulus Bird P5
+- Cumulus Bird P6
+- Cumulus Bird P7
+- Cumulus Bird P8
+- Cumulus Bird P9
+- Cumulus Bird P10
+- Blaze Rex P5
+- Blaze Rex P6
+- Blaze Rex P7
+- Blaze Rex P8
+- Blaze Rex P9
+- Blaze Rex P10
+- Flame Scorpion P5
+- Flame Scorpion P6
+- Flame Scorpion P7
+- Flame Scorpion P8
+- Flame Scorpion P9
+- Flame Scorpion P10
+- Snake P5
+- Snake P6
+- Snake P7
+- Snake P8
+- Snake P9
+- Snake P10
+- Gale Breaker Centaur P5
+- Gale Breaker Centaur P6
+- Gale Breaker Centaur P7
+- Gale Breaker Centaur P8
+- Gale Breaker Centaur P9
+- Gale Breaker Centaur P10
+- Oni P5
+- Oni P6
+- Oni P7
+- Oni P8
+- Oni P9
+- Oni P10
+- Morphy P5
+- Morphy P6
+- Morphy P7
+- Morphy P8
+- Morphy P9
+- Morphy P10
+- Roar Flame Tiger P5 RR
+- Roar Flame Tiger P6 RR
+- Roar Flame Tiger P7 RR
+- Roar Flame Tiger P8 RR
+- Roar Flame Tiger P9 RR
+- Roar Flame Tiger P10 RR
+- Magic Flame Dragon P5 RR
+- Magic Flame Dragon P6 RR
+- Magic Flame Dragon P7 RR
+- Magic Flame Dragon P8 RR
+- Magic Flame Dragon P9 RR
+- Magic Flame Dragon P10 RR
+- Nine-Tailed Fox P5 RR
+- Nine-Tailed Fox P6 RR
+- Nine-Tailed Fox P7 RR
+- Nine-Tailed Fox P8 RR
+- Nine-Tailed Fox P9 RR
+- Nine-Tailed Fox P10 RR
+- Thorn Shooter P5 RR
+- Thorn Shooter P6 RR
+- Thorn Shooter P7 RR
+- Thorn Shooter P8 RR
+- Thorn Shooter P9 RR
+- Thorn Shooter P10 RR
+- Polar Ice Shark P5 RR
+- Polar Ice Shark P6 RR
+- Polar Ice Shark P7 RR
+- Polar Ice Shark P8 RR
+- Polar Ice Shark P9 RR
+- Polar Ice Shark P10 RR
+- Cumulus Bird P5 RR
+- Cumulus Bird P6 RR
+- Cumulus Bird P7 RR
+- Cumulus Bird P8 RR
+- Cumulus Bird P9 RR
+- Cumulus Bird P10 RR
+- Blaze Rex P5 RR
+- Blaze Rex P6 RR
+- Blaze Rex P7 RR
+- Blaze Rex P8 RR
+- Blaze Rex P9 RR
+- Blaze Rex P10 RR
+- Snake P5 RR
+- Snake P6 RR
+- Snake P7 RR
+- Snake P8 RR
+- Snake P9 RR
+- Snake P10 RR
+- Flame Scorpion P5 RR
+- Flame Scorpion P6 RR
+- Flame Scorpion P7 RR
+- Flame Scorpion P8 RR
+- Flame Scorpion P9 RR
+- Flame Scorpion P10 RR
+- Gale Breaker Centaur P5 RR
+- Gale Breaker Centaur P6 RR
+- Gale Breaker Centaur P7 RR
+- Gale Breaker Centaur P8 RR
+- Gale Breaker Centaur P9 RR
+- Gale Breaker Centaur P10 RR
+- Oni P5 RR
+- Oni P6 RR
+- Oni P7 RR
+- Oni P8 RR
+- Oni P9 RR
+- Oni P10 RR
+- Morphy P5 RR
+- Morphy P6 RR
+- Morphy P7 RR
+- Morphy P8 RR
+- Morphy P9 RR
+- Morphy P10 RR
+
+### MVP ENCH
+- Wraith DEF 1 4/4
+- Wraith DEF 1 5/5
+
+### OTHERS
+- Pet Skill Map
+- Advance Skill Map
+- Legendary Egg
+- Epic Egg
+- Revive (Purple)
+- Revive (Yellow)
+- Berserk (Purple)
+- Alacrity (Purple)
+- Alacrity (Yellow)
+- Devotion (Purple)
+- Devotion (Yellow)
+- Lifesteal (Purple)
+- Regain HP (Purple)
+- Protection (Purple)
+- Protection (Yellow)
+- Surge (Purple)
+- Surge (Yellow)
+- Strong (Purple)
+- Strong (Yellow)
+- Diligent (Purple)
+- Diligent (Yellow)
+- Luck (Purple)
+- Luck (Yellow)
+- Hatching (Purple)
+- Hatching (Yellow)
+- Mining (Purple)
+- Mining (Yellow)
+- Coins (Purple)
+- Coins (Yellow)
+- Wild Regeneration (Purple)
+- Crushing Blow (Purple)
+- Crushing Blow (Yellow)
+- Giant (Purple)
+- HP (Purple)
+- Healing Power (Purple)
+- Power Crush (Purple)
+- Power Crush (Yellow)
+- Block (Purple)
+- Block (Yellow)
+- Absolute Defence (Purple)
+- Red DMG (Purple)
+- Defence (Purple)
+- Mega Smash (Purple)
+- Mega Smash (Yellow)
+- Wild Recovery (Purple)
+- Fight Till The End (Purple)
+- Combo Atk (Purple)
+- Combo Atk (Yellow)
+- Additional DMG (Purple)
+- Additional DMG (Yellow)
+- Crit DMG (Purple)
+- Crit Rate (Purple)
+- Increase DMG (Purple)
+- DMG II (Purple)
+- Martial Spirit 4/4
+- Martial Spirit 5/5
+- Martial Peak 4/4
+- Martial Peak 5/5
+- Reaper Set 4/4
+- Reaper Set 5/5
+- Archangel Set 4/4
+- Archangel Set 5/5
+- King Barbarian Set 4/4
+- King Barbarian Set 5/5
+- Skeleton Set 4/4
+- Skeleton Set 5/5
+- Frozen Prince Set 4/4
+- Frozen Prince Set 5/5
+- Green Bag
+- Blue Bag
+- Purple Bag
+- Escape Dominator TT
+- Apex Fighter Title
+- Prime Fighter Title
+- Ocean Title
+- 99 Rounds Title
+- Death Scythe
+- Batbow
+- Shapeless Sword
+- Moon Scythe
+- Xmas Sword 2022
+- Xmas Sword 2022 (Regain 4 HP)
+- Flying Cross
+- Dimensional Rift SW
+- Frozen Prince SW
+- Archangel Sword
+- Blaze Gauntlets
+- Ares Shield
+- Steampunk Shield
+- Devil Wings
+- Cancer Ring
+- Skyblock Classic Title
+- Fairy TT
+- Og Gatling
+- Firecracker Gatling
+- Ocean Gatling
+- Shadow Gatling
+- Freya Wand
+- Xmas Wand
+
+## Ambiguous Parses
+- Unit omitted; assumed M: Cumulus Bird P9
+- Unit omitted; assumed M: Wukong Rare P6
+- Unit omitted from range; assumed M: Firecracker Gatling
+- Unit omitted from range; assumed M: Gold Gatling
+
+## Unmapped Names
+- None reported.
