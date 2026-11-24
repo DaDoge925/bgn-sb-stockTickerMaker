@@ -43,3 +43,12 @@ When updating category logos for the November 2026 ticker, use these exact paths
 - `OTHERS`: `tickerMaker/classic/tiles/btn_shop.png`
 
 When the user provides this reference for logo updates, modify only each category's `logo` value. Preserve all item names, icons, prices, category order, and other JSON fields.
+
+## MVP sword icon variants
+
+When resolving `icon` values for a new newsroom stock index (see `.github/copilot-instructions.md`, Section 6 "Icons"), items declared under MVP swords in the raw pricing Markdown (e.g., `MVP SWORDS` / `# MVP SWORDS #1` / `MVP swords #2` in `november2026pricing.md`, mapped to `WEAPONS`) often have both Normal and Rare (`(RR)`) entries. Swords declared under `SEASONS` (`VIP SECTION` in `november2026pricing.md`) are **not** included in this rule and are excluded from this `_1.png` / `_2.png` mapping:
+
+- If `tickerMaker/tiles/` contains two sword variants ending in `_1.png` and `_2.png` (such as `g1048_suit_{name}_sword_1.png` and `g1048_suit_{name}_sword_2.png`), always assign `_1.png` to the Normal sword and `_2.png` to the `(RR)` sword.
+- If the two variants are an unsuffixed `.png` and `_2.png` (such as `g1048_suit_aquaman_sword.png` and `g1048_suit_aquaman_sword_2.png` for `Poseidon Trident`), assign the unsuffixed `.png` to the Normal sword and `_2.png` to the `(RR)` sword.
+- Do not reuse a `(RR)` item's `_2.png` icon for its Normal counterpart (or vice versa, e.g., in `Zeus Lightning` do not copy `g1048_suit_zeus_sword_2.png` onto the Normal item when `g1048_suit_zeus_sword_1.png` exists in `tickerMaker/tiles/`). Always check `tickerMaker/tiles/` for the matching `_1.png` and `_2.png` pair before falling back to another variant or an armor icon.
+
