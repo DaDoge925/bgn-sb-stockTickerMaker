@@ -443,7 +443,7 @@
     "items": [
       {
         "name": "Poseidon Trident",
-        "icon": "",
+        "icon": "tickerMaker/tiles/g1048_suit_aquaman_sword.png",
         "prevPrice": 110000000,
         "currPrice": 110000000
       },
