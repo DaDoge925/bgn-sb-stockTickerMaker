@@ -1950,7 +1950,7 @@
       {
         "name": "S45 Gale Ninja 4/4",
         "icon": "tickerMaker/tiles/g1048_suit_wind_ninja_armor.png",
-        "prevPrice": 60000000,
+        "prevPrice": 25000000,
         "currPrice": 60000000
       },
       {
@@ -1962,7 +1962,7 @@
       {
         "name": "S45 Gale Ninja 5/5",
         "icon": "tickerMaker/tiles/g1048_suit_wind_ninja_armor.png",
-        "prevPrice": 80000000,
+        "prevPrice": 45000000,
         "currPrice": 80000000
       },
       {
