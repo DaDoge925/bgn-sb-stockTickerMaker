@@ -257,13 +257,13 @@
       },
       {
         "name": "Wraith 4/4",
-        "icon": "",
+        "icon": "tickerMaker/tiles/g1048_suit_wrath_armor.png",
         "prevPrice": 300000000,
         "currPrice": 300000000
       },
       {
         "name": "Wraith 5/5",
-        "icon": "",
+        "icon": "tickerMaker/tiles/g1048_suit_wrath_armor.png",
         "prevPrice": 450000000,
         "currPrice": 450000000
       },
@@ -695,7 +695,7 @@
       },
       {
         "name": "Wraith Sword",
-        "icon": "",
+        "icon": "tickerMaker/tiles/g1048_suit_wrath_sword_1.png",
         "prevPrice": 195000000,
         "currPrice": 195000000
       },
@@ -923,7 +923,7 @@
       },
       {
         "name": "S2 Nightmare Knight Sword",
-        "icon": "",
+        "icon": "tickerMaker/tiles/g1048_item_nightmare_sword.png",
         "prevPrice": 14000000,
         "currPrice": 14000000
       },
@@ -935,7 +935,7 @@
       },
       {
         "name": "S2 Nightmare Knight Bow",
-        "icon": "",
+        "icon": "tickerMaker/tiles/g1048_item_nightmare_bow.png",
         "prevPrice": 6000000,
         "currPrice": 6000000
       },
@@ -2435,37 +2435,37 @@
       },
       {
         "name": "Polar Ice Shark P5",
-        "icon": "",
+        "icon": "tickerMaker/tiles/jump_face_shark_pet.png",
         "prevPrice": 180000000,
         "currPrice": 150000000
       },
       {
         "name": "Polar Ice Shark P6",
-        "icon": "",
+        "icon": "tickerMaker/tiles/jump_face_shark_pet.png",
         "prevPrice": 425000000,
         "currPrice": 250000000
       },
       {
         "name": "Polar Ice Shark P7",
-        "icon": "",
+        "icon": "tickerMaker/tiles/jump_face_shark_pet.png",
         "prevPrice": 625000000,
         "currPrice": 350000000
       },
       {
         "name": "Polar Ice Shark P8",
-        "icon": "",
+        "icon": "tickerMaker/tiles/jump_face_shark_pet.png",
         "prevPrice": 875000000,
         "currPrice": 600000000
       },
       {
         "name": "Polar Ice Shark P9",
-        "icon": "",
+        "icon": "tickerMaker/tiles/jump_face_shark_pet.png",
         "prevPrice": 1500000000,
         "currPrice": 1050000000
       },
       {
         "name": "Polar Ice Shark P10",
-        "icon": "",
+        "icon": "tickerMaker/tiles/jump_face_shark_pet.png",
         "prevPrice": 4250000000,
         "currPrice": 2750000000
       },
@@ -3047,37 +3047,37 @@
       },
       {
         "name": "Polar Ice Shark P5 RR",
-        "icon": "",
+        "icon": "tickerMaker/tiles/jump_face_shark_pet.png",
         "prevPrice": 950000000,
         "currPrice": 800000000
       },
       {
         "name": "Polar Ice Shark P6 RR",
-        "icon": "",
+        "icon": "tickerMaker/tiles/jump_face_shark_pet.png",
         "prevPrice": 1900000000,
         "currPrice": 1050000000
       },
       {
         "name": "Polar Ice Shark P7 RR",
-        "icon": "",
+        "icon": "tickerMaker/tiles/jump_face_shark_pet.png",
         "prevPrice": 2750000000,
         "currPrice": 1650000000
       },
       {
         "name": "Polar Ice Shark P8 RR",
-        "icon": "",
+        "icon": "tickerMaker/tiles/jump_face_shark_pet.png",
         "prevPrice": 4250000000,
         "currPrice": 2650000000
       },
       {
         "name": "Polar Ice Shark P9 RR",
-        "icon": "",
+        "icon": "tickerMaker/tiles/jump_face_shark_pet.png",
         "prevPrice": 8500000000,
         "currPrice": 9000000000
       },
       {
         "name": "Polar Ice Shark P10 RR",
-        "icon": "",
+        "icon": "tickerMaker/tiles/jump_face_shark_pet.png",
         "prevPrice": 19000000000,
         "currPrice": 19000000000
       },
@@ -3785,13 +3785,13 @@
       },
       {
         "name": "Wraith DEF 1 4/4",
-        "icon": "",
+        "icon": "tickerMaker/tiles/g1048_suit_wrath_armor.png",
         "prevPrice": 2000000000,
         "currPrice": 2000000000
       },
       {
         "name": "Wraith DEF 1 5/5",
-        "icon": "",
+        "icon": "tickerMaker/tiles/g1048_suit_wrath_armor.png",
         "prevPrice": 2500000000,
         "currPrice": 2500000000
       },
@@ -4295,13 +4295,13 @@
       },
       {
         "name": "Reaper Set 4/4",
-        "icon": "",
+        "icon": "tickerMaker/tiles/g1048_suit_death_armor.png",
         "prevPrice": 30000000,
         "currPrice": 30000000
       },
       {
         "name": "Reaper Set 5/5",
-        "icon": "",
+        "icon": "tickerMaker/tiles/g1048_suit_death_armor.png",
         "prevPrice": 50000000,
         "currPrice": 50000000
       },
@@ -4409,7 +4409,7 @@
       },
       {
         "name": "Shapeless Sword",
-        "icon": "",
+        "icon": "tickerMaker/tiles/g1048_item_chaossword.png",
         "prevPrice": 110000000,
         "currPrice": 110000000
       },
@@ -4421,13 +4421,13 @@
       },
       {
         "name": "Xmas Sword 2022",
-        "icon": "",
+        "icon": "tickerMaker/tiles/g1048_pixel_christmas_sword.png",
         "prevPrice": 300000000,
         "currPrice": 300000000
       },
       {
         "name": "Xmas Sword 2022 (Regain 4 HP)",
-        "icon": "",
+        "icon": "tickerMaker/tiles/g1048_pixel_christmas_sword.png",
         "prevPrice": 600000000,
         "currPrice": 600000000
       },
@@ -4487,13 +4487,13 @@
       },
       {
         "name": "Devil Wings",
-        "icon": "",
+        "icon": "tickerMaker/tiles/g1048_suit_demon_cape.png",
         "prevPrice": 15000000,
         "currPrice": 15000000
       },
       {
         "name": "Cancer Ring",
-        "icon": "",
+        "icon": "tickerMaker/tiles/g1048_zodiac_ring_cancer.png",
         "prevPrice": 12500000,
         "currPrice": 12500000
       },
@@ -4517,7 +4517,7 @@
       },
       {
         "name": "Shadow Gatling",
-        "icon": "",
+        "icon": "tickerMaker/tiles/g1048_gatling.png",
         "prevPrice": 200000000,
         "currPrice": 200000000
       },
@@ -4529,7 +4529,7 @@
       },
       {
         "name": "Xmas Wand",
-        "icon": "",
+        "icon": "tickerMaker/tiles/g1048_pixel_christmas_wand.png",
         "prevPrice": 80000000,
         "currPrice": 80000000
       },
