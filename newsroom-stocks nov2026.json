@@ -1,7 +1,7 @@
 [
   {
     "category": "ARMORS",
-    "logo": "tickerMaker/classic/tiles/diamond_helmet.png",
+    "logo": "tickerMaker/classic/tiles/btn_weapon_strong2.png",
     "items": [
       {
         "name": "Poseidon 4/4",
@@ -439,7 +439,7 @@
   },
   {
     "category": "WEAPONS",
-    "logo": "tickerMaker/classic/tiles/diamond_sword.png",
+    "logo": "tickerMaker/classic/tiles/btn_weapon_strong.png",
     "items": [
       {
         "name": "Poseidon Trident",
@@ -889,7 +889,7 @@
   },
   {
     "category": "SEASONS",
-    "logo": "",
+    "logo": "tickerMaker/classic/tiles/btn_survial.png",
     "items": [
       {
         "name": "S1 Necrotic 4/4",
@@ -2071,7 +2071,7 @@
   },
   {
     "category": "TITLES",
-    "logo": "tickerMaker/classic/tiles/diamond.png",
+    "logo": "tickerMaker/classic/tiles/btn_world_vip.png",
     "items": [
       {
         "name": "Zeus TT",
@@ -2287,7 +2287,7 @@
   },
   {
     "category": "PETS",
-    "logo": "tickerMaker/classic/tiles/flower01_32.png",
+    "logo": "tickerMaker/classic/tiles/btn_vip.png",
     "items": [
       {
         "name": "Roar Flame Tiger P5",
@@ -3517,7 +3517,7 @@
   },
   {
     "category": "MVP ENCH",
-    "logo": "tickerMaker/classic/tiles/bluehelmet.png",
+    "logo": "tickerMaker/classic/tiles/btn_task.png",
     "items": [
       {
         "name": "Poseidon DEF 1 4/4",
@@ -3943,7 +3943,7 @@
   },
   {
     "category": "OTHERS",
-    "logo": "",
+    "logo": "tickerMaker/classic/tiles/btn_shop.png",
     "items": [
       {
         "name": "Pet Skill Map",
