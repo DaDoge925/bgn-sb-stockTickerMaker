@@ -2442,31 +2442,31 @@
       {
         "name": "Polar Ice Shark P6",
         "icon": "tickerMaker/tiles/jump_face_shark_pet.png",
-        "prevPrice": 425000000,
+        "prevPrice": 275000000,
         "currPrice": 250000000
       },
       {
         "name": "Polar Ice Shark P7",
         "icon": "tickerMaker/tiles/jump_face_shark_pet.png",
-        "prevPrice": 625000000,
+        "prevPrice": 375000000,
         "currPrice": 350000000
       },
       {
         "name": "Polar Ice Shark P8",
         "icon": "tickerMaker/tiles/jump_face_shark_pet.png",
-        "prevPrice": 875000000,
+        "prevPrice": 625000000,
         "currPrice": 600000000
       },
       {
         "name": "Polar Ice Shark P9",
         "icon": "tickerMaker/tiles/jump_face_shark_pet.png",
-        "prevPrice": 1500000000,
+        "prevPrice": 1200000000,
         "currPrice": 1050000000
       },
       {
         "name": "Polar Ice Shark P10",
         "icon": "tickerMaker/tiles/jump_face_shark_pet.png",
-        "prevPrice": 4250000000,
+        "prevPrice": 3750000000,
         "currPrice": 2750000000
       },
       {
@@ -2526,7 +2526,7 @@
       {
         "name": "Blaze Rex P8",
         "icon": "",
-        "prevPrice": 375000000,
+        "prevPrice": 350000000,
         "currPrice": 350000000
       },
       {
@@ -4452,7 +4452,7 @@
       {
         "name": "Archangel Sword",
         "icon": "",
-        "prevPrice": 50000000,
+        "prevPrice": 90000000,
         "currPrice": 50000000
       },
       {
